@@ -1,0 +1,928 @@
+"ASV" "cluster" "median" "Kingdom" "Phylum" "Class" "Order" "Family" "Genus" "Species" "BOLD_bin" "representative" "n_reads" "n_samples"
+"1" "089ba876a0777bb7286689befba13374" "Blattidae_cluster1" 0.0111457281372255 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 1 94728818 4648
+"2" "6197512540a2b395feef15313b9c9fff" "Blattidae_cluster1" 0.000270822522055 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2462446 4515
+"3" "b63b493684ac5356463c0bc9bae5fb3d" "Blattidae_cluster1" 0.0001156595291886 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1005986 4266
+"4" "361b066db48b58f98b5362f900b666c8" "Blattidae_cluster1" 7.22629504240029e-05 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 682452 3984
+"5" "6d52e07aac4928c2491e4bee938ea69f" "Blattidae_cluster1" 6.82069651942383e-05 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 626735 3582
+"6" "d861aca72e6d53154449bb162639550c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 588489 2281
+"7" "0332148ab35b18457f90b0bec25b2d08" "Blattidae_cluster1" 3.62810313882752e-05 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 435628 2951
+"8" "5c73dc134e40d20b05a1c3c38da2ca99" "Blattidae_cluster1" 3.98409019980212e-05 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 422900 3147
+"9" "3b99a484dd0036ad6d93cf24c3a1c6c3" "Blattidae_cluster1" 3.34545835944147e-05 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 386601 3008
+"10" "5b843c242ff5cbeb2cb9fd16ac04db8d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 85406 38
+"11" "fff1c04b93bc9964330589766c96367e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 39117 111
+"12" "9d2336d29f3ace5fc691f66aeee03c58" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 17963 24
+"13" "8793532aca36b4fa4eb503bb54229910" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 12275 7
+"14" "f6aa0e2b56e540b24de1eb5cb7108107" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 10566 177
+"15" "023341d814c765d9739d1c05c1c6df18" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 9168 930
+"16" "9b8a61629a6b72e8415181934c141d2b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 8502 1372
+"17" "1e5dc5e34d7fa725c46d6ba718ea91d9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 7679 14
+"18" "9d304d5198891e8d533720c6aa12a3bf" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 7295 22
+"19" "7abcab72c6d3a0fb875f2f6620b28972" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 6759 126
+"20" "6055e6ee0f80ccdb0159205097babcab" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 5340 7
+"21" "d4654b786fdfaa3f36488ac98484ed39" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 3430 74
+"22" "8df527f855fdb25c732d75f1ab6b94e6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2949 10
+"23" "95630108854bc67087e6518e82718372" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2302 5
+"24" "58ede65886e9b7b93eda36f6e9791594" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2151 10
+"25" "772767fbfcecc561592ab069b1cc3be0" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2116 5
+"26" "d5ad45d417682661f7dade6b676f61ee" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2071 5
+"27" "64fbc8aafb5d5747b9adc2b28876d7fe" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1765 420
+"28" "24b4ddd6f4ab0fc55687df33e82e20ca" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1679 8
+"29" "a95318a083a94c20dfefe334134a83c6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1384 6
+"30" "c8077d8d5876883b5a85ca5daf68eddf" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1295 2
+"31" "c72969a18ac356a76d9cffdded48b3a5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1220 6
+"32" "0f4dbaf7015bbe69c05d340339915694" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1176 4
+"33" "76dfdf26beacb380813b2f2d871b194c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1153 270
+"34" "14f0e425f7b0d677837ece69fe7b0fcd" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1091 8
+"35" "4da552c3a3e313d039b2fdd7ed259b82" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1061 4
+"36" "b07442c98bbe34a8e4df9d37738d0a67" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 991 3
+"37" "f505e2c1fa0a4053af3eba3a06f1602e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 962 14
+"38" "f80b5410384d5714460fadb299dc1506" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 922 2
+"39" "80cb285179a401acf99d25bc35c1f02e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 911 4
+"40" "e1abd0494edcf4f85f39fe5e82a3208d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 886 3
+"41" "2e12aa61359cce7620e3ee39e588cd82" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 878 1
+"42" "190c17c64345cc08ea4f37565dd4e614" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 857 4
+"43" "ab8b2cd9d17479aa857b8e7b8c4622bf" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 771 297
+"44" "c396f3f0459412adc8520dec7d123af1" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 770 3
+"45" "3c5adde0f875f2d6573d9d9adcbbef5c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 673 3
+"46" "ed30d83f80c06d687c7710b6e51c75b1" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 624 14
+"47" "468f41d80278d4556ab10cf48276c0ed" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 617 4
+"48" "40170688c62d22d61458908b71afc326" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 612 2
+"49" "6c7e9fe9b6ddfd5443bc6f2cf5d67f4b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 609 1
+"50" "eeeb92fe7f624429940d58c321dd970b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 598 2
+"51" "95fcf84f381a5ac67f8f5062b88453fc" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 587 2
+"52" "865a078982851aab585f42fba2075481" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 552 2
+"53" "b9c17852f82d8a737fe0b7d547a41b60" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 501 2
+"54" "238b1859f89282de7e38074df28382b4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 424 3
+"55" "9edb6fcdb781f281a57251862e934b7d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 413 93
+"56" "b06ffb25e25b2fd03a65125ba07ae234" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 411 3
+"57" "ed967b3f708fcdbf4892cbf9bb0ab09a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 410 2
+"58" "26bec2fc5871456cd7ec7e10fdcb54ab" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 368 2
+"59" "9dfca28b7be76350b0a90089ec14a699" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 359 3
+"60" "e11139a13b11a53139995e32dc114577" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 337 2
+"61" "46cfee68894c43829f1f02aba38c670f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 324 1
+"62" "e10b1569a264599871b577275b7250d5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 323 9
+"63" "246f0838b749eb57dc1a255b75f2cf24" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 318 1
+"64" "b0242fc4e5b546bf8d53dd2ec8a2efd9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 315 9
+"65" "db534d032503e095dbebe5d65090786a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 309 2
+"66" "de0d2e56b7c1634f557f757e56a4cd5a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 286 1
+"67" "65f681c22dc12c1ccb2e87e1566d31d8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 281 1
+"68" "9e85f39a8493ee7a78a9d6714fc28b9d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 281 2
+"69" "ccf3b8eb99e2e0b0d2f9d91c5582db6e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 281 2
+"70" "56ff96f7aff900ccbefb3b1d8c1a1728" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 279 1
+"71" "006445c0e0c50604f905e4b188582488" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 271 1
+"72" "348651f28abeeffd6109fc08af5fb8c0" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 271 1
+"73" "5a633609445c4c6f0539c1f734016666" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 270 8
+"74" "5818d198206a537d31a5ecc335be8edd" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 264 3
+"75" "2af1f3e533f9b48145567ddd98a0527f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 245 2
+"76" "04984fed65537eb528e1162f1a15d129" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 242 1
+"77" "587d6a2a211784d9663ca82de2bd870c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 238 8
+"78" "9dfd475878654775dc498f81009597ae" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 232 6
+"79" "dd2a60ebd0eec1e2fd2750ff5eb71b8a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 201 1
+"80" "233b01d3a1e11ca5eb08eb714054ca78" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 192 1
+"81" "594d408eccbecb40ffac4d5fe7eedc3e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 188 1
+"82" "dca6433479bbaa7f6a08131560537649" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 185 1
+"83" "7a2f68d9c28d20004f51d4b0d9b3911f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 183 1
+"84" "249fc5b695f98f61c8055ea17f68240f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 179 1
+"85" "d7f2b522e1a6c0a2945038f37ffd1bd8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 178 4
+"86" "f8cb41bacce137aa15bfb03574e7273d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 175 1
+"87" "a88b278bffda6e5ddfacde7a7eec3723" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 171 4
+"88" "ca997822ce2d8e1cc438a9bb27c92be9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 169 1
+"89" "12ed5d71a29e271a58638ee3aa9718ec" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 163 5
+"90" "8e3719042ba2ee21e6fb9b2f2f7b36f9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 155 1
+"91" "47624a689f01c8a219b523772988980b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 154 54
+"92" "4fb5dc1cac6e13612f805df681dd4cd3" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 153 5
+"93" "b2428e219ca69a4d8a8456967d57e9c2" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 146 5
+"94" "c2ff3dd94472b19698691c5ef31d8bd8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 131 1
+"95" "7271e24f6095022443bf58050ce1e5c3" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 129 4
+"96" "7f863ed6010065e07158207bfc04c00f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 100 1
+"97" "c7f58c898d2b815b270a5be344440243" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 98 3
+"98" "8bad46dc40829462a62e301cd8dd81eb" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 97 39
+"99" "94cf3e73079284f3d646073c1f92a7a8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 95 1
+"100" "b91bd56fb603a35a2d57ab4bc324736c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 95 29
+"101" "3b07f016ed63a594cb4405eef93207ea" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 94 1
+"102" "7b71af9d237793334bf26c2e34254eaf" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 92 1
+"103" "9cb834f166e52e37695c795107fd81b7" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 91 1
+"104" "22bd5ff482f0e8c9ef868c415864b3a3" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 88 1
+"105" "08bf4ea454896c1689ed8a2480248da3" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 83 3
+"106" "9bbc249babe2b3cb3ea9031b19629259" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 82 1
+"107" "fe9d74e5b76e4886d830a79fa35da7eb" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 82 1
+"108" "4425d42dd32fd6b498b5b8d609e65ef6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 73 2
+"109" "b1899498856c1494f28aadca5913daf9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 67 2
+"110" "9f3cf6a546780912a966477560fff155" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 66 2
+"111" "56699e43092e61dff879dba2843f4603" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 64 13
+"112" "8e7360617d1b03a1567bab038a6fb5a6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 63 2
+"113" "b475b06672359ae3a6fa8b4590c44b4a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 61 1
+"114" "181f279831ad3b2c671b590cd9f94618" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 57 1
+"115" "0c93f2fad1ab79960edb5b7df5c92b52" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 54 2
+"116" "9862cc132d647f011316bd7c6fb8cf70" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 53 1
+"117" "1b76a72d10b3c141fe37909bde012735" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 51 2
+"118" "e7d9b7a2640d1a3e75788c1f6b24b8bb" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 50 1
+"119" "08b4ac4379f9c375590e9642b6064e2e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 49 1
+"120" "bbe912b0905c7e3942d8a162faf83e38" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 49 1
+"121" "d6651587ba7727c5cfc5252bfa76b1e9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 49 2
+"122" "37bba2f768bdc076be069a0d8b2ffbf8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 48 6
+"123" "057ec536ccb40b9fb3c29a24bd403ab9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 47 1
+"124" "ef2ad770aee0fdb49d050fe5035e25fa" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 47 2
+"125" "364f97ff2411bede61208820025b1d81" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 45 1
+"126" "e1ff9862692eb58568babf91bd310b48" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 45 1
+"127" "2a388e83910c3ec7a71e735dfa33c7a8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 44 1
+"128" "b4a5cf89417db24f9beb5318afcf5bf5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 44 1
+"129" "d3c8381d41562de52c47e69aa990f24e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 44 1
+"130" "38ff64fd8022b7ca3d7236d84cac400c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 43 1
+"131" "5b5245686628688b2e061920c352823e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 43 2
+"132" "bd1cff813be3f09ff7e3c8fcc6821324" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 43 1
+"133" "df408a19ad068d05af1dbcbf92d4cb36" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 43 1
+"134" "c68e40f3d346b7a4156814aaae87e822" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 42 1
+"135" "d30641181281fdca1b0ac370d3bab2cd" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 42 1
+"136" "36d0d1dea75c288a7b0084eb12709aec" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 41 1
+"137" "40a96ef640f48b413d21bc1f749ef279" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 41 1
+"138" "b8df303c671d22f6f7669e9bc4e21704" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 41 1
+"139" "d244d55c26ac5e351381b6d4cee8b060" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 41 1
+"140" "6a84eb075ad22b0f0c69159cdf543cf5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 40 2
+"141" "b681d945cfeb8c075af66d555ece06da" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 39 1
+"142" "b84fc0422fd27d8d4a1ddb55dd2c00ef" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 39 1
+"143" "08d9af31fc927c2df56e63a56f56130b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"144" "291032982b08c6d05c5eae637b0bd869" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"145" "3d6145b7a9de03132689a67d5d85ae2b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"146" "71ab03b9d7c5c1e7c10ccbfe10ecefe6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"147" "a2df0fac1addb8ace6900d679e8b04bb" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"148" "ca76ff911e0a9cda466d33b7f9f782e6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"149" "df983d2ad73b6fead6c9d18365102a6f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"150" "8f24fa3b1ed047c2480cbc2c0317738f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 37 1
+"151" "749f99c7b4c03beee76dc844ae14fbc6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 36 1
+"152" "c2a51a70b8fa649871fa330edae15ef0" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 36 1
+"153" "f02ea057072c56c8b5d98a7f00df4b33" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 36 1
+"154" "881087980de44c5519aee7fb058d8f62" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 35 1
+"155" "3cef4f9ee1a8db189d33795c6f99085a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 34 1
+"156" "799a3c3009a2ffe7d881b624b0f784cf" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 34 1
+"157" "7c03cc532d3d2c051308d64fed87c44d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 34 1
+"158" "8e01bf6dc8a84e8d0b626926796a8e2b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 34 1
+"159" "fe335a9667d049bd9b3d3078786470c1" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 34 1
+"160" "381b1ed9e19552e5c591c94a0d9fc050" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 33 1
+"161" "e56be458bf2fc37f5c56e95454525019" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 33 1
+"162" "f947b30a94d340e310ce76bd33081f3d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 33 1
+"163" "dff90ce4b81457aa85fb68b3c1f35c96" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 32 2
+"164" "085cfed5d02b1057fbfd119b66de63fe" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 31 1
+"165" "0fde67b8eb6b90cd6e3cf1d7f23d5503" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 31 1
+"166" "8938cbd3fe749673845476d650fc1462" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 31 1
+"167" "1673e4029a26585f305ddf0449c1b795" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 30 1
+"168" "8dd390c45c536834a3287453d531a661" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 30 1
+"169" "abbee14d188a6e72d09b404f8dbeba27" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 30 1
+"170" "ea64ab10ff5775a3b7011994a52b8611" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 30 1
+"171" "fb2832fbeabba17678da98019d20a6f8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 30 1
+"172" "1f0375abc32f9c07de957ec319b37074" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 29 1
+"173" "2d5cada0d32c8e8f207816994a9e67a5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 29 1
+"174" "ae515a07aa0039b5ec31ea4f2323dc06" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 29 1
+"175" "b4be2271a82d5557d587afd74a6bb44f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 29 1
+"176" "d15e5523cf0a4684293f3ec997d6f0b6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 29 1
+"177" "7cff22c5dc7aa2f876008ce56b919ed3" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 28 1
+"178" "28f18bb1b6a5e3942c9768ef618920d6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 27 1
+"179" "2c76a349de50c50e0755cf2a6c2bdf7c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 27 1
+"180" "53eec827c3e64214bd788c9239f36700" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 27 1
+"181" "937df3906baec5b9271163df0acc5a99" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 27 1
+"182" "a096ba4542bff677feab241c08cb377d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 27 1
+"183" "9c439dfa4698336df199b1b6746ec1aa" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 26 1
+"184" "08af7195f396e69f0444fb3d966cfaf6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"185" "25181190b9b37ac6c6820ff84c486d1e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"186" "5935cf113376400d397ae00300b3cb28" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"187" "66a6e45543c179f4f17e626efb325d97" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"188" "997cb7fc3844e5d5f80a6ecace1a15d1" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"189" "aa91ccb88a023375f336960fafefd14d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"190" "b9f5051e46894489622df794d310ee42" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"191" "fa43005d36057a6bec048ef9a1e02ffe" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"192" "0b59d372ff5628c11271fddb1c41055e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 24 1
+"193" "5b27e54e5cca4728162a7f6ccf4719f0" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 24 1
+"194" "78f9e6243f96d775e370ae0b3604d168" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 24 1
+"195" "a5e4150c1c8e7f3156944dbe86e3d8b8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 24 1
+"196" "330275ad9678d960fa16b0e5f25a233a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"197" "3ac0b7f4c5a1f753377e76174ab654c4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"198" "9aae70cc19cc9f22b4ebf0c540fafe50" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"199" "b75d30d44429e5fd508b86b459b844f8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"200" "e8967f8382ec422e9d01f9710106603a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"201" "57bdd3759eba09d88276dac68e4dbcac" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"202" "c22dca0d04248d532d9d7799e826aa8c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"203" "ecbbe4a63a4f1a6d5d7c0678db7d239f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"204" "f2bacdcc555f546e74a70be8259badb1" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"205" "27902668789d73db1929ab8a9e561d25" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 21 1
+"206" "70dc958a0c00eace72298a8212356b3f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 21 1
+"207" "83bcf0e00ad44be31b7298f4907b6046" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 21 1
+"208" "b21823997a298ebcf8a913a5b610d299" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 21 1
+"209" "fc93e3a5568ded92016e3406f968cb1d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 21 1
+"210" "0e9c6a39115a54ed5f8e359dd564a914" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 1
+"211" "1ec46b47763dfa14ded99cf3a18a2743" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 1
+"212" "85abc8e80c49912e386ab684e8a04d2d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 1
+"213" "89a565ccf613a9dba489ea3ea89c74ae" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 1
+"214" "8b7eb5327c18b0df1a0602d696668d61" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 1
+"215" "8dc7157dc8b7f4e9ac7b7a1c91522777" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 1
+"216" "beab6f70636dec6ec6b6592b6752dd5b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 1
+"217" "603417efd815b26c38f5ba1820a0c064" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 19 1
+"218" "69b80595db578a55a50dbe5c27111c49" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 19 1
+"219" "e38b0dca3b51ac2a8f9540c438090453" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 19 1
+"220" "f8666b30f476055cc06538773990c4b0" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 19 1
+"221" "8b6ed2fb9c3a6b160354cf551f400842" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 18 1
+"222" "b82d047a49ceb7447c63ce34e6e25610" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 18 1
+"223" "bcbe88d4e98713cf2449e41935c8ffb9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 18 1
+"224" "cd5dc8c25923b4c12400cdef05b9a86d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 18 1
+"225" "1a89619b844aae0bdd514f81c102470a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 17 1
+"226" "33c2b0e56bd912cc45f7521266421289" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 17 1
+"227" "ec847d773b6446e6a26193fc05bb88c9" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 16 2
+"228" "2d55dc5cc41f1eb0301498a229b57bee" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 15 1
+"229" "89bc8b3628563946ac484dc5e8d2276d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 15 1
+"230" "368e166af65eb3638f10b930a256e90d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 14 1
+"231" "bfca88cd90e93d593f046ab553e5250e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 14 1
+"232" "fc707e9e3f5eca6ad9fe459c6a35cbc4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 14 1
+"233" "a9b19437b85fd4265aeb9396469ac4ed" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 13 1
+"234" "a9d444b5be44ab4d95f018c442e4a5c8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 13 1
+"235" "da32c8bd0c8f3e1bcb52565270fd2678" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 12 1
+"236" "5f5cb85c82e7c1efdf37af8d3d6105a2" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 11 1
+"237" "3c9244661afa370d265f2002f56555f4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 9 1
+"238" "eeb612e75276bbef1b42ee230a37da29" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 8 1
+"239" "8c46c53d5c1fb8d03ab8e12792db4a92" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 7 1
+"240" "31fa500797cbb8761e50cf1adbb5cb95" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 6 1
+"241" "ab61cc8b24fcdbfdb595e04beb99b7d8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 6 1
+"242" "59d10a3f41d7b9bb9f7f8fd81788bfb4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 5 1
+"243" "d0328acfd5d8a36b39d4968677d34c89" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 3 1
+"244" "31d180faddec28d8edebb35211f50cde" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"245" "4cea817bf8dbf28f7e0b5348b6b9b322" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"246" "8ca7ab20f4ad083eb037fc184350ae77" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"247" "ce7c25a43fbf28287dfea09bb4610863" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"248" "f6a21c2b065f9a8d2a6c62263df236c3" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"249" "2b7b4f46eb864ba70104ff9cd6b45420" "Blattidae_cluster1" 0.0001863564275853 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1519651 4072
+"250" "c47649a288f4aca98c23b1d41b78e147" "Blattidae_cluster1" 8.73551651362042e-05 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 796970 3914
+"251" "ac963f42052b4fa9a1728668d7022087" "Blattidae_cluster1" 5.42241698529312e-05 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 555463 3151
+"252" "f0c5fe9d30617aebb4059b54ea9476f1" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 549956 2583
+"253" "b20a5ff33b744d12467a80e98baa7103" "Blattidae_cluster1" 4.8223149178312e-05 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 535243 3009
+"254" "b21787e1fe63bdbbe7771de937fbcb64" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 521607 2469
+"255" "583c09f759202ef6dead525f1f660bf3" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 388167 2165
+"256" "d00145e333d953f142761fc2723091f4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 247504 1980
+"257" "4a44c3fec877e81012d5867a165052d8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1745 228
+"258" "6618a114dc0ad2ac7bb7b1c57ee18687" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1258 6
+"259" "fe4b95de9078350cf2f98b4c84b909dc" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 129 1
+"260" "93cbccad9ef54244d6892b4eb1bfe5ca" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 96 1
+"261" "144ed6742e894951de3f4036e2527ecc" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 93 1
+"262" "d7d8d810087c6137703cf21928906e90" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 56 1
+"263" "1267d0572609a6c8ebf00497fd07424b" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 54 1
+"264" "a9b5ef8fcd112efa88cbdc21f1b84ae1" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 54 1
+"265" "47f57f1a368b048a1ce52da4e171e25c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 44 1
+"266" "0d2e1cc04baed4675b2d0038aaead2a5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 40 1
+"267" "d9ce4cf329b7e9c597aa52e9e80b6bc8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 40 1
+"268" "2f6ceda25b9737e6bbe2b73458732451" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"269" "f8e9b2c8553c7cba44f6860234f30aae" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 38 1
+"270" "4fbb55c6105ba2d4339ed9b4a2833173" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 37 1
+"271" "15f22d42ad35a12f365bf65337dfcdd2" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 36 1
+"272" "0d2aee818c9f62314c97d102043c9094" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 35 2
+"273" "7ff5164d1d104fe5df600912d15caf81" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 33 1
+"274" "f90b233e11ac4a07ea86e4d1c1a6f7c8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 33 1
+"275" "3f92ae89a88b3021edf9b4e2e714b018" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 31 1
+"276" "ac7360df97cd7b65bb7d006e37f5397c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 31 1
+"277" "15f990e76570acab4cc8b764e74f2c9a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 29 1
+"278" "6ca05d75f44c07a4605ced7c7709a1ca" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 27 1
+"279" "32d34ded91b42df1091063eee1ad368f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"280" "f2852b316154d9a8525cf97d9f864fdf" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 25 1
+"281" "b9829e62cbbc4ae988cdd74970d1be65" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 24 2
+"282" "36c91613bb4131a16697b717cdc34db0" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"283" "674be0f4bc1d17e33bf74fec46ee8c1c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"284" "83aa02d58925831ed9adbcc437328057" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"285" "83e2778c6b066d3cff44fe31bb891abd" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 23 1
+"286" "31b7ccbdae30eda632fb3b5680f0cb75" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"287" "5bb30407afc728fe9ba3cc3caef2e270" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"288" "9cfd905c1a110d81fb68442a137587a8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"289" "c0d78b6458f2e21b8d9fde075709b2d8" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"290" "dab1634151a5327c6ad3f39f074ba9a7" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 22 1
+"291" "5de7585865c1d72677118f119e009da0" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 21 1
+"292" "7ac8f97d8b9b426592571c876255fcf5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 1
+"293" "7cfbb1325ea9f478912cf616b3e0a992" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 20 4
+"294" "1cf9d55dcff6ea7b5c8c7fb23f680686" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 19 1
+"295" "438c61e9862cadee5daeb4c53a552e89" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 16 1
+"296" "d6f32caaa068e6d858fabdafb46f2dcb" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 16 1
+"297" "86226b2577e120bd6e796dfb1e1ecffb" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 15 1
+"298" "c7baa06803dd80bddf7cb80ed576cfca" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 14 1
+"299" "279887a92b77e8eec7c30b70e03b8d3f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 7 1
+"300" "b0f2d2bb6e120ed230b73e7f08f9b32e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 6 1
+"301" "f6642a8557169abb9e927f4ca71fa1d6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 6 1
+"302" "5abd38b9ba3799bb5192c93a5db4cb0d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 4 1
+"303" "983e6a2ad8e52d55cf413f1815cfcdc5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 4 1
+"304" "a1d777e096f6c7939173b383ae386651" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 4 1
+"305" "c81480aaddb2753dbd6c59d9a25504b4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 4 1
+"306" "00bbc3b853dfa5b338c6aa0f96e0d5cd" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 3 1
+"307" "3ef2e1fd4217e10fd1ae4002f9b86ca4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 3 1
+"308" "408c99e4e9922ccf3120d3bfae019d20" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 3 1
+"309" "f2f506e9516769c5c1e6f39892da4933" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 3 1
+"310" "7daecdb6241f3368e724bf7d5b89e42a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2 1
+"311" "a03ccbff06aca931ee028832735a731d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2 1
+"312" "feadea826f57c3b49949aba1b76bda3f" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2 1
+"313" "22af34863f0881cc582b7cf5a4da7796" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"314" "6564a9b74a61094c57de0c921b009bc2" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"315" "67413ceadd0bce01dcf89f2e780f05a1" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"316" "a577290ca95dcc082336781c873c877c" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"317" "ba370dd980b95931a4b6c6582a4a4d22" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"318" "c58119925cec0b42f0676d88d4c9a24d" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"319" "c6f4c0074fa70e42b3a3dd92377f10fa" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"320" "f9700f76d680db8c10e5dd3b09aee206" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"321" "fc38c5401589d566154e5b110ba27a3e" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 1 1
+"322" "d63c9311fb90fb844ddd08987964799b" "Blattidae_cluster1" 0.0001017202985919 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 894514 3339
+"323" "457dc87f3ac735be0e079a41c1a2f468" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 132315 1171
+"324" "220d7e962e0b0e5737403e97048fa1e6" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 24 1
+"325" "1ed692e5d98958f3dbd0692ef5ab8d43" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 19 1
+"326" "77338ceba12feb9a47a3598783d451be" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 19 1
+"327" "5d115aa6e039433a15b67ba9c3ea2dae" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 16 1
+"328" "beefe2e3b490dab4c08ce1a4cca439b3" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 16 1
+"329" "9e32a639a6b19a3228823026b33aaea5" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 13 1
+"330" "1cbc6dc5fcf4fda67eb50855c7c037e4" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 4 1
+"331" "c656d6297b566021abf279c9b2a8540a" "Blattidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 3 1
+"332" "925ebf11187db20459b7c352df859344" "Blattidae_cluster2" 0.000632150068814 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 1 5195052 4592
+"333" "fbc67d08a0af7dd855fdba914714fa8f" "Blattidae_cluster2" 0.0003109063525839 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2644224 4437
+"334" "642ba955c4f5d5cd146aabfb46d450ab" "Blattidae_cluster2" 0.0002688088307738 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 0 2345276 4488
+"335" "6c442eec86bacb89de43a7ce63065355" "Blattidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 1 25 1
+"337" "8ef7d8699a6e3047c4618ca4546158e5" "Blattidae_cluster5" 0 "Animalia" "Arthropoda" "Insecta" "Blattodea" "Blattidae" "Shelfordella" "Shelfordella lateralis" "BOLAAG9959" 1 3 1
+"25476" "6ab105230a72efb1c10430c7b86cfc37" "Gryllidae_cluster1" 0.0045944438497552 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 1 39408542 4646
+"25477" "6e00f54db041c942b71fc9ea84b7fd4c" "Gryllidae_cluster1" 0.0008531333922984 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 7880926 4596
+"25478" "9fd2252869efdf43cdef8c59af4aa8cd" "Gryllidae_cluster1" 0.0002032035481106 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 2167478 4300
+"25479" "3cecd0c51e16a33464fc056d35f29a35" "Gryllidae_cluster1" 7.46161994921895e-05 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 897026 3096
+"25480" "b043445e7b7c0769537080cae94c7225" "Gryllidae_cluster1" 3.81119774735794e-05 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 444056 3356
+"25481" "f242578ca29450f79f5264a90f3f95c4" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 339907 1153
+"25482" "5f19b3635b1b18dc9915ece9eb1ccd5d" "Gryllidae_cluster1" 2.44808315089285e-05 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 290118 2894
+"25483" "cf45bc21baf26d0a3f7759120c41d85d" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 226599 1416
+"25484" "ff707e8cdd20cfe1a284e4395e1759d7" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 219848 1594
+"25485" "2c4c276330b471a893fe1333b07be876" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 210339 1391
+"25486" "1dcd11dcf7be8ae522a634d81fcf2387" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 198970 1261
+"25487" "3b7bea8a63dd89a1ba01021a79170ac0" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 117549 1244
+"25488" "a47875c15016b4601430c7e59953e318" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 106455 646
+"25489" "5917c73e90d8fa0c157f78e7dd98387e" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 96147 1085
+"25490" "8c86283cd7907327e388e18032bb5ce3" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 91465 698
+"25491" "17e8282470f5e5f75432e569ec846722" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 71280 387
+"25492" "223e15ed98e16588a464e6e43d718529" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 67674 430
+"25493" "44b5e62086dc37c4e2b53194c67eec81" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 52032 588
+"25494" "0f795d90ab95c6df5cd486d98493cb80" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 39699 219
+"25495" "31cd6103c1b7c5d77a77ff5dbf72ff8e" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 36804 433
+"25496" "52756df1dc1f5f7f44e166e80964cf95" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 36527 331
+"25497" "8104953e1b7e457f7b7592712184b38b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 35696 349
+"25498" "84f1c52a5d9a9d6aec3f529883df12f8" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 31903 169
+"25499" "f396e58f63135916cbada743edadfa30" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 31749 192
+"25500" "dc4a548b61bfcc8e99826b658929ffa6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 30764 369
+"25501" "7804aa0beed7a8e6d2c9f14ad82735dd" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 22870 269
+"25502" "f457bb03d482af6efd913b237abc624e" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 16659 148
+"25503" "3666bab003fa66fae1314e377ab6dc45" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 13870 144
+"25504" "b3e89b22dc4d5f821586d7303665a11a" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 9897 121
+"25505" "f6a45be4b6f4e577e8318a937125ce8a" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 9049 133
+"25506" "96fe06f327345d200c8e51e3f2d7cca8" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 6351 52
+"25507" "394dcf9ddf7638e978a50bcabb7604d3" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 5331 348
+"25508" "8086262ab1731dfa96198fe6eb14644e" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 4872 414
+"25509" "274eafd2dc775be467b61644e99d9d0b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 3316 24
+"25510" "f831e4547d9d7215971b34fde26ff8e6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 3016 34
+"25511" "93d8b5945e2f9f521c78405f3c691d88" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 2334 476
+"25512" "7ac7c9a68aa68a91cd78d6eebed47229" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1619 7
+"25513" "095e15291665fd544a4bfbd5064be670" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1323 2
+"25514" "89a0b38abf10ee9dce68940e6316440d" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1048 135
+"25515" "0be2ed61eeb78539a1e820e90d334ca3" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 977 3
+"25516" "667de023d5a192d4e697458572ace165" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 963 7
+"25517" "fe0048925a1fd867cd6a0ef7eef61a46" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 784 196
+"25518" "9fa42e4d8697db6346c772d6c7b0e57b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 767 1
+"25519" "c3f5512874401d9fbdda2417ec0be5f0" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 527 3
+"25520" "6a1b328ce8b5118d5e4fccfa262f4333" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 502 1
+"25521" "59c4b9f7935f9c672a2fc182f28d1f40" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 445 16
+"25522" "b8d6df33e3b0b12220422b2c15eb8ec7" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 440 1
+"25523" "baef5ecd3253202842e26e888be13b12" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 439 29
+"25524" "22b2c1816cbd742daf95538c153cd3b1" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 422 2
+"25525" "e216c24644c1704c07a015f027f6d092" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 407 3
+"25526" "eb5642dde2a6e9e6a96d0a399912652c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 396 15
+"25527" "308a7335ac848c82210d1a5187542d15" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 321 1
+"25528" "78fea867190057c20898f92dfb88be64" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 282 61
+"25529" "70a77ae964c044cf7dbb75afaa166183" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 270 1
+"25530" "4cd7e5367b41e8ab6a5b32a79c79352e" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 266 1
+"25531" "47b19c5c66da46c98e2dfb9ab1253fb8" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 253 1
+"25532" "9725aaf692d3dc146f05195a2251448c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 193 1
+"25533" "78fee2d2506072613fdbd28874dd7507" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 192 1
+"25534" "ca0ff4de850d4b06314429b908aa219d" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 164 1
+"25535" "1b237d3ac440b5d3098b00d7605fcea4" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 159 1
+"25536" "0cc1ac2c0e6394755cc66f8dc30f1003" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 140 1
+"25537" "b80f2957589e0ad41592de09b48f0970" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 138 1
+"25538" "f24a2b89916e3cac57b514b3bf5f2697" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 135 8
+"25539" "20d1736ce11f543d4fea28bc394a617a" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 125 5
+"25540" "006edfa5fa053b723c532bf258dd1365" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 108 1
+"25541" "d334457a625c2552ee941b470a992d36" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 103 1
+"25542" "ed686130c3d12eeb23a657caa26a471d" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 97 1
+"25543" "124ae981b5bd06599e427b50d747dac5" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 96 1
+"25544" "575e30bf50462cce0e559f1e41acac6e" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 92 1
+"25545" "d2535f93fa8ab67666ff0a10130695c6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 91 7
+"25546" "f851ce1720e6ab9ae67067ea5f743100" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 88 1
+"25547" "f0155cbce1ecfd86d9c9171e29c62e38" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 85 1
+"25548" "200462058165ae170a5dba09973073b7" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 79 2
+"25549" "dc3dd85da74183ed93ef5ab049784271" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 73 1
+"25550" "c3f9b914af0f36aa327d1c1c9088b556" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 72 3
+"25551" "e780bcf480ff6d376cfa5b0be354a70c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 71 1
+"25552" "5fde8b8f5de66943d4f8bab28664ab02" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 70 1
+"25553" "71818e406043f11cce52aa7caf9ac805" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 62 10
+"25554" "584efdd7ded50744c14374361161b7c9" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 61 6
+"25555" "42a677fafb7a74dbf02c2dacc1bc4d8e" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 60 2
+"25556" "70c6d3a14922f62d9b7131aca417cdef" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 60 2
+"25557" "962e6464cbc130ac2a827fff5a6ca65c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 60 3
+"25558" "8d86782b9d41b53468d2497588cd6f37" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 59 2
+"25559" "2fc964053513e82e36dbc1addfafd7b8" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 55 1
+"25560" "8aae2f733d458054723fe3365b9cb661" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 48 1
+"25561" "b675f5cec2567998e1575d1d3447ddd4" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 43 1
+"25562" "53135f0f9e8ebf49bcf1769f24f78e68" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 41 1
+"25563" "5a8e2fd0ddf5d5c1cdad392325499413" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 40 2
+"25564" "b7c6e4f313404f091bc4934ea5447546" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 38 1
+"25565" "49cceb83eeabe4815470cb97874484d3" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 32 1
+"25566" "f7f54857b0ecd95dca95a6f0e8cd3d6d" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 32 1
+"25567" "261bdb3662685a7078cc17c6019636ee" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 30 1
+"25568" "761a1056d4e842d7571e1848cb38f76f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 30 1
+"25569" "a8898325e16dc36df11870f7e7710166" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 30 1
+"25570" "16f3007663b1328be08336b5a66a574c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 29 1
+"25571" "1124edb5474cf42dd0dc3ca9dbc32320" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 28 1
+"25572" "bb3ecdf46526985f92952358a1be6e2b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 27 1
+"25573" "071bcbf29593ced419511b940c841ae6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 25 1
+"25574" "0452c16ef42a32e5a4e23db19311ef5f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 24 1
+"25575" "10810065c673b96e919eef85d9aee3e1" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 24 1
+"25576" "965759ae71f501bb7b2dc92c883f4f99" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 24 1
+"25577" "baed1d0a259597f4ca3aa3bb09125a4c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 24 1
+"25578" "c58fc6160e780cd9b824586e92366f28" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 24 1
+"25579" "22547e5fe2e880dee1a17b338348ae15" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 22 1
+"25580" "85f8710ac671f263005e7ed44745b008" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 22 1
+"25581" "018fe1f1e7347d9835fed1b1e61bce3f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 21 1
+"25582" "fe35432f49870afd43e55bdb083edbff" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 21 1
+"25583" "af6bf317ba7f82b2960dd1d08f4aef2b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 20 1
+"25584" "bc016fa6cdf819ce0d98d0cfe9b6b61a" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 20 1
+"25585" "fb629eb9678b76e9b13878e7ab1d5d80" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 20 1
+"25586" "1493be39232212d939f3c28b6723bd3c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 19 1
+"25587" "24405d7135c7e2d60868b105bbad12db" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 19 1
+"25588" "c5a0a9d0da8aab854e08af7d631dbe2c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 19 1
+"25589" "c628511181958863fa985d80b081c998" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 19 1
+"25590" "d434c0e3ed002a9755be3c1049f51688" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 19 1
+"25591" "147da80a147bdb0b97ca27ecd62e929f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 18 1
+"25592" "31e98942c178c723d6756caaed861aca" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 18 1
+"25593" "4cd554518f90aef9b95759d857e7e450" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 18 1
+"25594" "1cda1c571a5c252200d2cdafc376e743" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 17 1
+"25595" "a4734973a09cffc6af864319f8b59573" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 17 1
+"25596" "4e9b4e2aacec90260a7fd6caf67af84f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 16 1
+"25597" "592fd9186541b3830ce316cd5a681d15" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 16 1
+"25598" "5a67ea11395e594363f5cb9f11a7be60" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 16 1
+"25599" "b4cf0528c90afd4a42d4d72be1a7a647" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 16 1
+"25600" "f83a0a242ce34e1e7e57781793b40013" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 16 1
+"25601" "076ac30d9bf2dae66bb6516469833776" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 15 1
+"25602" "4b24c251a394524a2d684fc5c3174da0" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 14 2
+"25603" "d7c2f150cd2ba0a19b7cc9ece09aef87" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 12 1
+"25604" "6109219a8d2fa83b52d453c1fbe518aa" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 11 1
+"25605" "a38d7e8e2ef3c0f69c7b8e7c9edab033" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 11 1
+"25606" "f7dc27576284653e30ac5f38720dbb6c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 11 1
+"25607" "a038e14020a2c6fe2178d893da2e04f2" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 9 1
+"25608" "af847642148d33add5cf7f4047d2fb13" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 7 1
+"25609" "5a822aaaf7980bc77024b470d365eb66" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 6 1
+"25610" "83ef978a2974dd73d5e378e063fdbf67" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 4 1
+"25611" "1c676732e9428c4a406ac6463be49fbe" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 3 1
+"25612" "f35d8477810038dff100b113baf5e9e0" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 3 1
+"25613" "2f09329ec3cf259e6b2fb4ff4b885fa6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 2 1
+"25614" "0328cf6fa30009d228910ae34d8eded6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25615" "109d6e8dfb4009b74f82765380191f3f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25616" "122948918b568d8804ce33555b043f26" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25617" "38401bdaff6cb9023568d5d9c0fbd423" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25618" "b48f4ce9703142b64bb17262328939df" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25619" "f3a8f1464139b380130929831c8ea2a6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25620" "1f27802eb2c77d73353eece26617bc2f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 287882 1669
+"25621" "6abf15cccad18c88c68251cfe035bd59" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 262836 1586
+"25622" "65082bf59b27ac8f3e8d76e2293a64b2" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 117732 1231
+"25623" "1fba34ececd1655294b736d5dcf195d6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 93039 770
+"25624" "af84d984b5a4548478869163bfb0a567" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 55535 270
+"25625" "5045a423245bd66c88dd1f25f5d63d85" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 36393 260
+"25626" "3e9bf94076459ec9f1529136a5c77dd9" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 27944 338
+"25627" "e457f679cb129ee55b503dc35cd09f83" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 20355 122
+"25628" "9ba70e2f9966cb4c19bca703245ebe1f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 15501 56
+"25629" "e2fb0f7973c8abd73ae08506fc423ed0" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 14215 65
+"25630" "0847ee3c7df453c6ce8ed2d6c476593d" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 9518 51
+"25631" "663d95fba634b1897e9bf081ea41b1e2" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 6564 658
+"25632" "c8dcca9e0c7ac4d891361ff508e50435" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 5137 73
+"25633" "46f003f8a46fd37920195002a446ed2e" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 3374 30
+"25634" "42f0415e08b88aa379c61d7ea1c76b3b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1860 235
+"25635" "c0cdd7391aec0c25ea749ed2ba731360" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 909 53
+"25636" "21854c65a9a2d33afe07639f2705a710" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 690 5
+"25637" "069d3acfa86a0094d2a159a0c1258022" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 356 3
+"25638" "6cacef16ae43c2e942d153c19c1f12fe" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 218 45
+"25639" "01f7ee6a6c66fc3f4846f359cd95165c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 209 84
+"25640" "695fb3599b3dfb6e31551ef6c83e7ab1" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 58 1
+"25641" "9f4ecfbc762031cd27f9acaccec8e75a" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 56 1
+"25642" "2f58a3da899712264286de2f741b61bf" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 55 30
+"25643" "b709712d4e0112b71bbb91b70eb182b7" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 39 1
+"25644" "0a65257bab6087fa8102b87d4c793a5c" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 35 1
+"25645" "50632fc452f8dd9d3379b3c7a0176f35" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 30 1
+"25646" "639722192b260652eaff333b616a43fb" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 28 1
+"25647" "586db665d5b454a0ea68d94a2cf1b6e7" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 24 1
+"25648" "62c90f564674035cc5527b67e0579cf6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 23 1
+"25649" "1f454df1859a1bbf8c3cef106c0b257b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 22 1
+"25650" "31e3e70f370d1ff0e79ffdad42623c4f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 22 1
+"25651" "121ea6030f544c82b7942e2683c67919" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 21 1
+"25652" "5d75379d19c712fba8c22f5a34fd3707" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 21 1
+"25653" "54640f6161008260ccfb254e0549ed5b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 20 1
+"25654" "b662adef6084a1af4828538395c0581f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 20 1
+"25655" "e6f66fff845a1aecbd3f1d2b79a0fb79" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 19 1
+"25656" "412ab0de88e18b4e19219480da10a62a" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 18 1
+"25657" "89c2ce88e2552874cbdcb8b5ef3c4778" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 18 1
+"25658" "82e14322d246cfdf8854b9f726bf7e79" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 16 1
+"25659" "0334e35aefdcec32e347fac2e41e6266" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 15 1
+"25660" "14b9c6abf0eac47b701c5a94b4eb9ea0" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 15 1
+"25661" "2e53169488aff529b018097400ce7d38" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 15 1
+"25662" "1e07b67600d397fe1b88a8bc19dfa9e3" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 14 1
+"25663" "fc1b25b474b1c759e8d99947ca49e4fe" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 14 1
+"25664" "8329eb010d52b00788109698144e4afb" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 13 1
+"25665" "d0b868f0c0267a21f072aefaf75f82fa" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 13 1
+"25666" "753f35e72b840a318c87bc49d3ed1b07" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 11 1
+"25667" "2807c774c33498298390e0eff20d3769" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 7 1
+"25668" "e16a3c87947a8741ccbfb0eed08bbe67" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 7 6
+"25669" "36dfa13364c3e9e216af002f75482497" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 4 1
+"25670" "a2da58be5639ba251f2390c4a4a46f27" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 4 1
+"25671" "2d5c8948b8532958e6b96dfb9cc996bf" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 3 1
+"25672" "33d0c96442f7e18134c68901d7b3f251" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 3 2
+"25673" "b192c7c75cbb4c0f57e4737a03df087d" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 3 1
+"25674" "df8806b831374f5cbe7dd683eb51e3da" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 3 2
+"25675" "6ba67c7a8d50ec81043e9618f8c5026d" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25676" "8165dd47f2b83a503cfd75d7d4febdd9" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 1 1
+"25677" "bdb5b1e20f865ae92e90d0efd2b3a6f6" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25678" "fbdf5bf3fe302d1eb146e2111b8e985f" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 0 1 1
+"25679" "39f00ae5a9d94f5fa69eecec2edc2d41" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus campestris" "BOLAAD6537" 0 14 1
+"25680" "64cf013e54478c4253c4f9ffde2806c4" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus campestris" "BOLAAD6537" 0 9 1
+"25681" "06f005117c3ff4a178606e24802a5434" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus campestris" "BOLAAD6537" 0 7 1
+"25682" "be9e9aa7bb834e0d934b90f09316c0c7" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus campestris" "BOLAAD6537" 0 5 1
+"25683" "fb3687ef627c93b50c7995b6c7c7a47b" "Gryllidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus campestris" "BOLAAD6537" 0 4 1
+"25684" "ee4f3e606f2c431033a0e7f17562b4ba" "Gryllidae_cluster2" 0.0007086440817899 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 1 13154708 3187
+"25685" "06cc310af8556229492e9f43d795bb2d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 6500535 2020
+"25686" "2b60cb16e40676dfce9661f2dcab0d3e" "Gryllidae_cluster2" 3.42251139165214e-05 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 757163 2910
+"25687" "8d5ab39d7d9a831b91c748b1034284fe" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 611957 1969
+"25688" "955fb19cfee3651a2223addaa713cf3d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 529058 567
+"25689" "8c54a6158f2c8b1829ff9ff3083d9671" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 133374 21
+"25690" "5de2d964ddae2fb49167d20458f04db1" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 124674 627
+"25691" "27dfe3b6514c4698a1782dea3fe7eeb5" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 101079 861
+"25692" "c2eccab00f89711b80f55970877fc2f5" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 91609 842
+"25693" "c0e1661533018533b68e0f9b7660eb46" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 58180 502
+"25694" "2249e14cde6431bbe26155fb07719ec1" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 44884 693
+"25695" "b8a7ccd3df2fbbe2bc17f0efb69d67f3" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 44574 533
+"25696" "38582b1347cf9f57cf0106beae97fb87" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 38859 465
+"25697" "28fe46a73fa73c20a14a5f226bcf0da0" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 21994 231
+"25698" "f4db64d4795a11061866162402d98202" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 21393 210
+"25699" "dd2fd0389b9ef9569e447c0a8957dfcb" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 20374 146
+"25700" "a2c85e08ce4ecda7ee65d2c2508fb0cd" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 19292 127
+"25701" "4ffda27efb71c9a74e4a8cd064c7477c" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 16338 151
+"25702" "2b057d288bcccf17ecde14e0a3e0c2d1" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 15969 259
+"25703" "7d8dd4ed5ad39a6173c60d8dc9339956" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 13542 181
+"25704" "bfd4903a7fbbbf73cd7ffbe898a2f985" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 10868 570
+"25705" "b59befe5a5f5f4de8d6ae9167dc78ce8" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 8136 79
+"25706" "2d05ba06786804a8e6a8f27459f2d090" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 6286 290
+"25707" "586a7119f28ad300b169fda4c79bfb4f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 6061 69
+"25708" "4419002488b73da961b12e0ee6d09891" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 3350 347
+"25709" "c3708fedb03ca878984b42d9b2312228" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 2498 18
+"25710" "602d0e916601d1a020a1925b568f7449" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 2065 163
+"25711" "5f8a933181a320f55541342215670c8d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 2043 1
+"25712" "a02a08ba863ced68f74b897e614e208f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1996 28
+"25713" "0e092d191018d30f1901912db8b1fd30" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1912 64
+"25714" "8205523ef65460da5cb5aa1c91b048ee" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1875 104
+"25715" "2f0dde090ada399f5551e5ace41706c7" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1703 34
+"25716" "54171953eefa37bbc7378537194396a6" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1635 157
+"25717" "653d3ae51ac4e74deada3d9c3c88937f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1199 20
+"25718" "5746e769985f713f873fb85f177f9390" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 615 1
+"25719" "a3a9489d08c0e7cdb3e657b82b06d787" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 482 1
+"25720" "e2a39fce607cadce3bf5fb7e5b04d376" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 470 13
+"25721" "0ad76d533ab8195c400c1a27f7c62d0d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 411 2
+"25722" "9b6142bfb3370638eb8b829efb2eef42" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 409 80
+"25723" "fe88d6aebde28e044e80d8fe9051e04f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 347 2
+"25724" "35959a32e5aee823d5540f79fa027cea" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 282 26
+"25725" "7c7e3d2e75501625ad34354e3fd9252b" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 232 13
+"25726" "da5223d971042bc15a7ff51d4e706e8c" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 203 1
+"25727" "f32552696f377591fe16ac6b63dbc349" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 198 1
+"25728" "24dd107a7865add16e9b0a71d1860a5f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 178 1
+"25729" "da9cace47e28070b46cac1f459457df1" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 175 1
+"25730" "59f18d8b7455163128acc38a2f5616de" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 166 6
+"25731" "a19d5898c2aa58d06c5883f6f27d6a35" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 147 1
+"25732" "b460d8a1a37d958200265aefa8fc9c31" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 113 3
+"25733" "9a48ea760b41d44d8dec6f6fc121383f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 112 6
+"25734" "a1953a00ff0ce0be1675cdb7c1060b5a" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 106 1
+"25735" "8ec62400744034ecfcc438261a5140dc" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 105 28
+"25736" "72fac2b6e5a73377d8d9fb5b9b96d27e" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 91 4
+"25737" "75c32b359c413f6aafbd4de28e784bcf" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 84 1
+"25738" "e8d3ecfaaac028e10c415805cf31464d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 78 1
+"25739" "a4f2142d83e522fbfe69ded3a54f22cb" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 77 3
+"25740" "dd3f9420a35aa394dd69e978ca91ca7a" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 76 1
+"25741" "befdf1bff4eb22adf14f8c31b764898c" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 69 2
+"25742" "ceaacc985583789342e1cb6dcc4c7930" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 68 1
+"25743" "4c1cfc68b068416571837eb4177c38f4" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 67 1
+"25744" "0e1a2b60ec26ef65c78ecc2bdc0f98dc" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 66 2
+"25745" "8660057581d95632907db64a1d47eac7" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 57 19
+"25746" "1bd5ecb29e1e7ef3ab0a792180a3f4a2" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 55 9
+"25747" "253bf181633b443c52e9cf5c539f22c8" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 55 1
+"25748" "d12a70c2368f3f80dc9ffb3da2b622ee" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 51 23
+"25749" "f42546f50b7e3405f99f74fffefbdac7" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 50 1
+"25750" "f5bc74c8c10464b043ab5abe3e86a558" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 50 2
+"25751" "8709c074409d273d6680357cf80f1b46" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 47 1
+"25752" "24c95ef0f2a04c4473cefaca44f7aa60" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 42 1
+"25753" "c1d5ada44b1bf530b6ee3a6bc69f94b2" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 42 1
+"25754" "e7586aeb9dcd8d6deb923fc733a445a2" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 41 2
+"25755" "2c40fafca8333fa1a1214e6ee6c7e91e" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 38 8
+"25756" "fff98b2b283162a34aab106ec8753c3f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 36 8
+"25757" "0d4d16c5fe5f3e83c3e4cf0b1be97653" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 35 6
+"25758" "74119615871ee472c60c6d02b4de6aa0" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 35 1
+"25759" "3cf6f75baf754e4a74be7094a83f2e0d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 34 2
+"25760" "7f12d12ab31e9a348b2be7205a092c49" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 32 1
+"25761" "a5df7a54d3c3eaae1498cee25073c95c" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 29 1
+"25762" "d21fd2bcde80e81092d89a3a794f76db" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 29 1
+"25763" "58fa57ff7cf23805d262be84390f45a4" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 28 1
+"25764" "cfea8922bf6f2e9440a1419baac83167" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 28 1
+"25765" "f3a9cf24e765908c6eee2e4ba275bc3e" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 28 1
+"25766" "69e10e525541de92ae6194cb94e2c23c" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 27 1
+"25767" "f662c57f4149605a9f17198d6d1e7929" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 27 1
+"25768" "06e5ace0c065d04b826ba875f9ea5402" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 25 1
+"25769" "903b838c02283480f0170fb488b9ecd3" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 24 1
+"25770" "c2c92f97c3b4dcb96241dd92f9de1f07" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 24 1
+"25771" "015ae7f36a5530fa84fada2de3af2d92" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 22 1
+"25772" "676a1201099c16f05320ef32b7fc59b1" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 22 4
+"25773" "5358e853df185b1871b6b7969691517a" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 21 1
+"25774" "bc549f03743309edc88bf55eed80520b" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 21 1
+"25775" "f70d8c4336add462111d477a9a4a9180" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 21 1
+"25776" "0acb4105e57e62195a1e4a6df0e98c0f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 20 1
+"25777" "239e4cb4685091be01c1e1d383916b25" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 20 1
+"25778" "1fb7596d94b67e81bfb654d53f921886" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 19 1
+"25779" "9ee2063487cce996d54211a2ffc7096d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 19 1
+"25780" "cf71a6fe5e0ef646fdb9d1fae5a79c82" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 18 1
+"25781" "416d3387f26faedc085c46847e3f00f9" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 17 1
+"25782" "9c7bcba413290737460e4852b039f60d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 16 1
+"25783" "d288934baa74db7f2b18d527f5ae42c0" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 16 1
+"25784" "f25c7fba20cc8812c2d6b0be951c2e2d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 16 1
+"25785" "6b2f88779463fe02e7e774859b7c529d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 14 1
+"25786" "988b8f0fe56258c018369862dca0e7ff" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 13 1
+"25787" "3f5427ebb94311511ac73ef0c1344ee8" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25788" "8e27109778bcf1b61060f28f8e774b48" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25789" "918955e518bfba18c416283038482399" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25790" "adec637a634ff533f8c463c68b2fd0f4" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25791" "d2b2a7d185fa09f88a506400b4788349" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25792" "db1d8341740581264f7b2964cf0a982f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 10 1
+"25793" "f62cbec16a0bce3914764434675aee72" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 10 2
+"25794" "65a191517a362ba3ff8c73b2bb6b5345" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 9 1
+"25795" "8dd79edf72559afc289bb90e9ed8d656" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 8 1
+"25796" "c16a09ebfe5336029ed1ee25388eb1b2" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 8 2
+"25797" "a80e968f4a7dd47d6dfc4d8c6e5e643f" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 7 1
+"25798" "bb69d139f9bc066e195b858731ef8431" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 6 1
+"25799" "614db6d2e6bf0831dc5256be4b22a5db" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 4 1
+"25800" "1306d624182e5408b2364b89af18b79e" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 3 1
+"25801" "2b154b87e9951a6fa5db5af19db97a8b" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1 1
+"25802" "315f0c57b5ad6504a856be8cf0d2963d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1 1
+"25803" "e12c55514c5132d9c881f4c43474661a" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1 1
+"25804" "5c0ba943989dfac4ebb3f4c6055afe29" "Gryllidae_cluster2" 2.15311565334078e-05 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 293854 2999
+"25805" "1f98f1a47a426322564dd2f297dc8ded" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 202089 1672
+"25806" "6a69afe2f98bddf6e0ff6416e2b14977" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 179610 2101
+"25807" "7d1cd63383850fd6dc64d684f917da01" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 152273 1851
+"25808" "14a89819d0367f944571d3ad830ec625" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 66120 859
+"25809" "13cfb41a8bcc053f98d91690167fdad9" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 39750 641
+"25810" "d3a5d0ded770a48edf0e370c6be58478" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 33126 523
+"25811" "78af8f893b0d2301a63e0a84ef618a26" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1229 112
+"25812" "900a67ad15067bd39d6b4ee894091fc5" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 987 153
+"25813" "6d9c4bdee361a0e4c91d3f864f6cbb67" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 969 160
+"25814" "f1b1842a50ed880ed730b302a0f7ca94" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 816 75
+"25815" "7d659e98823553575afeeb22d6999818" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 97 16
+"25816" "f4e47121054ba0e1663648678f65d461" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 82 13
+"25817" "3b86e9400b92d7dcc8051475bd3b9708" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 70 1
+"25818" "fa84acf525502ae4baf55109cd1a7e58" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 67 7
+"25819" "7fa0cd58bd2fbb9490ba11299c3447d4" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 63 1
+"25820" "979ba3526638d228c06ad775b5c58968" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 41 1
+"25821" "8f4ef595eda9fe7f9215ff24971d3d67" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 38 1
+"25822" "a19b8abfa27c0b3defeb346d8b4cbef6" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 33 1
+"25823" "e277a40f173b9f97587239718bdec296" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 30 1
+"25824" "8baba9c16d93284d74a2f8ba81efde80" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 29 4
+"25825" "c109f8a8d06e2413f1116f9ecebce528" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 29 1
+"25826" "13468d68f33bc49d183bf7fc44fc2ef9" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 19 1
+"25827" "98b99441f46c9ae4fa5edfeeec0122e5" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 19 1
+"25828" "a44f60e7e9f13676c8bd28c8d701a32d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 19 1
+"25829" "b1f9585838b79f5ec5e8dc66420cab95" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 19 1
+"25830" "5b214025da8b141519efb74a2932e7e1" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 18 1
+"25831" "75dd50293844a8adf6cca5f09bdb174b" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 16 1
+"25832" "e0a9968886f0c79fbc06478cc4f74c3e" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 16 3
+"25833" "6c21e20d9ed4add62a012bac822bcfe7" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 15 1
+"25834" "2eb639444d5b830055190aa9580f3e64" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 14 1
+"25835" "78ad8646ec0c738a8db5c2926e687841" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 14 1
+"25836" "c18ce167a89b4696857933ae8f2473f9" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 14 1
+"25837" "899e80af2d7b02d7585e8102bfc1f9ab" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 13 1
+"25838" "19fcfd2e0f71e40cd7a3c460931895c0" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 12 1
+"25839" "2f33ac8d3423bf38244c1a37e4bdd17e" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 12 1
+"25840" "1fc32ec7ef4b9119789545a387451692" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25841" "78f24a820c0e58a0967da1201e2aabb4" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25842" "81fdaa239b4919e407f529fda516127c" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25843" "8421ec3a6e3882fd3c71ea8247ad6d65" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 11 1
+"25844" "0a38b08d66caae290fdba4716c5e40af" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 10 1
+"25845" "349bfe357aec71783bb614b6d7f43902" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 9 1
+"25846" "c6ed3c50b4f569d9044ed75e1e2350ed" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 9 1
+"25847" "70e9a3cc8f827dfd4b60576ac5a7c467" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 8 1
+"25848" "91c9a2956c307e28c0a400e9631b58c3" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 8 1
+"25849" "9870173f8088f945508b044efa7d3a6d" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 8 2
+"25850" "39f5605cd68444a9501432fb1f053844" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 6 1
+"25851" "ca4593b7fecefe651b53c45ae3c2f8af" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 6 1
+"25852" "e7aa72a6b0820b40dc25e0504b09b110" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 6 2
+"25853" "8feac05b67540797dc3e9f3ba01cde15" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 4 1
+"25854" "04e15e79e0657d6dae6b0636b6aaf237" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 3 1
+"25855" "18a1a118a88558c6cf6b8d84622a6034" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 3 2
+"25856" "aee63d7ed0c2d7af4536538b5f4f1978" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 2 1
+"25857" "2f955907411c3b2aa63a807395e30c8a" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1 1
+"25858" "3da23c4fb9cd52e7eef3d88a989223f0" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1 1
+"25859" "8110ce46a505737a2aee7fc0f4d00895" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1 1
+"25860" "fb719450e1a20fe4ded29e3d92449a95" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 1 1
+"25861" "87696f6caa93c9795f9c691b1012fcfb" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 96921 1488
+"25862" "1d65674b8b11e20c07596550a010b270" "Gryllidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 0 3 1
+"25913" "8a56d248fc95a61fcdf19dc67450c1ee" "Gryllidae_cluster4" 1.65121132863068e-05 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 1 464519 2778
+"25914" "b02c93bdb25127190fe91c55bc21a23a" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 203273 1248
+"25915" "314bd644630599a98c3167c4853f5da1" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 76511 649
+"25916" "3f34187d03caa9a09a7810b050b5d8e6" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 7452 82
+"25917" "8f063e5331353cb194b4e994423239e0" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 365 6
+"25918" "b4e483fd06d2b2b3f4989a942970933a" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 66 2
+"25919" "adbff9fdbc156a273561ec9e0179f1a0" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 40 1
+"25920" "18bcbb7fb110f44f0c014cd22ee1a7a5" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 21 1
+"25921" "8fd7bd8ae0877e9e7ad9f76cf29862b7" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 18 1
+"25922" "2d3818774c3dd322df241eaebec5e902" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 9 1
+"25923" "79b7c1c2f321d0d09dd0fa6bbb196fde" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 7 1
+"25924" "08fd1feafdf962d67468b9d6430b66e1" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 6 1
+"25925" "23799ac714725c1c36494235fc7dd147" "Gryllidae_cluster4" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 5 1
+"25926" "a4f29b71d342780392b16418c5f9d552" "Gryllidae_cluster5" 1.89272358191629e-05 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus campestris" "BOLAAD6537" 1 200773 3624
+"25927" "15e0617a63a104de43c3199f4c21d9a4" "Gryllidae_cluster5" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "unclassified.Gryllus" "unclassified.Gryllus" 0 2712 68
+"25931" "cdc9d84cbe356e5bdd9d6010af43ab04" "Gryllidae_cluster8" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "unclassified.Gryllidae" "unclassified.Gryllidae" "unclassified.Gryllidae" 1 6822 38
+"25932" "5564560820f21a717f96aabd77e26a45" "Gryllidae_cluster8" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "unclassified.Gryllidae" "unclassified.Gryllidae" "unclassified.Gryllidae" 0 4659 31
+"25933" "539ccd10a69b95fff6e96a6d0f47861c" "Gryllidae_cluster9" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "unclassified.Gryllidae" "unclassified.Gryllidae" "unclassified.Gryllidae" 1 5113 34
+"25934" "a8b479ca4c409707f40fba78ef669e31" "Gryllidae_cluster10" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllodes" "Gryllodes supplicans" "BOLABW5620" 1 1821 26
+"25935" "9b7f093f0aa27de9efabe5c26794afcd" "Gryllidae_cluster11" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus assimilis" "BOLACL0545" 1 7 1
+"25936" "193a8fbc901c8ee1d522a617f5377f21" "Gryllidae_cluster12" 0 "Animalia" "Arthropoda" "Insecta" "Orthoptera" "Gryllidae" "Gryllus" "Gryllus bimaculatus" "BOLABX6319" 1 5 1
+"25939" "8ece3a0f70e7e28ca9153bfe671a1f72" "Drosophilidae_cluster1" 0.0050676351702885 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 1 43622168 4643
+"25940" "94bfd856d22892f6ae8c04f433dcb2ee" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 249070 314
+"25941" "c4f8a4ff1fc6f01b8e2b1b433a9ff1a7" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 18917 36
+"25942" "76cf04bd71973cfce4c06343c9162405" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 8776 28
+"25943" "03a701eafdfdc30a988dc02f571b56e3" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 3661 13
+"25944" "b3c59d8577377fbccf9c9be13bee1004" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 3193 10
+"25945" "54528debdccd38ec824825480f40d656" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 1518 47
+"25946" "1a1536379d38d3633771126e56f73e14" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 964 27
+"25947" "e3caec4e451b9ed3fe7828c074351f17" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 770 3
+"25948" "df3a3586e6e1cedc182e2f7127429663" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 723 4
+"25949" "1081152757bddba6650d03de31d16057" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 624 3
+"25950" "10399c89669f2f4037331692d27cb730" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 603 2
+"25951" "4a2201630b63a71520eb0fe08f8e4a0d" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 598 16
+"25952" "23a270477739634257e606767e91a33f" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 567 2
+"25953" "ed9018623d6cd85a1673bab602a72d29" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 485 3
+"25954" "2c28ac43216c31c730bd952c7310495b" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 426 4
+"25955" "4cf3fa9b840cfa75093411186205776d" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 420 1
+"25956" "40be5351fff5a007cb60e6ef3b86292a" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 415 1
+"25957" "ea652750b8131c092bbe3aa79824890c" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 365 2
+"25958" "29fa20ff3b13a5508d5c47de453ce13f" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 350 3
+"25959" "210954fbe8e689bea3eaf32043a82145" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 336 1
+"25960" "448ee9aaac2ac6e3d31c7138d721403d" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 304 8
+"25961" "195c3b81d7ff5e86302590bdc3b49e00" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 286 1
+"25962" "c19a764dac578c6a45eaf00ee7d72b99" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 251 1
+"25963" "660a53d84bdef2a99cebd35d622f6924" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 190 1
+"25964" "2e48c887a4b800bbfe4e43442bcc1eb9" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 165 3
+"25965" "6f5eb3e47005b2a49dd1f32a51c526db" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 163 1
+"25966" "7fd5e962bee9ec07a0d767548a078544" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 158 3
+"25967" "ae009b0b23b4db104a4561d365021163" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 154 1
+"25968" "2b4a6b568053a2b892b77065ca630eba" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 146 1
+"25969" "8de4ce5d8d6031221fa6563678f4bb64" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 137 1
+"25970" "2fb0a7c779de5bf643c93535020df309" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 127 1
+"25971" "13ce321521b63cc0a7cd10b53776f239" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 119 1
+"25972" "2bedbb51c39458629a909e570e6dd99d" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 82 3
+"25973" "cb96a6240004f52666f2e03a416ca96d" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 81 2
+"25974" "36e7e8314f41635a73fcb507d5055ead" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 69 1
+"25975" "d636c4e33e4ba773cdc397e51bd42377" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 68 1
+"25976" "08bece5630227c8d03a2cba59c436d9e" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 67 7
+"25977" "7b45e9e09162c84ce84d7c0447b1a4cb" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 67 2
+"25978" "c764c0e7ae1a2a844a37ceadfc37f264" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 56 1
+"25979" "44bd5984d18a681d5674310d57295e16" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 55 1
+"25980" "2391d8576741bab8d0a0b67a66cd6616" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 52 2
+"25981" "cc152b8982b85d9d8552a2d52734f454" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 52 2
+"25982" "38a2a51974754e1a79e9aa80fd002ba2" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 51 2
+"25983" "fd447cc5fbaf3245e9208d4c05e87064" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 48 1
+"25984" "c2c110976e1b94ad2556a54f86e2075c" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 40 1
+"25985" "3042c44ec042267086605c9e5aade7c6" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 36 1
+"25986" "424b6c4bf926c60bd95d53e4d7f4952b" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 30 1
+"25987" "67cd40cb58670456d6445d7e929f0909" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 30 1
+"25988" "1fb47418601687a7677bbb39ae4a1289" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 29 1
+"25989" "2cb5399f3067afc6c6a5a79934281cf5" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 29 7
+"25990" "ce3db1e4b0a033338db7d5585709e9fb" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 25 1
+"25991" "179d4c7d248ad0ce9e7e7a283d0b0d60" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 24 1
+"25992" "258f3c005bb9010b92ecb9ab57bbbe0a" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 23 1
+"25993" "af49fff36db6bf4201aa6586669ba489" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 23 1
+"25994" "e5571042c09929399096aa44d98bd29b" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 22 1
+"25995" "3b494f46726c8ce2f92f6b236a8da259" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 20 1
+"25996" "113f59a973d8d814cb494ccf5b7a404a" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 19 1
+"25997" "1678b260eaadc9345f737e3cf1b08a11" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 18 1
+"25998" "abe77a29e67e3c3cbc3cb23591f373bb" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 18 1
+"25999" "b3042d2c8077baca8a39c16bb20486d5" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 17 1
+"26000" "c9a537355b7a9354172e47b21944405c" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 17 1
+"26001" "eef07b37d2240c275386a879358ce0d4" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 17 1
+"26002" "059a009df4fd24397dc08725b42ee0ed" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 16 1
+"26003" "1288a3bb69c18fd125beca30294bfcbc" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 14 1
+"26004" "69bc093035da589472074bee3917fd1c" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 13 1
+"26005" "8a044082a7aaaa99d02700eba618ce69" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 6 1
+"26006" "3094dce95de1ab77318c3490d7ed014c" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 4 1
+"26007" "7afb7d075030e8b179d8ff927cfb0649" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 1 1
+"26008" "9aed0859a15776033a61aa62a6dc546e" "Drosophilidae_cluster1" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 1 1
+"26009" "411448c9dbb8d3214efb0647244924b4" "Drosophilidae_cluster2" 0.0017007607195228 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 1 22068064 4628
+"26010" "c55b710e9440e89ba8c7cc85b2fd7e39" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 10168 17
+"26011" "80a61bfa41ab47d0a320db16f3eb677c" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 496 2
+"26012" "687adf55f9665486c5bd8223688e2d91" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 488 1
+"26013" "0c7b43f776ac1c399a53291f72cb2756" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 454 13
+"26014" "824574f4774b978b742484dc8ef2295e" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 413 2
+"26015" "5ddb552018b4013dccbcc600ab2e79d3" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 368 12
+"26016" "920be3b4417a92e0b960a73b86638305" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 353 1
+"26017" "722df3fb3d9fb633d86e978d61522ac2" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 307 1
+"26018" "130113febe4befd5ceef58c4e12db4c6" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 265 1
+"26019" "4dad8f9c89082c05245ea87745e9e632" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 221 1
+"26020" "e918a8de6a7f651e55f0532680867644" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 198 1
+"26021" "2c483438b6737fb23064b098f34f5638" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 133 1
+"26022" "e46a718759aa5d0cd09971f3d5650dfe" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 127 4
+"26023" "56da050a0de47c4a97e667c9e4dcbd38" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 85 1
+"26024" "566cac61ab3c2c2fbe4c612d2629cef5" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 83 1
+"26025" "f181944501f119ee52eb91168b6b19e3" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 35 1
+"26026" "afcdc278b9173c0ca50c3a5e249e0795" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 34 1
+"26027" "6481555a5f74b7a88b2a1eadaad401a1" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 33 1
+"26028" "8964893604a688442984c629ab3aa46b" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 31 1
+"26029" "153235bff38d3193eaba6b0b81a8d97b" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 29 1
+"26030" "551b4ec3c9da46cf0802384cfe9b3f2c" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 28 1
+"26031" "f3448bd3a4ea6daf31f8e84f0f9388d9" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 25 1
+"26032" "f4c6b710ea57593b059b1a7733b589a6" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 25 1
+"26033" "5579747f848aa4f3fd09c53737857e7c" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 24 1
+"26034" "d802bf670d23705320b17a50e2325b01" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 23 1
+"26035" "6793005c507a5f241b122a2beea10c05" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 20 1
+"26036" "979c9bdf8a7c6e8ea9f06df0cb45d3fc" "Drosophilidae_cluster2" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila serrata" "BOLAAU1484" 0 19 1
+"26037" "ec52c947ffe02752ff515ba07c7ace90" "Drosophilidae_cluster3" 0.0014972724686529 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 1 16637434 4562
+"26038" "3cc53f5b185c12313d7c3f3263cb4539" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 46647 743
+"26039" "d0d49a2250d3a4941470ef219a61f50a" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 4474 570
+"26040" "91fb0ecae9da5d02a9283e7839ef3613" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 1397 3
+"26041" "20bdb027ff87ce193048bf5ccb5eb215" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 676 5
+"26042" "c71e7c4d873404527f67c8445a8e2ac8" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 439 1
+"26043" "b4c7be6336be78a7768ab18bdf54c096" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 428 1
+"26044" "4659340b6c3992c21e95b81c7af244fe" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 277 2
+"26045" "1a0fd8e4c78ca601cb3819368516d428" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 267 6
+"26046" "083b0dae661a8ae5d7ec62b620d7cc76" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 263 5
+"26047" "5b9589946ce687a2b4c859ed11d84c8e" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 234 1
+"26048" "da52fd7b6adfbb1082b290a62aaead8a" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 154 1
+"26049" "3dabc3183b5372ac2b657d6867a1c61f" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 72 2
+"26050" "c4379e52eac7e194917a8a6c50d1ce25" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 61 1
+"26051" "d9b5443a40238b57b0cdffb08d16e0b2" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 57 1
+"26052" "24d646e77c6acddfcab2eba9f61a3fbe" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 42 1
+"26053" "8b13ed3dc60a014289c68c7837798b61" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 31 1
+"26054" "8b7f3f634b823962bd359e3baeb60dc1" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 30 1
+"26055" "f23367dc60839edd9335b4738105dc23" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 28 1
+"26056" "4ff17f9b75b08c3422655b7ef23dc059" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 27 1
+"26057" "b5dea40f79e51a55b4880d289e748418" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 26 1
+"26058" "f9032207313093e8284015fc68215be5" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 26 1
+"26059" "b88f1abfca98119ae8b2296fd692be57" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 24 1
+"26060" "40d8c90062a17c4629bdc25aa9c196b3" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 23 1
+"26061" "484eff711966d4fff8b7a8ff6ef258a4" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 23 1
+"26062" "4e6ee2deca30dd65acdb87762611d795" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 13 1
+"26063" "3659fd80279aafdb31808a8a7059bd88" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 12 1
+"26064" "006f774bd38d0cf287b6680fd6a0d552" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 10 1
+"26065" "bf54300a16eeb43b30eb690f51b7d13c" "Drosophilidae_cluster3" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 8 1
+"26446" "c9743816b13faee48cc53c4379ab08e9" "Drosophilidae_cluster5" 8.2223318533136e-05 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 1 709448 4424
+"26447" "feab435db8e1b54a777656f1460a5be1" "Drosophilidae_cluster5" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 12623 349
+"26448" "8b5fe810179674cdff16e4cf3497a885" "Drosophilidae_cluster5" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 29 1
+"26449" "a49144d1e156376b13f55c81c27ad62e" "Drosophilidae_cluster6" 5.69686957017119e-05 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 1 496780 4357
+"26450" "732482067e59a1470c579fb3f41efa23" "Drosophilidae_cluster6" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 43 1
+"26451" "301c17af81695c9efc2271cbf926ec9f" "Drosophilidae_cluster6" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila bicornuta" "BOLAAV6760" 0 28 1
+"26452" "317c4087ebf41b0d02dbcc41e152202c" "Drosophilidae_cluster6" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 13 1
+"26453" "e1de5721d26db602aadb2e8efbe5d91b" "Drosophilidae_cluster6" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 12 1
+"26454" "f10a97ac7ef832b1b74c56c3de493ee9" "Drosophilidae_cluster6" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 11 1
+"26455" "107a57a8a7c3bd2317f958e1664ad8e8" "Drosophilidae_cluster7" 1.70564378577114e-05 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 1 217906 3452
+"26456" "c904e1aac60192535a9b23aa3696aebe" "Drosophilidae_cluster7" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "unclassified.Drosophilidae" "unclassified.Drosophilidae" "unclassified.Drosophilidae" 0 22 1
+"26457" "d97a858a24d50bea6db7bec3906ddcf2" "Drosophilidae_cluster7" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 9 1
+"26458" "d907e60845f8eafa0efefb53cd2f5f9d" "Drosophilidae_cluster7" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 8 1
+"26459" "605e06672f0d7107276df5a8aff525d3" "Drosophilidae_cluster7" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 5 1
+"27013" "010869d92be363d98a98bb045a62a8bd" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 1 8100 535
+"27014" "c4841e6944558e41fd4df15fa93e49c3" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 879 81
+"27015" "dfc5ae67756f1ad47b6e52ea96f969c4" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 34 1
+"27016" "643591144bb5489bd70f59cb9634764b" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 21 1
+"27017" "f5c23489a5ef4e12f52cd98d41f24989" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 19 1
+"27018" "6fdf994e14eccebbd7caa5954509e6c0" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 14 1
+"27019" "d44f7ff77cc2d56adeb2ec77e345940d" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 14 1
+"27020" "f1017e7153bb6d86279de6ae11651dbd" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 13 2
+"27021" "3af24c340cffc3a8d034960a0b31b00a" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 10 1
+"27022" "c6268b8d4f116a7546121be8c0164639" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 10 1
+"27023" "9bddb205ed2ec4e4bd677e804dd0a8a6" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 9 1
+"27024" "2f86482317a5fa7efeb0d6935c7ab998" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 7 1
+"27025" "85863ad0813ca8aebf60f33d187f6c45" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 7 1
+"27026" "d5617b44e9a107ebe5a1c33468bb1704" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 7 1
+"27027" "01d864abe43cc7e6eaa9bcfd5304ba0a" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 6 1
+"27028" "884b426dde9c7fed6b571d93586583a7" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 6 1
+"27029" "de4a13704f1cd3527448b0dfc403318e" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 6 1
+"27030" "1053e4596f01739c930388c7ca60940c" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 5 1
+"27031" "38360fa2442c3ccca63e7dcb838b7088" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 5 1
+"27032" "62fee063b19f7e9fc8536db9443ef172" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 5 1
+"27033" "ee5343dc5415af90563862f7768ae578" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 5 1
+"27034" "ffb536d3a42d476b6011a9c63b6d7002" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 5 1
+"27035" "2c45927157b241ed74f36712e30b6a6a" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 4 1
+"27036" "3183c358caed4dc1156567d10f5d3a50" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 4 1
+"27037" "03b36ea9e89871c5e471d1abfd35296a" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 3 1
+"27038" "1365f49b38681ca156360a25e200b71c" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 3 1
+"27039" "8aa8ea01b2eb0ae1b51ed8791f932ea7" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 3 1
+"27040" "dc0179f3522e71f07766ab47b06cb655" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 3 1
+"27041" "75897ffd8b671bb96ff6fc6fb4f91223" "Drosophilidae_cluster21" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAD9955" 0 2 1
+"27155" "091695a4fd879c3f3018822e7de382fa" "Drosophilidae_cluster65" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 1 3 1
+"27156" "f91726de818626386bce0de122b16744" "Drosophilidae_cluster65" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 3 2
+"27157" "34242e7cf1092df7685688858bbf747b" "Drosophilidae_cluster66" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 1 3 2
+"27158" "eb1352caa1ae146689818463a60998c2" "Drosophilidae_cluster66" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 2 1
+"27159" "75e0e56013dabfb40f001e324380775c" "Drosophilidae_cluster66" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 1 1
+"27163" "8541bbab2ff5c77f2d12d2195ba90069" "Drosophilidae_cluster70" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 1 2 1
+"27164" "232c829e57187c5077b8459e1e8c52ae" "Drosophilidae_cluster70" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 1 1
+"27165" "90e9c5a58470dbf430709f311a3cce26" "Drosophilidae_cluster70" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 1 1
+"27166" "c80828de91824505c46159f65fd39412" "Drosophilidae_cluster70" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 1 1
+"27167" "e0e6f56c20ed365fd201fd929a714668" "Drosophilidae_cluster70" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 1 1
+"27168" "25aec977e13de259bb6d420609eafce2" "Drosophilidae_cluster70" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 1 1
+"27169" "8cb7e174c4c26f401a44f9d778cfbe5b" "Drosophilidae_cluster70" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "unclassified.Drosophila" "unclassified.Drosophila" 0 1 1
+"27170" "e0f77b7eb2caca9be4b807c4fcbe48c2" "Drosophilidae_cluster70" 0 "Animalia" "Arthropoda" "Insecta" "Diptera" "Drosophilidae" "Drosophila" "Drosophila_X" "BOLAAV6734" 0 1 1
