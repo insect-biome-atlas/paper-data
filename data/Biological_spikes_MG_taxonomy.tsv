@@ -1,13 +1,6 @@
-Kingdom	Phylum	Class	Order	Family	Genus	Species	n
-Animalia	Arthropoda	Insecta	Hemiptera	Anthocoridae	Orius	Orius majusculus	1
-Animalia	Arthropoda	Insecta	Hemiptera	Miridae	Macrolophus	Macrolophus pygmaeus	1
-Animalia	Arthropoda	Insecta	Coleoptera	Coccinelidae	Delphastus	Delphastus pusillus	1
-Animalia	Arthropoda	Insecta	Hymenoptera	Braconidae	Aphidius	Aphidius colemani	1
-Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	Aphidoletes	Aphidoletes aphidimyza	1
-							
-							
-							
-							
-							
-							
-							
+Kingdom	Phylum	Class	Order	Family	Genus	Species	n	BOLD	BOLD_bin	Comment
+Animalia	Arthropoda	Insecta	Hemiptera	Anthocoridae	Orius	Orius majusculus	1	BOLD:ABA5781	BOLABA5781	NA
+Animalia	Arthropoda	Insecta	Hemiptera	Miridae	Macrolophus	Macrolophus pygmaeus	1	BOLD:ACB8086	BOLACB8086	Multiple BOLD hits on species
+Animalia	Arthropoda	Insecta	Coleoptera	Coccinelidae	Delphastus	Delphastus pusillus	1	BOLD:ADB5988	BOLADB5988	NA
+Animalia	Arthropoda	Insecta	Hymenoptera	Braconidae	Aphidius	Aphidius colemani	1	BOLD:ADT4188	BOLADT4188	Merged into this bin recently
+Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	Aphidoletes	Aphidoletes aphidimyza	1	BOLD:AAF7193	BOLAAF7193	NA

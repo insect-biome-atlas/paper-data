@@ -1,7 +1,7 @@
-Kingdom	Phylum	Class	Order	Family	Genus	Species	n
-Animalia	Arthropoda	Insecta	Orthoptera	Gryllidae	Gryllodes	Gryllodes sigillatus	1
-Animalia	Arthropoda	Insecta	Orthoptera	Gryllidae	Gryllus	Gryllus bimaculatus	1
-Animalia	Arthropoda	Insecta	Blattodea	Blattidae	Shelfordella	Shelfordella lateralis	2
-Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila serrata	1
-Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila bicornuta	3
-Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila jambolina	1
+Kingdom	Phylum	Class	Order	Family	Genus	Species	n	BOLD	BOLD_bin	Comment
+Animalia	Arthropoda	Insecta	Orthoptera	Gryllidae	Gryllodes	Gryllodes sigillatus	1	BOLD:ABW5620	BOLABW5620	NA
+Animalia	Arthropoda	Insecta	Orthoptera	Gryllidae	Gryllus	Gryllus bimaculatus	1	BOLD:ABX6319	BOLABX6319	NA
+Animalia	Arthropoda	Insecta	Blattodea	Blattidae	Shelfordella	Shelfordella lateralis	2	BOLD:AAG9959	BOLAAG9959	NA
+Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila serrata	1	BOLD:AAU1484	BOLAAU1484	NA
+Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila bicornuta	3	BOLD:AAV6760	BOLAAV6760	NA
+Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila jambulina	1	BOLD:AAV6734	BOLAAV6734	Drosophila seguyi
