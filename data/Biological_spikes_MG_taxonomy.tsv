@@ -3,4 +3,4 @@ Animalia	Arthropoda	Insecta	Hemiptera	Anthocoridae	Orius	Orius majusculus	1	BOLD
 Animalia	Arthropoda	Insecta	Hemiptera	Miridae	Macrolophus	Macrolophus pygmaeus	1	"BOLD:ABX0414; BOLD:ABX2934; BOLD:ABX2935; BOLD:ACB8086; BOLD:ACD4967; BOLD:ACD5879; BOLD:ACD6943; BOLD:ADR8943"	"BOLABX0414; BOLABX2934; BOLABX2935; BOLACB8086; BOLACD4967; BOLACD5879; BOLACD6943; BOLADR8943"	NA
 Animalia	Arthropoda	Insecta	Coleoptera	Coccinelidae	Delphastus	Delphastus pusillus	1	BOLD:AAE7462	BOLAAE7462	Delphastus catalinae
 Animalia	Arthropoda	Insecta	Hymenoptera	Braconidae	Aphidius	Aphidius colemani	1	"BOLD:AAC7809; BOLD:AAI4338"	"BOLAAC7809; BOLAAI4338"	NA
-Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	Aphidoletes	Aphidoletes aphidimyza	1	"BOLD:AAF7193; BOLD:AED4855"	"BOLAAF7193; BOLAED4855"	NA
+Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	Aphidoletes	Aphidoletes aphidimyza	1	"BOLD:AAF7193; BOLD:AED4855; BOLD:ADG4616"	"BOLAAF7193; BOLAED4855; BOLADG4616"	Added BOLD:ADG4616, seems to be representative in our MG dataset even though no species match in BOLD.
