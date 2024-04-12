@@ -1,4 +1,4 @@
-sampleID_NGI	sampleID_SEQ	sampleID_FIELD	sampleID_LAB	dataset	lab_sample_type	country	biological_spikes	artificial_spikes	sample_metadata_file	lysate_rack_ID	lysate_well_ID	dna_plate_ID	dna_plate_well_ID	sequencing_batch	sequencing_batch_NGI	notes
+sampleID_NGI	sampleID_SEQ	sampleID_HISTORICAL	sampleID_LAB	dataset	lab_sample_type	country	biological_spikes	artificial_spikes	sample_metadata_file	lysate_rack_ID	lysate_well_ID	dna_plate_ID	dna_plate_well_ID	sequencing_batch	sequencing_batch_NGI	notes
 pool2_116_TR	pool2_116_TR	T1KSIA	T1KSIA_ITS	ITS_soil_2019_SE	sample	Sweden	FALSE	FALSE	samples_metadata_soil_microbiome_SE_2019	NA	NA	NA	NA	NA	PS_294	NA
 pool1_53_TR	pool1_53_TR	T1N5UR	T1N5UR_ITS	ITS_soil_2019_SE	sample	Sweden	FALSE	FALSE	samples_metadata_soil_microbiome_SE_2019	NA	NA	NA	NA	NA	PS_294	NA
 pool2_127_TR	pool2_127_TR	T1QLZR	T1QLZR_ITS	ITS_soil_2019_SE	sample	Sweden	FALSE	FALSE	samples_metadata_soil_microbiome_SE_2019	NA	NA	NA	NA	NA	PS_294	NA
