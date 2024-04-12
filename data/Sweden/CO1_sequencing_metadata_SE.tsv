@@ -1,4 +1,4 @@
-sampleID_NGI	sampleID_HISTORICAL	sampleID_FIELD	sampleID_LAB	dataset	lab_sample_type	country	biological_spikes	artificial_spikes	sample_metadata_file	lysate_rack_ID	lysate_well_ID	dna_plate_ID	dna_plate_well_ID	sequencing_batch	sequencing_batch_NGI	notes_lab	notes_sequencing	study_accession_ENA	sample_accession_ENA	experiment_accession_ENA	run_accession_ENA
+sampleID_NGI	sampleID_HISTORICAL	sampleID_FIELD	sampleID_LAB	dataset	lab_sample_type	country	biological_spikes	artificial_spikes	sample_metadata_file	lysate_rack_ID	lysate_well_ID	dna_plate_ID	dna_plate_well_ID	sequencing_batch	sequencing_batch_NGI	notes_lab	sequencing_status	study_accession_ENA	sample_accession_ENA	experiment_accession_ENA	run_accession_ENA
 P28409_1275	FH007_H200571	SDUR1L	H200571	CO1_homogenate_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	FH007	C11	3000491439	C11	batch17	P28409	NA	sequencing successfull	PRJEB63532	ERS16366156	not submitted yet	not submitted yet
 P28409_1245	FH007_H200593	SAALQX	H200593	CO1_homogenate_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	FH007	E7	3000491439	E7	batch17	P28409	NA	sequencing successfull	PRJEB63532	ERS16366161	not submitted yet	not submitted yet
 P28410_1288	FH003_H200220	SXJ1ZL	H200220	CO1_homogenate_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	FH003	D2	3000491456	D2	batch18	P28410	NA	sequencing successfull	PRJEB63532	ERS16366163	not submitted yet	not submitted yet
@@ -5800,62 +5800,62 @@ P25259_1204	FL016_L101487	NA	L101487	CO1_lysate_2019_SE	buffer_blank	Sweden	FALS
 P25259_1247	FL016_L101528	NA	L101528	CO1_lysate_2019_SE	buffer_blank	Sweden	FALSE	FALSE	NA	FL016	G7	3000491452	G7	batch11	P25259	NA	sequencing successfull	PRJEB61109	ERS16370138	ERX11432027	ERR12048849
 P25259_1315	FL017_L101569	NA	L101569	CO1_lysate_2019_SE	buffer_blank	Sweden	FALSE	FALSE	NA	FL017	C4	3000491321	C4	batch11	P25259	NA	sequencing successfull	PRJEB61109	ERS16370139	ERX11432028	ERR12048850
 P25259_1358	FL017_L101610	NA	L101610	CO1_lysate_2019_SE	buffer_blank	Sweden	FALSE	FALSE	NA	FL017	F9	3000491321	F9	batch11	P25259	NA	sequencing successfull	PRJEB61109	ERS16370140	ERX11432029	ERR12048851
-P23412_1633	FL035_L103206	SYH6RK	L103206	CO1_lysate_2019_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2019.tsv	FL035	A8	3000491332	A8	batch06	P23412	NA	failed sequencing	NA	ERS16367102	NA	NA
-P23412_1638	FL035_L103266	SGVELT	L103266	CO1_lysate_2019_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2019.tsv	FL035	F8	3000491332	F8	batch06	P23412	NA	failed sequencing	NA	ERS16367107	NA	NA
-P23412_1641	FL035_L103207	SWG9LQ	L103207	CO1_lysate_2019_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2019.tsv	FL035	A9	3000491332	A9	batch06	P23412	NA	failed sequencing	NA	ERS16367110	NA	NA
-P23412_1647	FL035_L103279	SE1PWX	L103279	CO1_lysate_2019_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2019.tsv	FL035	G9	3000491332	G9	batch06	P23412	NA	failed sequencing	NA	ERS16367116	NA	NA
-P20863_1192	FL018_Neg_index	NA	FL018_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL018	NA	NA	NA	batch04	P20863	NA	failed sequencing	NA	ERS16370244	NA	NA
-P20863_1576	FL019_Neg_index	NA	FL019_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL019	NA	NA	NA	batch04	P20863	NA	failed sequencing	NA	ERS16370246	NA	NA
-P20863_1672	FL020_Neg_index	NA	FL020_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL020	NA	NA	NA	batch04	P20863	NA	failed sequencing	NA	ERS16370248	NA	NA
-P20863_1288	FL021_Neg_index	NA	FL021_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL021	NA	NA	NA	batch04	P20863	NA	failed sequencing	NA	ERS16370250	NA	NA
-P20863_1384	FL022_Neg_index	NA	FL022_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL022	NA	NA	NA	batch04	P20863	NA	failed sequencing	NA	ERS16370252	NA	NA
-P20863_1768	FL023_Neg_index	NA	FL023_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL023	NA	NA	NA	batch04	P20863	NA	failed sequencing	NA	ERS16370254	NA	NA
-P20864_3485	FL024_Neg_index	NA	FL024_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL024	NA	NA	NA	batch05	P20864	NA	failed sequencing	NA	ERS16370256	NA	NA
-P20864_5998	FL026_Neg_index	NA	FL026_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL026	NA	NA	NA	batch05	P20864	NA	failed sequencing	NA	ERS16370258	NA	NA
-P20864_3581	FL028_Neg_index	NA	FL028_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL028	NA	NA	NA	batch05	P20864	NA	failed sequencing	NA	ERS16370260	NA	NA
-P20864_6095	FL029_Neg_index	NA	FL029_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL029	NA	NA	NA	batch05	P20864	NA	failed sequencing	NA	ERS16370262	NA	NA
-P23412_1384	FL030_Neg_index	NA	FL030_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL030	NA	NA	NA	batch06	P23412	NA	failed sequencing	NA	ERS16370264	NA	NA
-P23412_1288	FL031_Neg_index	NA	FL031_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL031	NA	NA	NA	batch06	P23412	NA	failed sequencing	NA	ERS16370266	NA	NA
-P23412_1480	FL032_Neg_index	NA	FL032_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL032	NA	NA	NA	batch06	P23412	NA	failed sequencing	NA	ERS16370268	NA	NA
-P23412_1576	FL033_Neg_index	NA	FL033_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL033	NA	NA	NA	batch06	P23412	NA	failed sequencing	NA	ERS16370270	NA	NA
-P23412_1192	FL034_Neg_index	NA	FL034_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL034	NA	NA	NA	batch06	P23412	NA	failed sequencing	NA	ERS16370272	NA	NA
-P23412_1672	FL035_Neg_index	NA	FL035_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL035	NA	NA	NA	batch06	P23412	NA	failed sequencing	NA	ERS16370274	NA	NA
-P23412_1768	FL036_Neg_index	NA	FL036_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL036	NA	NA	NA	batch06	P23412	NA	failed sequencing	NA	ERS16370276	NA	NA
-P23412_1096	FL037_Neg_index	NA	FL037_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL037	NA	NA	NA	batch06	P23412	NA	failed sequencing	NA	ERS16370278	NA	NA
-P23413_1384	FL038_Neg_index	NA	FL038_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL038	NA	NA	NA	batch07	P23413	NA	failed sequencing	NA	ERS16370280	NA	NA
-P23413_1288	FL039_Neg_index	NA	FL039_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL039	NA	NA	NA	batch07	P23413	NA	failed sequencing	NA	ERS16370282	NA	NA
-P23413_1480	FL040_Neg_index	NA	FL040_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL040	NA	NA	NA	batch07	P23413	NA	failed sequencing	NA	ERS16370284	NA	NA
-P23413_1576	FL041_Neg_index	NA	FL041_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL041	NA	NA	NA	batch07	P23413	NA	failed sequencing	NA	ERS16370286	NA	NA
-P23413_1192	FL042_Neg_index	NA	FL042_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL042	NA	NA	NA	batch07	P23413	NA	failed sequencing	NA	ERS16370288	NA	NA
-P23413_1096	FL043_Neg_index	NA	FL043_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL043	NA	NA	NA	batch07	P23413	NA	failed sequencing	NA	ERS16370290	NA	NA
-P25061_1192	FL044_FL044_Neg_index	NA	FL044_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL044	NA	NA	NA	batch08	P25061	NA	failed sequencing	NA	ERS16370292	NA	NA
-P25061_1576	FL045_FL045_Neg_index	NA	FL045_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL045	NA	NA	NA	batch08	P25061	NA	failed sequencing	NA	ERS16370294	NA	NA
-P25061_1672	FL046_FL046_Neg_index	NA	FL046_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL046	NA	NA	NA	batch08	P25061	NA	failed sequencing	NA	ERS16370296	NA	NA
-P25061_1288	FL047_FL047_Neg_index	NA	FL047_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL047	NA	NA	NA	batch08	P25061	NA	failed sequencing	NA	ERS16370298	NA	NA
-P25061_1096	FL048_FL048_Neg_index	NA	FL048_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL048	NA	NA	NA	batch08	P25061	NA	failed sequencing	NA	ERS16370300	NA	NA
-P25061_1384	FL049_FL049_Neg_index	NA	FL049_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL049	NA	NA	NA	batch08	P25061	NA	failed sequencing	NA	ERS16370302	NA	NA
-P25061_1480	FL050_FL050_Neg_index	NA	FL050_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL050	NA	NA	NA	batch08	P25061	NA	failed sequencing	NA	ERS16370304	NA	NA
-P25061_1726	FL051_FL051_Neg_index	NA	FL051_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL051	NA	NA	NA	batch08	P25061	NA	failed sequencing	NA	ERS16370306	NA	NA
-P25062_1096	FL006_FL006_Neg_index	NA	FL006_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL006	NA	NA	NA	batch09	P25062	NA	failed sequencing	NA	ERS16370308	NA	NA
-P25062_1192	FL007_FL007_Neg_index	NA	FL007_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL007	NA	NA	NA	batch09	P25062	NA	failed sequencing	NA	ERS16370310	NA	NA
-P25062_1288	FL008_FL008_Neg_index	NA	FL008_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL008	NA	NA	NA	batch09	P25062	NA	failed sequencing	NA	ERS16370312	NA	NA
-P25062_1384	FL009_FL009_Neg_index	NA	FL009_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL009	NA	NA	NA	batch09	P25062	NA	failed sequencing	NA	ERS16370314	NA	NA
-P25062_1480	FL010_FL010_Neg_index	NA	FL010_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL010	NA	NA	NA	batch09	P25062	NA	failed sequencing	NA	ERS16370316	NA	NA
-P25062_1576	FL011_FL011_Neg_index	NA	FL011_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL011	NA	NA	NA	batch09	P25062	NA	failed sequencing	NA	ERS16370318	NA	NA
-P25062_1672	FL012_FL012_Neg_index	NA	FL012_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL012	NA	NA	NA	batch09	P25062	NA	failed sequencing	NA	ERS16370320	NA	NA
-P25062_1768	FL013_FL013_Neg_index	NA	FL013_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL013	NA	NA	NA	batch09	P25062	NA	failed sequencing	NA	ERS16370322	NA	NA
-P25258_1545	ELA001_Neg_index	NA	ELA001_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	ELA001	NA	NA	NA	batch10	P25258	NA	failed sequencing	NA	ERS16370324	NA	NA
-P25258_1096	FL025_Neg_index	NA	FL025_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL025	NA	NA	NA	batch10	P25258	NA	failed sequencing	NA	ERS16370329	NA	NA
-P25258_1192	FL027_Neg_index	NA	FL027_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL027	NA	NA	NA	batch10	P25258	NA	failed sequencing	NA	ERS16370331	NA	NA
-P25259_1096	FL014_Neg_index	NA	FL014_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL014	NA	NA	NA	batch11	P25259	NA	failed sequencing	NA	ERS16370333	NA	NA
-P25259_1192	FL015_Neg_index	NA	FL015_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL015	NA	NA	NA	batch11	P25259	NA	failed sequencing	NA	ERS16370335	NA	NA
-P20863_1096	FL005_neg	NA	FL005_pos	CO1_lysate_2019_SE	positive_control	Sweden	FALSE	FALSE	NA	FL005	NA	3000491410	NA	batch04	P20863	NA	failed sequencing	NA	ERS16370352	NA	NA
-P25258_1515	ELA001_H2 p	SLWUQ2	ELA001_H2_p	CO1_Ela_samples_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	ELA001	NA	3000491450	NA	batch10	P25258	NA	sequencing successfull	not submitted yet	ERS16369628	not submitted yet	not submitted yet
-P25258_1518	ELA001_H4 p	SY34ZS	ELA001_H4_p	CO1_Ela_samples_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	ELA001	NA	3000491450	NA	batch10	P25258	NA	sequencing successfull	not submitted yet	ERS16369630	not submitted yet	not submitted yet
-P25258_1523	ELA001_H8 p	SCNXZK	ELA001_H8_p	CO1_Ela_samples_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	ELA001	NA	3000491450	NA	batch10	P25258	NA	sequencing successfull	not submitted yet	ERS16369634	not submitted yet	not submitted yet
-P28410_1248	FH0010_X	NA	NA	CO1_homogenate_2019_SE	NA	NA	NA	NA	NA	NA	NA	NA	NA	batch18	P28410	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
-P28410_1269	FH0010_XX	NA	NA	CO1_homogenate_2019_SE	NA	NA	NA	NA	NA	NA	NA	NA	NA	batch18	P28410	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
-P28410_1276	FH0010_XXX	NA	NA	CO1_homogenate_2019_SE	NA	NA	NA	NA	NA	NA	NA	NA	NA	batch18	P28410	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
+P23412_1633	FL035_L103206	SYH6RK	L103206	CO1_lysate_2019_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2019.tsv	FL035	A8	3000491332	A8	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1638	FL035_L103266	SGVELT	L103266	CO1_lysate_2019_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2019.tsv	FL035	F8	3000491332	F8	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1641	FL035_L103207	SWG9LQ	L103207	CO1_lysate_2019_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2019.tsv	FL035	A9	3000491332	A9	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1647	FL035_L103279	SE1PWX	L103279	CO1_lysate_2019_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2019.tsv	FL035	G9	3000491332	G9	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P20863_1192	FL018_Neg_index	NA	FL018_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL018	NA	NA	NA	batch04	P20863	NA	sequencing failed	NA	NA	NA	NA
+P20863_1576	FL019_Neg_index	NA	FL019_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL019	NA	NA	NA	batch04	P20863	NA	sequencing failed	NA	NA	NA	NA
+P20863_1672	FL020_Neg_index	NA	FL020_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL020	NA	NA	NA	batch04	P20863	NA	sequencing failed	NA	NA	NA	NA
+P20863_1288	FL021_Neg_index	NA	FL021_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL021	NA	NA	NA	batch04	P20863	NA	sequencing failed	NA	NA	NA	NA
+P20863_1384	FL022_Neg_index	NA	FL022_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL022	NA	NA	NA	batch04	P20863	NA	sequencing failed	NA	NA	NA	NA
+P20863_1768	FL023_Neg_index	NA	FL023_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL023	NA	NA	NA	batch04	P20863	NA	sequencing failed	NA	NA	NA	NA
+P20864_3485	FL024_Neg_index	NA	FL024_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL024	NA	NA	NA	batch05	P20864	NA	sequencing failed	NA	NA	NA	NA
+P20864_5998	FL026_Neg_index	NA	FL026_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL026	NA	NA	NA	batch05	P20864	NA	sequencing failed	NA	NA	NA	NA
+P20864_3581	FL028_Neg_index	NA	FL028_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL028	NA	NA	NA	batch05	P20864	NA	sequencing failed	NA	NA	NA	NA
+P20864_6095	FL029_Neg_index	NA	FL029_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL029	NA	NA	NA	batch05	P20864	NA	sequencing failed	NA	NA	NA	NA
+P23412_1384	FL030_Neg_index	NA	FL030_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL030	NA	NA	NA	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1288	FL031_Neg_index	NA	FL031_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL031	NA	NA	NA	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1480	FL032_Neg_index	NA	FL032_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL032	NA	NA	NA	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1576	FL033_Neg_index	NA	FL033_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL033	NA	NA	NA	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1192	FL034_Neg_index	NA	FL034_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL034	NA	NA	NA	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1672	FL035_Neg_index	NA	FL035_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL035	NA	NA	NA	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1768	FL036_Neg_index	NA	FL036_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL036	NA	NA	NA	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23412_1096	FL037_Neg_index	NA	FL037_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL037	NA	NA	NA	batch06	P23412	NA	sequencing failed	NA	NA	NA	NA
+P23413_1384	FL038_Neg_index	NA	FL038_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL038	NA	NA	NA	batch07	P23413	NA	sequencing failed	NA	NA	NA	NA
+P23413_1288	FL039_Neg_index	NA	FL039_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL039	NA	NA	NA	batch07	P23413	NA	sequencing failed	NA	NA	NA	NA
+P23413_1480	FL040_Neg_index	NA	FL040_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL040	NA	NA	NA	batch07	P23413	NA	sequencing failed	NA	NA	NA	NA
+P23413_1576	FL041_Neg_index	NA	FL041_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL041	NA	NA	NA	batch07	P23413	NA	sequencing failed	NA	NA	NA	NA
+P23413_1192	FL042_Neg_index	NA	FL042_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL042	NA	NA	NA	batch07	P23413	NA	sequencing failed	NA	NA	NA	NA
+P23413_1096	FL043_Neg_index	NA	FL043_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL043	NA	NA	NA	batch07	P23413	NA	sequencing failed	NA	NA	NA	NA
+P25061_1192	FL044_FL044_Neg_index	NA	FL044_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL044	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
+P25061_1576	FL045_FL045_Neg_index	NA	FL045_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL045	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
+P25061_1672	FL046_FL046_Neg_index	NA	FL046_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL046	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
+P25061_1288	FL047_FL047_Neg_index	NA	FL047_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL047	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
+P25061_1096	FL048_FL048_Neg_index	NA	FL048_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL048	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
+P25061_1384	FL049_FL049_Neg_index	NA	FL049_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL049	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
+P25061_1480	FL050_FL050_Neg_index	NA	FL050_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL050	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
+P25061_1726	FL051_FL051_Neg_index	NA	FL051_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL051	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
+P25062_1096	FL006_FL006_Neg_index	NA	FL006_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL006	NA	NA	NA	batch09	P25062	NA	sequencing failed	NA	NA	NA	NA
+P25062_1192	FL007_FL007_Neg_index	NA	FL007_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL007	NA	NA	NA	batch09	P25062	NA	sequencing failed	NA	NA	NA	NA
+P25062_1288	FL008_FL008_Neg_index	NA	FL008_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL008	NA	NA	NA	batch09	P25062	NA	sequencing failed	NA	NA	NA	NA
+P25062_1384	FL009_FL009_Neg_index	NA	FL009_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL009	NA	NA	NA	batch09	P25062	NA	sequencing failed	NA	NA	NA	NA
+P25062_1480	FL010_FL010_Neg_index	NA	FL010_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL010	NA	NA	NA	batch09	P25062	NA	sequencing failed	NA	NA	NA	NA
+P25062_1576	FL011_FL011_Neg_index	NA	FL011_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL011	NA	NA	NA	batch09	P25062	NA	sequencing failed	NA	NA	NA	NA
+P25062_1672	FL012_FL012_Neg_index	NA	FL012_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL012	NA	NA	NA	batch09	P25062	NA	sequencing failed	NA	NA	NA	NA
+P25062_1768	FL013_FL013_Neg_index	NA	FL013_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL013	NA	NA	NA	batch09	P25062	NA	sequencing failed	NA	NA	NA	NA
+P25258_1545	ELA001_Neg_index	NA	ELA001_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	ELA001	NA	NA	NA	batch10	P25258	NA	sequencing failed	NA	NA	NA	NA
+P25258_1096	FL025_Neg_index	NA	FL025_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL025	NA	NA	NA	batch10	P25258	NA	sequencing failed	NA	NA	NA	NA
+P25258_1192	FL027_Neg_index	NA	FL027_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL027	NA	NA	NA	batch10	P25258	NA	sequencing failed	NA	NA	NA	NA
+P25259_1096	FL014_Neg_index	NA	FL014_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL014	NA	NA	NA	batch11	P25259	NA	sequencing failed	NA	NA	NA	NA
+P25259_1192	FL015_Neg_index	NA	FL015_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL015	NA	NA	NA	batch11	P25259	NA	sequencing failed	NA	NA	NA	NA
+P20863_1096	FL005_neg	NA	FL005_pos	CO1_lysate_2019_SE	positive_control	Sweden	FALSE	FALSE	NA	FL005	NA	3000491410	NA	batch04	P20863	NA	sequencing failed	NA	NA	NA	NA
+P25258_1515	ELA001_H2 p	SLWUQ2	ELA001_H2_p	CO1_homogenate_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	ELA001	NA	3000491450	NA	batch10	P25258	NA	sequencing successfull - sample duplicated	not submitted yet	ERS16369628	not submitted yet	not submitted yet
+P25258_1518	ELA001_H4 p	SY34ZS	ELA001_H4_p	CO1_homogenate_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	ELA001	NA	3000491450	NA	batch10	P25258	NA	sequencing successfull - sample duplicated	not submitted yet	ERS16369630	not submitted yet	not submitted yet
+P25258_1523	ELA001_H8 p	SCNXZK	ELA001_H8_p	CO1_homogenate_2019_SE	sample	Sweden	TRUE	TRUE	samples_metadata_malaise_SE_2019.tsv	ELA001	NA	3000491450	NA	batch10	P25258	NA	sequencing successfull - sample duplicated	not submitted yet	ERS16369634	not submitted yet	not submitted yet
+P28410_1248	FH0010_X	NA	FH0010_X	CO1_homogenate_2019_SE	extraction_neg	Sweden	FALSE	FALSE	NA	FH010	NA	NA	NA	batch18	P28410	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
+P28410_1269	FH0010_XX	NA	FH0010_XX	CO1_homogenate_2019_SE	extraction_neg	Sweden	FALSE	FALSE	NA	FH010	NA	NA	NA	batch18	P28410	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
+P28410_1276	FH0010_XXX	NA	FH0010_XXX	CO1_homogenate_2019_SE	extraction_neg	Sweden	FALSE	FALSE	NA	FH010	NA	NA	NA	batch18	P28410	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
 P20863_1005	IBA_air_5	NA	L104697	CO1_lysate_2021_SE	buffer_blank	Sweden	FALSE	FALSE	NA	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
 P20863_1001	IBA_air_1	SRLPUZ	L104693	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
 P20863_1002	IBA_air_2	SCGYFG	L104694	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
