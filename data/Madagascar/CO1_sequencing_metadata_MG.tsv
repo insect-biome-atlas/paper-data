@@ -1793,6 +1793,38 @@ P27360_1452	FL066_L105390	SZVTZQ	L105390	CO1_lysate_2019_MG	sample	Madagascar	TR
 P27360_1568	FL065_L105318	SZWJPX	L105318	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL065	H4	3000874037	H4	batch15	P27360	sequencing successfull	PRJEB61109	ERS16376408	ERX11438243	ERR12055022
 P27360_1175	FL061_H201634	SZWN47	H201634	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL061	G7	3000491446	G7	batch15	P27360	sequencing successfull	PRJEB61109	ERS16376409	ERX11438244	ERR12055023
 P27360_1524	FL065_L105274	SZXT8M	L105274	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL065	D8	3000874037	D8	batch15	P27360	sequencing successfull	PRJEB61109	ERS16376410	ERX11438245	ERR12055024
+P27361_1338	FL060_H201482	NA	H201482	CO1_lysate_2019_MG	buffer_blank	Madagascar	TRUE	FALSE	NA	FL060	B7	3000491415	B7	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27361_1384	FL060_Neg_index	NA	FL060_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL060	NA	NA	NA	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27360_1384	FL063_Neg_index	NA	FL063_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL063	NA	NA	NA	batch15	P27360	sequencing failed	NA	NA	NA	NA
+P27360_1768	FL067_Neg_index	NA	FL067_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL067	NA	NA	NA	batch15	P27360	sequencing failed	NA	NA	NA	NA
+P27361_1307	FL060_H201490	SEFDYE	H201490	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL060	C3	3000491415	C3	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27361_1149	FL069_L105652	NA	L105652	CO1_lysate_2019_MG	buffer_blank	Madagascar	TRUE	FALSE	NA	FL069	E5	3000874294	E5	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27359_3015	FL058_H201357	NA	H201357	CO1_lysate_2019_MG	mock_sample	Madagascar	TRUE	FALSE	NA	FL058	G6	3000491463	G6	batch14	P27359	sequencing failed	NA	NA	NA	NA
+P27361_1150	FL069_L105653	NA	L105653	CO1_lysate_2019_MG	mock_sample	Madagascar	TRUE	FALSE	NA	FL069	E6	3000874294	E6	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P26762_1288	FL052_Neg_index	NA	FL052_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL052	NA	NA	NA	batch13	P26762	sequencing failed	NA	NA	NA	NA
+P26762_1384	FL053_Neg_index	NA	FL053_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL053	NA	NA	NA	batch13	P26762	sequencing failed	NA	NA	NA	NA
+P27359_1096	FL054_Neg_index	NA	FL054_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL054	NA	NA	NA	batch14	P27359	sequencing failed	NA	NA	NA	NA
+P27359_2936	FL055_Neg_index	NA	FL055_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL055	NA	NA	NA	batch14	P27359	sequencing failed	NA	NA	NA	NA
+P26762_1480	FL056_Neg_index	NA	FL056_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL056	NA	NA	NA	batch13	P26762	sequencing failed	NA	NA	NA	NA
+P27359_1192	FL057_Neg_index	NA	FL057_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL057	NA	NA	NA	batch14	P27359	sequencing failed	NA	NA	NA	NA
+P27359_3033	FL058_Neg_index	NA	FL058_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL058	NA	NA	NA	batch14	P27359	sequencing failed	NA	NA	NA	NA
+P27359_1288	FL059_Neg_index	NA	FL059_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL059	NA	NA	NA	batch14	P27359	sequencing failed	NA	NA	NA	NA
+P27360_1192	FL061_Neg_index	NA	FL061_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL061	NA	NA	NA	batch15	P27360	sequencing failed	NA	NA	NA	NA
+P27360_1096	FL062_Neg_index	NA	FL062_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL062	NA	NA	NA	batch15	P27360	sequencing failed	NA	NA	NA	NA
+P27360_1288	FL064_Neg_index	NA	FL064_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL064	NA	NA	NA	batch15	P27360	sequencing failed	NA	NA	NA	NA
+P27360_1576	FL065_Neg_index	NA	FL065_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL065	NA	NA	NA	batch15	P27360	sequencing failed	NA	NA	NA	NA
+P27360_1480	FL066_Neg_index	NA	FL066_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL066	NA	NA	NA	batch15	P27360	sequencing failed	NA	NA	NA	NA
+P27360_1672	FL068_Neg_index	NA	FL068_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL068	NA	NA	NA	batch15	P27360	sequencing failed	NA	NA	NA	NA
+P27361_1192	FL069_Neg_index	NA	FL069_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL069	NA	NA	NA	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27361_1096	FL070_Neg_index	NA	FL070_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL070	NA	NA	NA	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27361_1288	FL071_Neg_index	NA	FL071_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL071	NA	NA	NA	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27361_1480	FL072_Neg_index	NA	FL072_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL072	NA	NA	NA	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27361_1576	FL073_Neg_index	NA	FL073_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL073	NA	NA	NA	batch16	P27361	sequencing failed	NA	NA	NA	NA
+P27359_2934	FL055_pos	NA	FL055_pos	CO1_lysate_2019_MG	positive_control	Madagascar	FALSE	FALSE	NA	FL055	NA	3000491390	NA	batch14	P27359	sequencing failed	NA	NA	NA	NA
+P26762_1247	FL052_L104806	S3P7VH	L104806	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL052	G7	3000491448	G7	batch13	P26762	sequencing failed	NA	NA	NA	NA
+P26762_1333	FL053_L104873	SSFRMT	L104873	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL053	E6	3000491461	E6	batch13	P26762	sequencing failed	NA	NA	NA	NA
+P27359_1207	FL059_H201386	S9PZET	H201386	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL059	B3	3000491451	B3	batch14	P27359	sequencing failed	NA	NA	NA	NA
+P27361_1148	FL069_L105651	S1NEZ4	L105651	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL069	E4	3000874294	E4	batch16	P27361	sequencing failed	NA	NA	NA	NA
 P27359_2858	FL055_H201020	NA	H201020	CO1_lysate_2019_MG	buffer_blank	Madagascar	TRUE	FALSE	NA	FL055	B6	3000491390	B6	batch14	P27359	sequencing successfull	not submitted yet	ERS16376958	not submitted yet	not submitted yet
 P27361_1294	FL060_H201524	NA	H201524	CO1_lysate_2019_MG	buffer_blank	Madagascar	TRUE	FALSE	NA	FL060	F1	3000491415	F1	batch16	P27361	sequencing successfull	not submitted yet	ERS16376992	not submitted yet	not submitted yet
 P27360_1292	FL063_L105083	NA	L105083	CO1_lysate_2019_MG	buffer_blank	Madagascar	TRUE	FALSE	NA	FL063	D1	3000873922	D1	batch15	P27360	sequencing successfull	not submitted yet	ERS16376981	not submitted yet	not submitted yet
@@ -2079,35 +2111,3 @@ P27360_1712	FL067_L105504	SZDJCI	L105504	CO1_lysate_2019_MG	sample	Madagascar	TR
 P27360_1720	FL067_L105505	SYV6A2	L105505	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL067	H6	3000874291	H6	batch15	P27360	sequencing successfull	not submitted yet	ERS16376379	not submitted yet	not submitted yet
 P27360_1728	FL067_L105506	SABDKV	L105506	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL067	H7	3000874291	H7	batch15	P27360	sequencing successfull	not submitted yet	ERS16375825	not submitted yet	not submitted yet
 P27360_1736	FL067_L105507	SE7TVJ	L105507	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL067	H8	3000874291	H8	batch15	P27360	sequencing successfull	not submitted yet	ERS16375921	not submitted yet	not submitted yet
-P27361_1338	FL060_H201482	NA	H201482	CO1_lysate_2019_MG	buffer_blank	Madagascar	TRUE	FALSE	NA	FL060	B7	3000491415	B7	batch16	P27361	failed sequencing	NA	ERS16376991	NA	NA
-P27361_1384	FL060_Neg_index	NA	FL060_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL060	NA	NA	NA	batch16	P27361	failed sequencing	NA	ERS16377103	NA	NA
-P27360_1384	FL063_Neg_index	NA	FL063_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL063	NA	NA	NA	batch15	P27360	failed sequencing	NA	ERS16377091	NA	NA
-P27360_1768	FL067_Neg_index	NA	FL067_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL067	NA	NA	NA	batch15	P27360	failed sequencing	NA	ERS16377099	NA	NA
-P27361_1307	FL060_H201490	SEFDYE	H201490	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL060	C3	3000491415	C3	batch16	P27361	failed sequencing	NA	ERS16376576	NA	NA
-P27361_1149	FL069_L105652	NA	L105652	CO1_lysate_2019_MG	buffer_blank	Madagascar	TRUE	FALSE	NA	FL069	E5	3000874294	E5	batch16	P27361	failed sequencing	NA	ERS16376996	NA	NA
-P27359_3015	FL058_H201357	NA	H201357	CO1_lysate_2019_MG	mock_sample	Madagascar	TRUE	FALSE	NA	FL058	G6	3000491463	G6	batch14	P27359	failed sequencing	NA	ERS16377035	NA	NA
-P27361_1150	FL069_L105653	NA	L105653	CO1_lysate_2019_MG	mock_sample	Madagascar	TRUE	FALSE	NA	FL069	E6	3000874294	E6	batch16	P27361	failed sequencing	NA	ERS16377061	NA	NA
-P26762_1288	FL052_Neg_index	NA	FL052_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL052	NA	NA	NA	batch13	P26762	failed sequencing	NA	ERS16377071	NA	NA
-P26762_1384	FL053_Neg_index	NA	FL053_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL053	NA	NA	NA	batch13	P26762	failed sequencing	NA	ERS16377073	NA	NA
-P27359_1096	FL054_Neg_index	NA	FL054_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL054	NA	NA	NA	batch14	P27359	failed sequencing	NA	ERS16377077	NA	NA
-P27359_2936	FL055_Neg_index	NA	FL055_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL055	NA	NA	NA	batch14	P27359	failed sequencing	NA	ERS16377079	NA	NA
-P26762_1480	FL056_Neg_index	NA	FL056_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL056	NA	NA	NA	batch13	P26762	failed sequencing	NA	ERS16377075	NA	NA
-P27359_1192	FL057_Neg_index	NA	FL057_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL057	NA	NA	NA	batch14	P27359	failed sequencing	NA	ERS16377081	NA	NA
-P27359_3033	FL058_Neg_index	NA	FL058_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL058	NA	NA	NA	batch14	P27359	failed sequencing	NA	ERS16377083	NA	NA
-P27359_1288	FL059_Neg_index	NA	FL059_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL059	NA	NA	NA	batch14	P27359	failed sequencing	NA	ERS16377085	NA	NA
-P27360_1192	FL061_Neg_index	NA	FL061_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL061	NA	NA	NA	batch15	P27360	failed sequencing	NA	ERS16377087	NA	NA
-P27360_1096	FL062_Neg_index	NA	FL062_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL062	NA	NA	NA	batch15	P27360	failed sequencing	NA	ERS16377089	NA	NA
-P27360_1288	FL064_Neg_index	NA	FL064_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL064	NA	NA	NA	batch15	P27360	failed sequencing	NA	ERS16377093	NA	NA
-P27360_1576	FL065_Neg_index	NA	FL065_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL065	NA	NA	NA	batch15	P27360	failed sequencing	NA	ERS16377095	NA	NA
-P27360_1480	FL066_Neg_index	NA	FL066_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL066	NA	NA	NA	batch15	P27360	failed sequencing	NA	ERS16377097	NA	NA
-P27360_1672	FL068_Neg_index	NA	FL068_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL068	NA	NA	NA	batch15	P27360	failed sequencing	NA	ERS16377101	NA	NA
-P27361_1192	FL069_Neg_index	NA	FL069_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL069	NA	NA	NA	batch16	P27361	failed sequencing	NA	ERS16377105	NA	NA
-P27361_1096	FL070_Neg_index	NA	FL070_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL070	NA	NA	NA	batch16	P27361	failed sequencing	NA	ERS16377107	NA	NA
-P27361_1288	FL071_Neg_index	NA	FL071_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL071	NA	NA	NA	batch16	P27361	failed sequencing	NA	ERS16377109	NA	NA
-P27361_1480	FL072_Neg_index	NA	FL072_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL072	NA	NA	NA	batch16	P27361	failed sequencing	NA	ERS16377111	NA	NA
-P27361_1576	FL073_Neg_index	NA	FL073_Neg_index	CO1_lysate_2019_MG	pcr_neg	Madagascar	FALSE	FALSE	NA	FL073	NA	NA	NA	batch16	P27361	failed sequencing	NA	ERS16377113	NA	NA
-P27359_2934	FL055_pos	NA	FL055_pos	CO1_lysate_2019_MG	positive_control	Madagascar	FALSE	FALSE	NA	FL055	NA	3000491390	NA	batch14	P27359	failed sequencing	NA	ERS16377119	NA	NA
-P26762_1247	FL052_L104806	S3P7VH	L104806	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL052	G7	3000491448	G7	batch13	P26762	failed sequencing	NA	ERS16375024	NA	NA
-P26762_1333	FL053_L104873	SSFRMT	L104873	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL053	E6	3000491461	E6	batch13	P26762	failed sequencing	NA	ERS16375196	NA	NA
-P27359_1207	FL059_H201386	S9PZET	H201386	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL059	B3	3000491451	B3	batch14	P27359	failed sequencing	NA	ERS16375331	NA	NA
-P27361_1148	FL069_L105651	S1NEZ4	L105651	CO1_lysate_2019_MG	sample	Madagascar	TRUE	FALSE	samples_metadata_malaise_MG_2019.tsv	FL069	E4	3000874294	E4	batch16	P27361	failed sequencing	NA	ERS16376418	NA	NA
