@@ -6195,11 +6195,11 @@ P25061_1096	FL048_FL048_Neg_index	NA	FL048_Neg_index	CO1_lysate_2019_SE	pcr_neg	
 P25061_1384	FL049_FL049_Neg_index	NA	FL049_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL049	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
 P25061_1480	FL050_FL050_Neg_index	NA	FL050_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL050	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
 P25061_1726	FL051_FL051_Neg_index	NA	FL051_Neg_index	CO1_lysate_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	FL051	NA	NA	NA	batch08	P25061	NA	sequencing failed	NA	NA	NA	NA
-P20863_1001	IBA_air_1	SRLPUZ	L104693	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
-P20863_1002	IBA_air_2	SCGYFG	L104694	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
-P20863_1003	IBA_air_3	SRHTTH	L104695	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
-P20863_1004	IBA_air_4	SUW7PR	L104696	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
-P20863_1005	IBA_air_5	NA	L104697	CO1_lysate_2021_SE	buffer_blank	Sweden	FALSE	FALSE	NA	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	not submitted yet	not submitted yet	not submitted yet	not submitted yet
+P20863_1001	IBA_air_1	SRLPUZ	L104693	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	PRJEB61109	ERS18988470	ERX12288633	ERR12916286
+P20863_1002	IBA_air_2	SCGYFG	L104694	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	PRJEB61109	ERS18988471	ERX12288634	ERR12916287
+P20863_1003	IBA_air_3	SRHTTH	L104695	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	PRJEB61109	ERS18988472	ERX12288635	ERR12916288
+P20863_1004	IBA_air_4	SUW7PR	L104696	CO1_lysate_2021_SE	sample	Sweden	TRUE	FALSE	samples_metadata_malaise_SE_2021.tsv	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	PRJEB61109	ERS18988469	ERX12288636	ERR12916289
+P20863_1005	IBA_air_5	NA	L104697	CO1_lysate_2021_SE	buffer_blank	Sweden	FALSE	FALSE	NA	NA	NA	NA	NA	batch04	P20863	NA	sequencing successfull	PRJEB61109	ERS18988473	ERX12288637	ERR12916290
 P25259_1576	SOIL001_Neg_index	NA	SOIL001_Neg_index	CO1_soil_litter_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	SOIL001	NA	NA	NA	batch11	P25259	NA	sequencing failed	NA	NA	NA	NA
 P25259_1480	SOIL002_Neg_index	NA	SOIL002_Neg_index	CO1_soil_litter_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	SOIL002	NA	NA	NA	batch11	P25259	NA	sequencing failed	NA	NA	NA	NA
 P25259_1672	SOIL003_Neg_index	NA	SOIL003_Neg_index	CO1_soil_litter_2019_SE	pcr_neg	Sweden	FALSE	FALSE	NA	SOIL003	NA	NA	NA	batch11	P25259	NA	sequencing failed	NA	NA	NA	NA
