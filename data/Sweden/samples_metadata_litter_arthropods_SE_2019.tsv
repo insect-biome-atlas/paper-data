@@ -1,190 +1,190 @@
-sampleID_FIELD	trapID	sample_type	date	time	litter_depth_mm_v1	litter_depth_mm_v2	litter_depth_mm_v3	litter_depth_mm_v4	litter_depth_mm_v5	raining	macrofauna_notes	filtration_method
-T8EUCF_L	T8EUCF	litter	10-07-2019	10:25:00_AM	30	40	70	80	5	FALSE	heterogeneous	adapted_flotation
-TZDKD7_L	TZDKD7	litter	05-07-2019	02:40:00_PM	50	20	15	40	100	FALSE	heterogeneous	adapted_flotation
-TDUYXP_L	TDUYXP	litter	18-07-2019	02:30:00_PM	10	2	2	25	30	FALSE	heterogeneous	clean
-TFUBVV_L	TFUBVV	litter	24-07-2019	10:15:00_AM	7	4	3	8	4	FALSE	heterogeneous	clean
-TWF14R_L	TWF14R	litter	24-07-2019	09:50:00_AM	10	3	0	2	20	FALSE	heterogeneous	clean
-TE2T4A_L	TE2T4A	litter	24-07-2019	10:40:00_AM	20	10	15	10	10	FALSE	1_specimen	dirty
-T5KGVY_L	T5KGVY	litter	23-07-2019	04:25:00_PM	20	30	40	35	25	FALSE	heterogeneous	dirty
-TF3STP_L	TF3STP	litter	04-07-2019	03:00:00_PM	40	30	30	35	20	TRUE	heterogeneous	double_flotation
-TGX4C7_L	TGX4C7	litter	24-07-2019	09:00:00_AM	25	15	15	20	25	FALSE	heterogeneous	double_flotation
-TSVHD1_L	TSVHD1	litter	23-07-2019	11:35:00_AM	10	50	20	15	5	FALSE	heterogeneous	double_flotation
-T4EMTM_L	T4EMTM	litter	20-07-2019	02:50:00_PM	10	50	30	10	5	FALSE	no_macrofauna	flotation
-TXLZ8M_L	TXLZ8M	litter	21-07-2019	05:00:00_PM	30	10	30	40	25	FALSE	no_macrofauna	flotation
-T6YFBI_L	T6YFBI	litter	22-07-2019	03:00:00_PM	10	5	50	1	5	FALSE	1_specimen	flotation
-TBGIW1_L	TBGIW1	litter	03-07-2019	04:00:00_PM	7	3	9	5	3	FALSE	1_specimen	flotation
-TBGYQQ_L	TBGYQQ	litter	04-07-2019	10:30:00_AM	30	50	35	20	15	TRUE	1_specimen	flotation
-TBLZ38_L	TBLZ38	litter	18-07-2019	03:55:00_PM	3	0	1	2	3	FALSE	1_specimen	flotation
-TC6XPC_L	TC6XPC	litter	17-07-2019	07:40:00_AM	10	20	10	5	10	FALSE	1_specimen	flotation
-TFECCG_L	TFECCG	litter	23-07-2019	08:08:00_AM	0	2	3	0	2	FALSE	1_specimen	flotation
-THFUHH_L	THFUHH	litter	10-07-2019	10:30:00_AM	35	20	25	5	20	FALSE	1_specimen	flotation
-TJZHPY_L	TJZHPY	litter	20-07-2019	04:25:00_PM	1	1	1	1	2	FALSE	1_specimen	flotation
-TKIAHP_L	TKIAHP	litter	01-07-2019	01:35:00_PM	10	8	5	4	8	TRUE	1_specimen	flotation
-TKSUA6_L	TKSUA6	litter	18-07-2019	05:00:00_PM	15	25	70	40	60	FALSE	1_specimen	flotation
-TLFEGH_L	TLFEGH	litter	02-07-2019	02:15:00_PM	5	12	5	4	4	FALSE	1_specimen	flotation
-TM5LBB_L	TM5LBB	litter	01-07-2019	01:30:00_PM	3	2	3	2	2	TRUE	1_specimen	flotation
-TTAPUR_L	TTAPUR	litter	13-07-2019	03:30:00_PM	20	15	10	5	20	FALSE	1_specimen	flotation
-TWRXFI_L	TWRXFI	litter	29-07-2019	09:20:00_AM	5	6	25	4	18	FALSE	1_specimen	flotation
-TZQFGP_L	TZQFGP	litter	10-07-2019	06:30:00_PM	25	30	40	20	10	FALSE	1_specimen	flotation
-THGYUE_L	THGYUE	litter	30-06-2019	11:00:00_AM	20	10	10	10	15	TRUE	2_specimens	flotation
-TRICKN_L	TRICKN	litter	15-07-2019	09:55:00_AM	10	10	5	9	12	FALSE	2_specimens	flotation
-T1TL12_L	T1TL12	litter	02-07-2019	01:20:00_PM	30	40	15	35	20	FALSE	2_specimens	flotation
-T2KQJZ_L	T2KQJZ	litter	23-07-2019	02:45:00_PM	30	40	20	15	20	FALSE	2_specimens	flotation
-T5FPCF_L	T5FPCF	litter	16-07-2019	02:05:00_PM	10	15	25	10	10	FALSE	2_specimens	flotation
-T7ZDZJ_L	T7ZDZJ	litter	11-07-2019	02:45:00_PM	15	25	30	35	20	FALSE	2_specimens	flotation
-TAI56Z_L	TAI56Z	litter	03-07-2019	11:30:00_AM	35	30	40	5	5	FALSE	2_specimens	flotation
-TFGCME_L	TFGCME	litter	24-07-2019	11:30:00_AM	15	10	10	20	15	FALSE	2_specimens	flotation
-TFIA7R_L	TFIA7R	litter	27-07-2019	10:20:00_AM	15	25	20	30	20	FALSE	2_specimens	flotation
-TKGCFR_L	TKGCFR	litter	02-07-2019	03:30:00_PM	10	20	10	15	5	FALSE	2_specimens	flotation
-TMMIG9_L	TMMIG9	litter	21-07-2019	08:27:00_AM	10	10	15	30	20	FALSE	2_specimens	flotation
-TS2P4Q_L	TS2P4Q	litter	16-07-2019	02:30:00_PM	10	10	20	30	40	FALSE	2_specimens	flotation
-TSEQHD_L	TSEQHD	litter	04-07-2019	12:30:00_PM	15	30	10	10	5	TRUE	2_specimens	flotation
-TUQQIV_L	TUQQIV	litter	15-07-2019	06:20:00_PM	30	15	15	30	40	FALSE	2_specimens	flotation
-TWJED2_L	TWJED2	litter	19-07-2019	10:20:00_AM	15	25	35	30	20	FALSE	2_specimens	flotation
-T2YSPU_L	T2YSPU	litter	04-07-2019	02:20:00_PM	1	1	3	2	1	FALSE	3_specimens	flotation
-T9UPWP_L	T9UPWP	litter	17-07-2019	10:00:00_AM	60	20	20	40	45	FALSE	3_specimens	flotation
-TAPGMG_L	TAPGMG	litter	12-07-2019	08:45:00_AM	12	28	9	15	10	FALSE	3_specimens	flotation
-TARUGI_L	TARUGI	litter	16-07-2019	02:20:00_PM	12	11	8	10	7	TRUE	3_specimens	flotation
-TBPT1B_L	TBPT1B	litter	20-07-2019	11:00:00_AM	15	30	40	25	35	FALSE	3_specimens	flotation
-TEHHBJ_L	TEHHBJ	litter	08-07-2019	NA	NA	NA	NA	NA	NA	NA	3_specimens	flotation
-THGNFM_L	THGNFM	litter	22-07-2019	01:50:00_PM	5	10	5	5	20	FALSE	3_specimens	flotation
-TJNMNV_L	TJNMNV	litter	17-07-2019	10:30:00_AM	1	1	1	1	1	FALSE	3_specimens	flotation
-TLCIG9_L	TLCIG9	litter	02-07-2019	05:45:00_PM	15	20	10	10	15	FALSE	3_specimens	flotation
-TUQ4KK_L	TUQ4KK	litter	24-07-2019	04:35:00_PM	4	2	1	2	3	FALSE	3_specimens	flotation
-TVNBV7_L	TVNBV7	litter	03-07-2019	10:00:00_AM	20	25	20	5	10	FALSE	3_specimens	flotation
-TYBVXB_L	TYBVXB	litter	26-06-2019	02:20:00_PM	2	3	10	5	5	TRUE	3_specimens	flotation
-TZ6Q7T_L	TZ6Q7T	litter	21-07-2019	12:10:00_PM	60	70	35	50	35	FALSE	3_specimens	flotation
-T2NGGK_L	T2NGGK	litter	17-07-2019	09:15:00_AM	5	3	2	2	3	FALSE	heterogeneous	flotation
-T2T1DJ_L	T2T1DJ	litter	02-07-2019	12:30:00_PM	35	50	20	40	35	FALSE	heterogeneous	flotation
-T2YFPK_L	T2YFPK	litter	09-07-2019	09:07:00_AM	40	50	20	40	20	TRUE	heterogeneous	flotation
-T3NLMJ_L	T3NLMJ	litter	09-07-2019	01:20:00_PM	5	10	20	5	10	FALSE	heterogeneous	flotation
-T5XNHX_L	T5XNHX	litter	01-07-2019	05:40:00_PM	10	15	11	7	5	FALSE	heterogeneous	flotation
-T83QWB_L	T83QWB	litter	11-07-2019	12:20:00_PM	30	35	30	20	25	FALSE	heterogeneous	flotation
-TCD3P4_L	TCD3P4	litter	09-07-2019	04:20:00_PM	10	3	25	10	5	FALSE	heterogeneous	flotation
-TCSZX1_L	TCSZX1	litter	02-07-2019	10:15:00_AM	50	60	60	30	50	FALSE	heterogeneous	flotation
-TD5LHA_L	TD5LHA	litter	02-07-2019	04:30:00_PM	20	20	20	50	80	TRUE	heterogeneous	flotation
-TDCIPI_L	TDCIPI	litter	16-07-2019	11:50:00_AM	15	20	10	20	10	TRUE	heterogeneous	flotation
-TEYZYN_L	TEYZYN	litter	08-07-2019	02:30:00_PM	5	5	15	10	10	FALSE	heterogeneous	flotation
-TFHNHU_L	TFHNHU	litter	15-07-2019	02:45:00_PM	10	15	20	30	20	TRUE	heterogeneous	flotation
-TG4NHB_L	TG4NHB	litter	03-07-2019	11:30:00_AM	10	2	30	5	2	FALSE	heterogeneous	flotation
-TGTDBY_L	TGTDBY	litter	12-07-2019	02:20:00_PM	5	10	10	15	20	TRUE	heterogeneous	flotation
-TGXFSR_L	TGXFSR	litter	18-07-2019	09:30:00_AM	10	3	20	5	3	FALSE	heterogeneous	flotation
-THGUAX_L	THGUAX	litter	23-07-2019	01:55:00_PM	20	15	25	10	15	FALSE	heterogeneous	flotation
-THKAWB_L	THKAWB	litter	21-07-2019	11:25:00_AM	10	15	10	0	5	FALSE	heterogeneous	flotation
-TIUVZ1_L	TIUVZ1	litter	10-07-2019	04:50:00_PM	10	5	5	5	10	FALSE	heterogeneous	flotation
-TJS8IY_L	TJS8IY	litter	01-07-2019	10:30:00_AM	20	50	10	80	40	TRUE	heterogeneous	flotation
-TJXPPV_L	TJXPPV	litter	02-07-2019	07:10:00_PM	40	30	20	20	50	TRUE	heterogeneous	flotation
-TJXUUR_L	TJXUUR	litter	16-07-2019	12:50:00_PM	35	50	35	70	20	FALSE	heterogeneous	flotation
-TK3EAJ_L	TK3EAJ	litter	30-06-2019	05:15:00_PM	2	3	4	2	2	FALSE	heterogeneous	flotation
-TKMUNP_L	TKMUNP	litter	25-07-2019	03:50:00_PM	20	10	10	30	10	FALSE	heterogeneous	flotation
-TLG2QC_L	TLG2QC	litter	10-07-2019	01:05:00_PM	25	5	30	40	30	FALSE	heterogeneous	flotation
-TM4GA9_L	TM4GA9	litter	23-07-2019	09:15:00_AM	30	2	30	20	15	TRUE	heterogeneous	flotation
-TND7ZQ_L	TND7ZQ	litter	05-07-2019	10:30:00_AM	25	30	10	5	30	TRUE	heterogeneous	flotation
-TPXB6L_L	TPXB6L	litter	12-07-2019	09:40:00_AM	20	3	5	5	15	FALSE	heterogeneous	flotation
-TR24WG_L	TR24WG	litter	18-07-2019	09:30:00_AM	3	0	0	2	5	FALSE	heterogeneous	flotation
-TRB71K_L	TRB71K	litter	15-07-2019	10:20:00_AM	5	30	40	20	10	TRUE	heterogeneous	flotation
-TSFYKU_L	TSFYKU	litter	05-07-2019	03:45:00_PM	20	10	40	15	15	FALSE	heterogeneous	flotation
-TTNYZZ_L	TTNYZZ	litter	11-07-2019	01:37:00_PM	20	20	15	40	35	FALSE	heterogeneous	flotation
-TUHLET_L	TUHLET	litter	16-07-2019	10:15:00_AM	5	10	2	30	10	FALSE	heterogeneous	flotation
-TV5KPB_L	TV5KPB	litter	08-07-2019	08:30:00_AM	20	50	100	40	60	FALSE	heterogeneous	flotation
-TWCPQR_L	TWCPQR	litter	26-06-2019	12:20:00_PM	1	20	35	10	25	TRUE	heterogeneous	flotation
-TWLJ2P_L	TWLJ2P	litter	26-06-2019	02:40:00_PM	150	30	40	35	30	TRUE	heterogeneous	flotation
-TWVCXF_L	TWVCXF	litter	15-07-2019	09:45:00_AM	10	20	15	30	5	FALSE	heterogeneous	flotation
-TXGZUY_L	TXGZUY	litter	12-07-2019	03:15:00_PM	40	40	35	20	25	TRUE	heterogeneous	flotation
-TYDUPV_L	TYDUPV	litter	11-07-2019	10:20:00_AM	40	10	10	15	30	FALSE	heterogeneous	flotation
-TYKZSN_L	TYKZSN	litter	16-07-2019	12:40:00_PM	40	20	20	15	30	TRUE	heterogeneous	flotation
-T1KSIA_L	T1KSIA	litter	16-07-2019	09:45:00_AM	10	5	30	10	20	FALSE	homogeneous	flotation
-T1YMRX_L	T1YMRX	litter	20-07-2019	12:30:00_PM	2	5	6	10	10	FALSE	homogeneous	flotation
-T5R3X9_L	T5R3X9	litter	27-07-2019	10:40:00_AM	50	40	10	10	20	FALSE	homogeneous	flotation
-T5ZUGG_L	T5ZUGG	litter	08-07-2019	09:50:00_AM	0	2	20	5	0	FALSE	homogeneous	flotation
-T6K6TA_L	T6K6TA	litter	05-07-2019	02:00:00_PM	40	45	30	15	20	TRUE	homogeneous	flotation
-T6WPKD_L	T6WPKD	litter	02-07-2019	04:30:00_PM	20	20	15	10	5	FALSE	homogeneous	flotation
-T7WIMF_L	T7WIMF	litter	17-07-2019	01:00:00_PM	10	5	30	30	5	FALSE	homogeneous	flotation
-T8B7KU_L	T8B7KU	litter	26-07-2019	11:20:00_AM	15	35	5	3	25	FALSE	homogeneous	flotation
-T8IKAG_L	T8IKAG	litter	09-07-2019	04:00:00_PM	20	20	15	10	10	FALSE	homogeneous	flotation
-T9DY9N_L	T9DY9N	litter	08-07-2019	12:25:00_PM	15	10	30	20	10	FALSE	homogeneous	flotation
-TAKAXU_L	TAKAXU	litter	19-07-2019	03:40:00_PM	5	30	10	15	20	FALSE	homogeneous	flotation
-TC8QBB_L	TC8QBB	litter	23-07-2019	01:00:00_PM	10	3	2	2	5	FALSE	homogeneous	flotation
-TDGVY8_L	TDGVY8	litter	11-07-2019	03:00:00_PM	1	1	1	2	1	FALSE	homogeneous	flotation
-TFLSK1_L	TFLSK1	litter	04-07-2019	02:05:00_PM	10	20	15	20	10	FALSE	homogeneous	flotation
-TFQDEE_L	TFQDEE	litter	22-07-2019	02:53:00_PM	20	20	10	30	15	FALSE	homogeneous	flotation
-TG6JK1_L	TG6JK1	litter	12-07-2019	08:41:00_AM	40	40	20	25	50	TRUE	homogeneous	flotation
-TI93DT_L	TI93DT	litter	19-07-2019	02:00:00_PM	20	20	15	15	20	FALSE	homogeneous	flotation
-TIJXRJ_L	TIJXRJ	litter	19-07-2019	09:50:00_AM	20	35	30	20	50	FALSE	homogeneous	flotation
-TIS5BD_L	TIS5BD	litter	03-07-2019	10:50:00_AM	25	35	20	10	20	FALSE	homogeneous	flotation
-TJZEUI_L	TJZEUI	litter	23-07-2019	07:30:00_PM	15	10	10	5	10	FALSE	homogeneous	flotation
-TK5FQJ_L	TK5FQJ	litter	02-07-2019	10:55:00_AM	8	10	7	10	10	FALSE	homogeneous	flotation
-TKBVDW_L	TKBVDW	litter	20-07-2019	12:10:00_PM	5	5	10	10	10	FALSE	homogeneous	flotation
-TKLVMZ_L	TKLVMZ	litter	23-07-2019	12:30:00_PM	30	45	30	15	20	FALSE	homogeneous	flotation
-TKMZ5X_L	TKMZ5X	litter	11-07-2019	05:30:00_PM	20	10	30	30	40	FALSE	homogeneous	flotation
-TL3KCT_L	TL3KCT	litter	10-07-2019	08:24:00_AM	5	30	25	15	10	FALSE	homogeneous	flotation
-TM9NNJ_L	TM9NNJ	litter	11-07-2019	11:00:00_AM	15	20	30	35	25	FALSE	homogeneous	flotation
-TNLTYQ_L	TNLTYQ	litter	11-07-2019	02:50:00_PM	3	5	5	10	15	FALSE	homogeneous	flotation
-TNPKST_L	TNPKST	litter	16-07-2019	12:20:00_PM	4	2	2	8	5	TRUE	homogeneous	flotation
-TPUCG4_L	TPUCG4	litter	26-06-2019	01:55:00_PM	25	30	20	10	20	TRUE	homogeneous	flotation
-TS1LPT_L	TS1LPT	litter	21-07-2019	01:55:00_PM	5	0	10	10	3	FALSE	homogeneous	flotation
-TS6VW9_L	TS6VW9	litter	20-07-2019	02:10:00_PM	5	5	5	10	5	FALSE	homogeneous	flotation
-TSFXCZ_L	TSFXCZ	litter	22-07-2019	08:05:00_AM	5	10	10	0	15	FALSE	homogeneous	flotation
-TSKEKT_L	TSKEKT	litter	09-07-2019	09:50:00_AM	30	50	40	20	30	FALSE	homogeneous	flotation
-TTE4BQ_L	TTE4BQ	litter	03-07-2019	10:45:00_AM	5	5	30	25	15	FALSE	homogeneous	flotation
-TU2YW9_L	TU2YW9	litter	16-07-2019	08:50:00_AM	25	30	30	20	15	TRUE	homogeneous	flotation
-TWFXXZ_L	TWFXXZ	litter	02-07-2019	07:00:00_PM	50	50	30	15	20	FALSE	homogeneous	flotation
-TWQDCF_L	TWQDCF	litter	01-07-2019	02:10:00_PM	1	1	1	1	1	TRUE	homogeneous	flotation
-TZRRMG_L	TZRRMG	litter	17-07-2019	02:35:00_PM	20	10	15	10	15	TRUE	homogeneous	flotation
-TZVTYZ_L	TZVTYZ	litter	02-07-2019	09:00:00_AM	30	40	35	20	30	FALSE	homogeneous	flotation
-T1QLZR_L	T1QLZR	litter	17-07-2019	12:30:00_PM	5	0	15	10	10	FALSE	no_macrofauna	flotation
-TCIHNW_L	TCIHNW	litter	26-07-2019	04:30:00_PM	20	30	10	10	30	FALSE	no_macrofauna	flotation
-TCMKFJ_L	TCMKFJ	litter	10-07-2019	01:55:00_PM	4	3	3	2	2	FALSE	no_macrofauna	flotation
-TFFDRE_L	TFFDRE	litter	19-07-2019	01:00:00_PM	70	50	45	30	60	FALSE	no_macrofauna	flotation
-TGCHAV_L	TGCHAV	litter	19-07-2019	03:30:00_PM	5	30	35	25	20	FALSE	no_macrofauna	flotation
-THBEZ5_L	THBEZ5	litter	03-07-2019	04:15:00_PM	50	45	30	50	40	FALSE	no_macrofauna	flotation
-TIAIK1_L	TIAIK1	litter	17-07-2019	10:30:00_AM	5	5	10	5	0	FALSE	no_macrofauna	flotation
-TIRXWF_L	TIRXWF	litter	16-07-2019	03:00:00_PM	5	5	10	10	5	TRUE	no_macrofauna	flotation
-TJBXIG_L	TJBXIG	litter	10-07-2019	02:30:00_PM	20	10	5	30	10	FALSE	no_macrofauna	flotation
-TKCEJN_L	TKCEJN	litter	03-07-2019	02:00:00_PM	15	35	50	70	30	FALSE	no_macrofauna	flotation
-TLY1VQ_L	TLY1VQ	litter	23-07-2019	04:15:00_PM	10	10	10	10	20	FALSE	no_macrofauna	flotation
-TRXMCY_L	TRXMCY	litter	17-07-2019	01:30:00_PM	5	10	15	5	5	FALSE	no_macrofauna	flotation
-TT79BQ_L	TT79BQ	litter	23-07-2019	01:15:00_PM	10	10	5	20	10	FALSE	no_macrofauna	flotation
-TUBWQK_L	TUBWQK	litter	11-07-2019	08:49:00_AM	10	15	30	35	50	FALSE	no_macrofauna	flotation
-TV2QKF_L	TV2QKF	litter	08-07-2019	03:25:00_PM	5	3	4	4	3	FALSE	no_macrofauna	flotation
-TV6Z5Y_L	TV6Z5Y	litter	15-07-2019	07:30:00_PM	10	15	25	20	20	FALSE	no_macrofauna	flotation
-TWSFGJ_L	TWSFGJ	litter	19-07-2019	08:30:00_AM	3	0	5	10	3	FALSE	no_macrofauna	flotation
-TYAASL_L	TYAASL	litter	04-07-2019	10:00:00_AM	4	3	3	4	4	FALSE	no_macrofauna	flotation
-TYKB9L_L	TYKB9L	litter	30-06-2019	01:35:00_PM	10	7	14	5	9	FALSE	no_macrofauna	flotation
-TYRKAV_L	TYRKAV	litter	27-07-2019	06:00:00_PM	2	2	5	17	20	FALSE	no_macrofauna	flotation
-TYUAHW_L	TYUAHW	litter	26-06-2019	02:20:00_PM	10	5	10	18	5	TRUE	no_macrofauna	flotation
-TZFRJA_L	TZFRJA	litter	18-07-2019	01:14:00_PM	3	0	2	5	2	FALSE	no_macrofauna	flotation
-TZWKHK_L	TZWKHK	litter	19-07-2019	06:00:00_PM	1	10	20	15	1	FALSE	no_macrofauna	flotation
-THG7AZ_L	THG7AZ	litter	15-07-2019	12:45:00_PM	10	5	10	4	4	FALSE	1_specimen	intermediate
-TG8NKF_L	TG8NKF	litter	11-07-2019	10:50:00_AM	4	2	1	2	3	FALSE	1_specimen	intermediate
-TLFBSS_L	TLFBSS	litter	01-07-2019	08:50:00_AM	1	2	4	5	5	FALSE	1_specimen	intermediate
-TMYD2K_L	TMYD2K	litter	25-07-2019	01:00:00_PM	10	20	20	10	20	FALSE	1_specimen	intermediate
-TSDGQK_L	TSDGQK	litter	01-07-2019	01:00:00_PM	5	30	30	10	20	TRUE	2_specimens	intermediate
-TSTZUY_L	TSTZUY	litter	26-07-2019	01:15:00_PM	12	8	7	11	20	FALSE	2_specimens	intermediate
-T5CELX_L	T5CELX	litter	03-07-2019	01:05:00_PM	10	15	9	15	12	FALSE	3_specimens	intermediate
-TDGFXV_L	TDGFXV	litter	10-07-2019	03:35:00_PM	30	25	30	30	20	FALSE	3_specimens	intermediate
-TEPZPF_L	TEPZPF	litter	26-07-2019	01:05:00_PM	5	5	10	30	10	FALSE	3_specimens	intermediate
-TMNPJH_L	TMNPJH	litter	01-07-2019	05:00:00_PM	10	20	5	15	20	FALSE	3_specimens	intermediate
-TXHDAT_L	TXHDAT	litter	09-07-2019	11:50:00_AM	10	20	25	40	60	FALSE	3_specimens	intermediate
-T6LS76_L	T6LS76	litter	22-07-2019	05:00:00_PM	50	10	10	20	20	FALSE	heterogeneous	intermediate
-TBSQHF_L	TBSQHF	litter	22-07-2019	12:39:00_PM	20	10	0	20	30	TRUE	heterogeneous	intermediate
-TPFJTD_L	TPFJTD	litter	26-06-2019	02:00:00_PM	40	25	60	20	5	TRUE	heterogeneous	intermediate
-TQNH2B_L	TQNH2B	litter	26-07-2019	04:00:00_PM	20	15	10	10	30	FALSE	heterogeneous	intermediate
-TRH2QM_L	TRH2QM	litter	23-07-2019	05:15:00_PM	45	35	20	25	10	FALSE	heterogeneous	intermediate
-TUDGN3_L	TUDGN3	litter	08-07-2019	02:55:00_PM	20	5	0	15	30	TRUE	heterogeneous	intermediate
-TZXF7I_L	TZXF7I	litter	25-07-2019	01:50:00_PM	20	20	20	10	50	FALSE	heterogeneous	intermediate
-T1N5UR_L	T1N5UR	litter	04-07-2019	10:15:00_AM	45	20	40	20	10	TRUE	homogeneous	intermediate
-TEVVLD_L	TEVVLD	litter	04-07-2019	10:00:00_AM	15	5	5	25	15	FALSE	homogeneous	intermediate
-TJW6L7_L	TJW6L7	litter	15-07-2019	12:20:00_PM	20	20	35	40	35	TRUE	homogeneous	intermediate
-TMLQED_L	TMLQED	litter	23-07-2019	11:10:00_AM	7	35	30	30	5	TRUE	homogeneous	intermediate
-TMXZCE_L	TMXZCE	litter	18-07-2019	12:30:00_PM	5	10	30	25	20	FALSE	homogeneous	intermediate
-TNGTPF_L	TNGTPF	litter	16-07-2019	10:20:00_AM	15	20	20	25	10	TRUE	homogeneous	intermediate
-TTA2EM_L	TTA2EM	litter	09-07-2019	04:00:00_PM	5	20	5	5	10	FALSE	homogeneous	intermediate
-TTWBA4_L	TTWBA4	litter	05-07-2019	08:30:00_AM	30	20	55	15	30	FALSE	homogeneous	intermediate
-TUPA8G_L	TUPA8G	litter	03-07-2019	03:00:00_PM	40	40	50	1	1	FALSE	homogeneous	intermediate
-TVCC3Y_L	TVCC3Y	litter	01-07-2019	02:00:00_PM	20	15	40	80	30	TRUE	homogeneous	intermediate
-TZZ9UM_L	TZZ9UM	litter	05-07-2019	09:10:00_AM	20	25	5	50	30	FALSE	homogeneous	intermediate
-TDPRNI_L	TDPRNI	litter	08-07-2019	01:45:00_PM	2	3	4	3	2	FALSE	no_macrofauna	intermediate
-TMSD51_L	TMSD51	litter	02-07-2019	10:00:00_AM	5	5	50	30	40	FALSE	no_macrofauna	intermediate
-TR9HSR_L	TR9HSR	litter	26-07-2019	10:00:00_AM	15	22	12	9	8	FALSE	no_macrofauna	intermediate
-TSSMCA_L	TSSMCA	litter	26-07-2019	03:40:00_PM	20	10	10	5	5	FALSE	no_macrofauna	intermediate
+sampleID_FIELD	trapID	sample_type	date	time	litter_depth_mm_v1	litter_depth_mm_v2	litter_depth_mm_v3	litter_depth_mm_v4	litter_depth_mm_v5	raining	sample_accession_ENA	sample_status
+T8EUCF_L	T8EUCF	litter	10-07-2019	10:25:00_AM	30	40	70	80	5	FALSE	ERS18958923	sample processed and sequenced
+TZDKD7_L	TZDKD7	litter	05-07-2019	02:40:00_PM	50	20	15	40	100	FALSE	ERS18959232	sample processed and sequenced
+TDUYXP_L	TDUYXP	litter	18-07-2019	02:30:00_PM	10	2	2	25	30	FALSE	ERS18958971	sample processed and sequenced
+TFUBVV_L	TFUBVV	litter	24-07-2019	10:15:00_AM	7	4	3	8	4	FALSE	ERS18958999	sample processed and sequenced
+TWF14R_L	TWF14R	litter	24-07-2019	09:50:00_AM	10	3	0	2	20	FALSE	ERS18959194	sample processed and sequenced
+TE2T4A_L	TE2T4A	litter	24-07-2019	10:40:00_AM	20	10	15	10	10	FALSE	ERS18958973	sample processed and sequenced
+T5KGVY_L	T5KGVY	litter	23-07-2019	04:25:00_PM	20	30	40	35	25	FALSE	ERS18958899	sample processed and sequenced
+TF3STP_L	TF3STP	litter	04-07-2019	03:00:00_PM	40	30	30	35	20	TRUE	ERS18958983	sample processed and sequenced
+TGX4C7_L	TGX4C7	litter	24-07-2019	09:00:00_AM	25	15	15	20	25	FALSE	ERS18959011	sample processed and sequenced
+TSVHD1_L	TSVHD1	litter	23-07-2019	11:35:00_AM	10	50	20	15	5	FALSE	ERS18959154	sample processed and sequenced
+T4EMTM_L	T4EMTM	litter	20-07-2019	02:50:00_PM	10	50	30	10	5	FALSE	ERS18958893	sample processed and sequenced
+TXLZ8M_L	TXLZ8M	litter	21-07-2019	05:00:00_PM	30	10	30	40	25	FALSE	ERS18959214	sample processed and sequenced
+T6YFBI_L	T6YFBI	litter	22-07-2019	03:00:00_PM	10	5	50	1	5	FALSE	ERS18958913	sample processed and sequenced
+TBGIW1_L	TBGIW1	litter	03-07-2019	04:00:00_PM	7	3	9	5	3	FALSE	ERS18958939	sample processed and sequenced
+TBGYQQ_L	TBGYQQ	litter	04-07-2019	10:30:00_AM	30	50	35	20	15	TRUE	ERS18958941	sample processed and sequenced
+TBLZ38_L	TBLZ38	litter	18-07-2019	03:55:00_PM	3	0	1	2	3	FALSE	ERS18958943	sample processed and sequenced
+TC6XPC_L	TC6XPC	litter	17-07-2019	07:40:00_AM	10	20	10	5	10	FALSE	ERS18958949	sample processed and sequenced
+TFECCG_L	TFECCG	litter	23-07-2019	08:08:00_AM	0	2	3	0	2	FALSE	ERS18958985	sample processed and sequenced
+THFUHH_L	THFUHH	litter	10-07-2019	10:30:00_AM	35	20	25	5	20	FALSE	ERS18959016	sample processed and sequenced
+TJZHPY_L	TJZHPY	litter	20-07-2019	04:25:00_PM	1	1	1	1	2	FALSE	ERS18959054	sample processed and sequenced
+TKIAHP_L	TKIAHP	litter	01-07-2019	01:35:00_PM	10	8	5	4	8	TRUE	ERS18959066	sample processed and sequenced
+TKSUA6_L	TKSUA6	litter	18-07-2019	05:00:00_PM	15	25	70	40	60	FALSE	ERS18959074	sample processed and sequenced
+TLFEGH_L	TLFEGH	litter	02-07-2019	02:15:00_PM	5	12	5	4	4	FALSE	ERS18959082	sample processed and sequenced
+TM5LBB_L	TM5LBB	litter	01-07-2019	01:30:00_PM	3	2	3	2	2	TRUE	ERS18959090	sample processed and sequenced
+TTAPUR_L	TTAPUR	litter	13-07-2019	03:30:00_PM	20	15	10	5	20	FALSE	ERS18959160	sample processed and sequenced
+TWRXFI_L	TWRXFI	litter	29-07-2019	09:20:00_AM	5	6	25	4	18	FALSE	ERS18959204	sample processed and sequenced
+TZQFGP_L	TZQFGP	litter	10-07-2019	06:30:00_PM	25	30	40	20	10	FALSE	ERS18959236	sample processed and sequenced
+THGYUE_L	THGYUE	litter	30-06-2019	11:00:00_AM	20	10	10	10	15	TRUE	ERS18959024	sample processed and sequenced
+TRICKN_L	TRICKN	litter	15-07-2019	09:55:00_AM	10	10	5	9	12	FALSE	ERS18959130	sample processed and sequenced
+T1TL12_L	T1TL12	litter	02-07-2019	01:20:00_PM	30	40	15	35	20	FALSE	ERS18958877	sample processed and sequenced
+T2KQJZ_L	T2KQJZ	litter	23-07-2019	02:45:00_PM	30	40	20	15	20	FALSE	ERS18958881	sample processed and sequenced
+T5FPCF_L	T5FPCF	litter	16-07-2019	02:05:00_PM	10	15	25	10	10	FALSE	ERS18958897	sample processed and sequenced
+T7ZDZJ_L	T7ZDZJ	litter	11-07-2019	02:45:00_PM	15	25	30	35	20	FALSE	ERS18958917	sample processed and sequenced
+TAI56Z_L	TAI56Z	litter	03-07-2019	11:30:00_AM	35	30	40	5	5	FALSE	ERS18958931	sample processed and sequenced
+TFGCME_L	TFGCME	litter	24-07-2019	11:30:00_AM	15	10	10	20	15	FALSE	ERS18958989	sample processed and sequenced
+TFIA7R_L	TFIA7R	litter	27-07-2019	10:20:00_AM	15	25	20	30	20	FALSE	ERS18958993	sample processed and sequenced
+TKGCFR_L	TKGCFR	litter	02-07-2019	03:30:00_PM	10	20	10	15	5	FALSE	ERS18959064	sample processed and sequenced
+TMMIG9_L	TMMIG9	litter	21-07-2019	08:27:00_AM	10	10	15	30	20	FALSE	ERS18959096	sample processed and sequenced
+TS2P4Q_L	TS2P4Q	litter	16-07-2019	02:30:00_PM	10	10	20	30	40	FALSE	ERS18959136	sample processed and sequenced
+TSEQHD_L	TSEQHD	litter	04-07-2019	12:30:00_PM	15	30	10	10	5	TRUE	ERS18959142	sample processed and sequenced
+TUQQIV_L	TUQQIV	litter	15-07-2019	06:20:00_PM	30	15	15	30	40	FALSE	ERS18959180	sample processed and sequenced
+TWJED2_L	TWJED2	litter	19-07-2019	10:20:00_AM	15	25	35	30	20	FALSE	ERS18959198	sample processed and sequenced
+T2YSPU_L	T2YSPU	litter	04-07-2019	02:20:00_PM	1	1	3	2	1	FALSE	ERS18958889	sample processed and sequenced
+T9UPWP_L	T9UPWP	litter	17-07-2019	10:00:00_AM	60	20	20	40	45	FALSE	ERS18958929	sample processed and sequenced
+TAPGMG_L	TAPGMG	litter	12-07-2019	08:45:00_AM	12	28	9	15	10	FALSE	ERS18958935	sample processed and sequenced
+TARUGI_L	TARUGI	litter	16-07-2019	02:20:00_PM	12	11	8	10	7	TRUE	ERS18958937	sample processed and sequenced
+TBPT1B_L	TBPT1B	litter	20-07-2019	11:00:00_AM	15	30	40	25	35	FALSE	ERS18958945	sample processed and sequenced
+TEHHBJ_L	TEHHBJ	litter	08-07-2019	NA	NA	NA	NA	NA	NA	NA	ERS18958975	sample processed and sequenced
+THGNFM_L	THGNFM	litter	22-07-2019	01:50:00_PM	5	10	5	5	20	FALSE	ERS18959020	sample processed and sequenced
+TJNMNV_L	TJNMNV	litter	17-07-2019	10:30:00_AM	1	1	1	1	1	FALSE	ERS18959042	sample processed and sequenced
+TLCIG9_L	TLCIG9	litter	02-07-2019	05:45:00_PM	15	20	10	10	15	FALSE	ERS18959078	sample processed and sequenced
+TUQ4KK_L	TUQ4KK	litter	24-07-2019	04:35:00_PM	4	2	1	2	3	FALSE	ERS18959178	sample processed and sequenced
+TVNBV7_L	TVNBV7	litter	03-07-2019	10:00:00_AM	20	25	20	5	10	FALSE	ERS18959190	sample processed and sequenced
+TYBVXB_L	TYBVXB	litter	26-06-2019	02:20:00_PM	2	3	10	5	5	TRUE	ERS18959218	sample processed and sequenced
+TZ6Q7T_L	TZ6Q7T	litter	21-07-2019	12:10:00_PM	60	70	35	50	35	FALSE	ERS18959230	sample processed and sequenced
+T2NGGK_L	T2NGGK	litter	17-07-2019	09:15:00_AM	5	3	2	2	3	FALSE	ERS18958883	sample processed and sequenced
+T2T1DJ_L	T2T1DJ	litter	02-07-2019	12:30:00_PM	35	50	20	40	35	FALSE	ERS18958885	sample processed and sequenced
+T2YFPK_L	T2YFPK	litter	09-07-2019	09:07:00_AM	40	50	20	40	20	TRUE	ERS18958887	sample processed and sequenced
+T3NLMJ_L	T3NLMJ	litter	09-07-2019	01:20:00_PM	5	10	20	5	10	FALSE	ERS18958891	sample processed and sequenced
+T5XNHX_L	T5XNHX	litter	01-07-2019	05:40:00_PM	10	15	11	7	5	FALSE	ERS18958903	sample processed and sequenced
+T83QWB_L	T83QWB	litter	11-07-2019	12:20:00_PM	30	35	30	20	25	FALSE	ERS18958919	sample processed and sequenced
+TCD3P4_L	TCD3P4	litter	09-07-2019	04:20:00_PM	10	3	25	10	5	FALSE	ERS18958953	sample processed and sequenced
+TCSZX1_L	TCSZX1	litter	02-07-2019	10:15:00_AM	50	60	60	30	50	FALSE	ERS18958959	sample processed and sequenced
+TD5LHA_L	TD5LHA	litter	02-07-2019	04:30:00_PM	20	20	20	50	80	TRUE	ERS18958961	sample processed and sequenced
+TDCIPI_L	TDCIPI	litter	16-07-2019	11:50:00_AM	15	20	10	20	10	TRUE	ERS18958963	sample processed and sequenced
+TEYZYN_L	TEYZYN	litter	08-07-2019	02:30:00_PM	5	5	15	10	10	FALSE	ERS18958981	sample processed and sequenced
+TFHNHU_L	TFHNHU	litter	15-07-2019	02:45:00_PM	10	15	20	30	20	TRUE	ERS18958991	sample processed and sequenced
+TG4NHB_L	TG4NHB	litter	03-07-2019	11:30:00_AM	10	2	30	5	2	FALSE	NA	sample processed but sequencing failed
+TGTDBY_L	TGTDBY	litter	12-07-2019	02:20:00_PM	5	10	10	15	20	TRUE	ERS18959009	sample processed and sequenced
+TGXFSR_L	TGXFSR	litter	18-07-2019	09:30:00_AM	10	3	20	5	3	FALSE	ERS18959013	sample processed and sequenced
+THGUAX_L	THGUAX	litter	23-07-2019	01:55:00_PM	20	15	25	10	15	FALSE	ERS18959022	sample processed and sequenced
+THKAWB_L	THKAWB	litter	21-07-2019	11:25:00_AM	10	15	10	0	5	FALSE	ERS18959026	sample processed and sequenced
+TIUVZ1_L	TIUVZ1	litter	10-07-2019	04:50:00_PM	10	5	5	5	10	FALSE	ERS18959038	sample processed and sequenced
+TJS8IY_L	TJS8IY	litter	01-07-2019	10:30:00_AM	20	50	10	80	40	TRUE	ERS18959044	sample processed and sequenced
+TJXPPV_L	TJXPPV	litter	02-07-2019	07:10:00_PM	40	30	20	20	50	TRUE	ERS18959048	sample processed and sequenced
+TJXUUR_L	TJXUUR	litter	16-07-2019	12:50:00_PM	35	50	35	70	20	FALSE	ERS18959050	sample processed and sequenced
+TK3EAJ_L	TK3EAJ	litter	30-06-2019	05:15:00_PM	2	3	4	2	2	FALSE	ERS18959056	sample processed and sequenced
+TKMUNP_L	TKMUNP	litter	25-07-2019	03:50:00_PM	20	10	10	30	10	FALSE	ERS18959070	sample processed and sequenced
+TLG2QC_L	TLG2QC	litter	10-07-2019	01:05:00_PM	25	5	30	40	30	FALSE	ERS18959084	sample processed and sequenced
+TM4GA9_L	TM4GA9	litter	23-07-2019	09:15:00_AM	30	2	30	20	15	TRUE	ERS18959088	sample processed and sequenced
+TND7ZQ_L	TND7ZQ	litter	05-07-2019	10:30:00_AM	25	30	10	5	30	TRUE	ERS18959106	sample processed and sequenced
+TPXB6L_L	TPXB6L	litter	12-07-2019	09:40:00_AM	20	3	5	5	15	FALSE	ERS18959118	sample processed and sequenced
+TR24WG_L	TR24WG	litter	18-07-2019	09:30:00_AM	3	0	0	2	5	FALSE	ERS18959122	sample processed and sequenced
+TRB71K_L	TRB71K	litter	15-07-2019	10:20:00_AM	5	30	40	20	10	TRUE	ERS18959126	sample processed and sequenced
+TSFYKU_L	TSFYKU	litter	05-07-2019	03:45:00_PM	20	10	40	15	15	FALSE	ERS18959146	sample processed and sequenced
+TTNYZZ_L	TTNYZZ	litter	11-07-2019	01:37:00_PM	20	20	15	40	35	FALSE	ERS18959164	sample processed and sequenced
+TUHLET_L	TUHLET	litter	16-07-2019	10:15:00_AM	5	10	2	30	10	FALSE	ERS18959174	sample processed and sequenced
+TV5KPB_L	TV5KPB	litter	08-07-2019	08:30:00_AM	20	50	100	40	60	FALSE	ERS18959184	sample processed and sequenced
+TWCPQR_L	TWCPQR	litter	26-06-2019	12:20:00_PM	1	20	35	10	25	TRUE	ERS18959192	sample processed and sequenced
+TWLJ2P_L	TWLJ2P	litter	26-06-2019	02:40:00_PM	150	30	40	35	30	TRUE	ERS18959200	sample processed and sequenced
+TWVCXF_L	TWVCXF	litter	15-07-2019	09:45:00_AM	10	20	15	30	5	FALSE	ERS18959208	sample processed and sequenced
+TXGZUY_L	TXGZUY	litter	12-07-2019	03:15:00_PM	40	40	35	20	25	TRUE	ERS18959210	sample processed and sequenced
+TYDUPV_L	TYDUPV	litter	11-07-2019	10:20:00_AM	40	10	10	15	30	FALSE	ERS18959220	sample processed and sequenced
+TYKZSN_L	TYKZSN	litter	16-07-2019	12:40:00_PM	40	20	20	15	30	TRUE	ERS18959224	sample processed and sequenced
+T1KSIA_L	T1KSIA	litter	16-07-2019	09:45:00_AM	10	5	30	10	20	FALSE	ERS18958871	sample processed and sequenced
+T1YMRX_L	T1YMRX	litter	20-07-2019	12:30:00_PM	2	5	6	10	10	FALSE	ERS18958879	sample processed and sequenced
+T5R3X9_L	T5R3X9	litter	27-07-2019	10:40:00_AM	50	40	10	10	20	FALSE	ERS18958901	sample processed and sequenced
+T5ZUGG_L	T5ZUGG	litter	08-07-2019	09:50:00_AM	0	2	20	5	0	FALSE	ERS18958905	sample processed and sequenced
+T6K6TA_L	T6K6TA	litter	05-07-2019	02:00:00_PM	40	45	30	15	20	TRUE	ERS18958907	sample processed and sequenced
+T6WPKD_L	T6WPKD	litter	02-07-2019	04:30:00_PM	20	20	15	10	5	FALSE	ERS18958911	sample processed and sequenced
+T7WIMF_L	T7WIMF	litter	17-07-2019	01:00:00_PM	10	5	30	30	5	FALSE	ERS18958915	sample processed and sequenced
+T8B7KU_L	T8B7KU	litter	26-07-2019	11:20:00_AM	15	35	5	3	25	FALSE	ERS18958921	sample processed and sequenced
+T8IKAG_L	T8IKAG	litter	09-07-2019	04:00:00_PM	20	20	15	10	10	FALSE	ERS18958925	sample processed and sequenced
+T9DY9N_L	T9DY9N	litter	08-07-2019	12:25:00_PM	15	10	30	20	10	FALSE	ERS18958927	sample processed and sequenced
+TAKAXU_L	TAKAXU	litter	19-07-2019	03:40:00_PM	5	30	10	15	20	FALSE	ERS18958933	sample processed and sequenced
+TC8QBB_L	TC8QBB	litter	23-07-2019	01:00:00_PM	10	3	2	2	5	FALSE	ERS18958951	sample processed and sequenced
+TDGVY8_L	TDGVY8	litter	11-07-2019	03:00:00_PM	1	1	1	2	1	FALSE	ERS18958967	sample processed and sequenced
+TFLSK1_L	TFLSK1	litter	04-07-2019	02:05:00_PM	10	20	15	20	10	FALSE	ERS18958995	sample processed and sequenced
+TFQDEE_L	TFQDEE	litter	22-07-2019	02:53:00_PM	20	20	10	30	15	FALSE	ERS18958997	sample processed and sequenced
+TG6JK1_L	TG6JK1	litter	12-07-2019	08:41:00_AM	40	40	20	25	50	TRUE	ERS18959003	sample processed and sequenced
+TI93DT_L	TI93DT	litter	19-07-2019	02:00:00_PM	20	20	15	15	20	FALSE	ERS18959028	sample processed and sequenced
+TIJXRJ_L	TIJXRJ	litter	19-07-2019	09:50:00_AM	20	35	30	20	50	FALSE	ERS18959032	sample processed and sequenced
+TIS5BD_L	TIS5BD	litter	03-07-2019	10:50:00_AM	25	35	20	10	20	FALSE	ERS18959036	sample processed and sequenced
+TJZEUI_L	TJZEUI	litter	23-07-2019	07:30:00_PM	15	10	10	5	10	FALSE	ERS18959052	sample processed and sequenced
+TK5FQJ_L	TK5FQJ	litter	02-07-2019	10:55:00_AM	8	10	7	10	10	FALSE	ERS18959058	sample processed and sequenced
+TKBVDW_L	TKBVDW	litter	20-07-2019	12:10:00_PM	5	5	10	10	10	FALSE	ERS18959060	sample processed and sequenced
+TKLVMZ_L	TKLVMZ	litter	23-07-2019	12:30:00_PM	30	45	30	15	20	FALSE	ERS18959068	sample processed and sequenced
+TKMZ5X_L	TKMZ5X	litter	11-07-2019	05:30:00_PM	20	10	30	30	40	FALSE	ERS18959072	sample processed and sequenced
+TL3KCT_L	TL3KCT	litter	10-07-2019	08:24:00_AM	5	30	25	15	10	FALSE	ERS18959076	sample processed and sequenced
+TM9NNJ_L	TM9NNJ	litter	11-07-2019	11:00:00_AM	15	20	30	35	25	FALSE	ERS18959092	sample processed and sequenced
+TNLTYQ_L	TNLTYQ	litter	11-07-2019	02:50:00_PM	3	5	5	10	15	FALSE	ERS18959110	sample processed and sequenced
+TNPKST_L	TNPKST	litter	16-07-2019	12:20:00_PM	4	2	2	8	5	TRUE	ERS18959112	sample processed and sequenced
+TPUCG4_L	TPUCG4	litter	26-06-2019	01:55:00_PM	25	30	20	10	20	TRUE	ERS18959116	sample processed and sequenced
+TS1LPT_L	TS1LPT	litter	21-07-2019	01:55:00_PM	5	0	10	10	3	FALSE	ERS18959134	sample processed and sequenced
+TS6VW9_L	TS6VW9	litter	20-07-2019	02:10:00_PM	5	5	5	10	5	FALSE	ERS18959138	sample processed and sequenced
+TSFXCZ_L	TSFXCZ	litter	22-07-2019	08:05:00_AM	5	10	10	0	15	FALSE	ERS18959144	sample processed and sequenced
+TSKEKT_L	TSKEKT	litter	09-07-2019	09:50:00_AM	30	50	40	20	30	FALSE	ERS18959148	sample processed and sequenced
+TTE4BQ_L	TTE4BQ	litter	03-07-2019	10:45:00_AM	5	5	30	25	15	FALSE	ERS18959162	sample processed and sequenced
+TU2YW9_L	TU2YW9	litter	16-07-2019	08:50:00_AM	25	30	30	20	15	TRUE	ERS18959168	sample processed and sequenced
+TWFXXZ_L	TWFXXZ	litter	02-07-2019	07:00:00_PM	50	50	30	15	20	FALSE	ERS18959196	sample processed and sequenced
+TWQDCF_L	TWQDCF	litter	01-07-2019	02:10:00_PM	1	1	1	1	1	TRUE	ERS18959202	sample processed and sequenced
+TZRRMG_L	TZRRMG	litter	17-07-2019	02:35:00_PM	20	10	15	10	15	TRUE	ERS18959238	sample processed and sequenced
+TZVTYZ_L	TZVTYZ	litter	02-07-2019	09:00:00_AM	30	40	35	20	30	FALSE	ERS18959240	sample processed and sequenced
+T1QLZR_L	T1QLZR	litter	17-07-2019	12:30:00_PM	5	0	15	10	10	FALSE	ERS18958875	sample processed and sequenced
+TCIHNW_L	TCIHNW	litter	26-07-2019	04:30:00_PM	20	30	10	10	30	FALSE	ERS18958955	sample processed and sequenced
+TCMKFJ_L	TCMKFJ	litter	10-07-2019	01:55:00_PM	4	3	3	2	2	FALSE	ERS18958957	sample processed and sequenced
+TFFDRE_L	TFFDRE	litter	19-07-2019	01:00:00_PM	70	50	45	30	60	FALSE	ERS18958987	sample processed and sequenced
+TGCHAV_L	TGCHAV	litter	19-07-2019	03:30:00_PM	5	30	35	25	20	FALSE	ERS18959007	sample processed and sequenced
+THBEZ5_L	THBEZ5	litter	03-07-2019	04:15:00_PM	50	45	30	50	40	FALSE	ERS18959015	sample processed and sequenced
+TIAIK1_L	TIAIK1	litter	17-07-2019	10:30:00_AM	5	5	10	5	0	FALSE	ERS18959030	sample processed and sequenced
+TIRXWF_L	TIRXWF	litter	16-07-2019	03:00:00_PM	5	5	10	10	5	TRUE	ERS18959034	sample processed and sequenced
+TJBXIG_L	TJBXIG	litter	10-07-2019	02:30:00_PM	20	10	5	30	10	FALSE	ERS18959040	sample processed and sequenced
+TKCEJN_L	TKCEJN	litter	03-07-2019	02:00:00_PM	15	35	50	70	30	FALSE	ERS18959062	sample processed and sequenced
+TLY1VQ_L	TLY1VQ	litter	23-07-2019	04:15:00_PM	10	10	10	10	20	FALSE	ERS18959086	sample processed and sequenced
+TRXMCY_L	TRXMCY	litter	17-07-2019	01:30:00_PM	5	10	15	5	5	FALSE	ERS18959132	sample processed and sequenced
+TT79BQ_L	TT79BQ	litter	23-07-2019	01:15:00_PM	10	10	5	20	10	FALSE	ERS18959156	sample processed and sequenced
+TUBWQK_L	TUBWQK	litter	11-07-2019	08:49:00_AM	10	15	30	35	50	FALSE	ERS18959170	sample processed and sequenced
+TV2QKF_L	TV2QKF	litter	08-07-2019	03:25:00_PM	5	3	4	4	3	FALSE	ERS18959182	sample processed and sequenced
+TV6Z5Y_L	TV6Z5Y	litter	15-07-2019	07:30:00_PM	10	15	25	20	20	FALSE	ERS18959186	sample processed and sequenced
+TWSFGJ_L	TWSFGJ	litter	19-07-2019	08:30:00_AM	3	0	5	10	3	FALSE	ERS18959206	sample processed and sequenced
+TYAASL_L	TYAASL	litter	04-07-2019	10:00:00_AM	4	3	3	4	4	FALSE	ERS18959216	sample processed and sequenced
+TYKB9L_L	TYKB9L	litter	30-06-2019	01:35:00_PM	10	7	14	5	9	FALSE	ERS18959222	sample processed and sequenced
+TYRKAV_L	TYRKAV	litter	27-07-2019	06:00:00_PM	2	2	5	17	20	FALSE	ERS18959226	sample processed and sequenced
+TYUAHW_L	TYUAHW	litter	26-06-2019	02:20:00_PM	10	5	10	18	5	TRUE	ERS18959228	sample processed and sequenced
+TZFRJA_L	TZFRJA	litter	18-07-2019	01:14:00_PM	3	0	2	5	2	FALSE	ERS18959234	sample processed and sequenced
+TZWKHK_L	TZWKHK	litter	19-07-2019	06:00:00_PM	1	10	20	15	1	FALSE	ERS18959242	sample processed and sequenced
+THG7AZ_L	THG7AZ	litter	15-07-2019	12:45:00_PM	10	5	10	4	4	FALSE	ERS18959018	sample processed and sequenced
+TG8NKF_L	TG8NKF	litter	11-07-2019	10:50:00_AM	4	2	1	2	3	FALSE	ERS18959005	sample processed and sequenced
+TLFBSS_L	TLFBSS	litter	01-07-2019	08:50:00_AM	1	2	4	5	5	FALSE	ERS18959080	sample processed and sequenced
+TMYD2K_L	TMYD2K	litter	25-07-2019	01:00:00_PM	10	20	20	10	20	FALSE	ERS18959104	sample processed and sequenced
+TSDGQK_L	TSDGQK	litter	01-07-2019	01:00:00_PM	5	30	30	10	20	TRUE	ERS18959140	sample processed and sequenced
+TSTZUY_L	TSTZUY	litter	26-07-2019	01:15:00_PM	12	8	7	11	20	FALSE	ERS18959152	sample processed and sequenced
+T5CELX_L	T5CELX	litter	03-07-2019	01:05:00_PM	10	15	9	15	12	FALSE	ERS18958895	sample processed and sequenced
+TDGFXV_L	TDGFXV	litter	10-07-2019	03:35:00_PM	30	25	30	30	20	FALSE	ERS18958965	sample processed and sequenced
+TEPZPF_L	TEPZPF	litter	26-07-2019	01:05:00_PM	5	5	10	30	10	FALSE	ERS18958977	sample processed and sequenced
+TMNPJH_L	TMNPJH	litter	01-07-2019	05:00:00_PM	10	20	5	15	20	FALSE	ERS18959098	sample processed and sequenced
+TXHDAT_L	TXHDAT	litter	09-07-2019	11:50:00_AM	10	20	25	40	60	FALSE	ERS18959212	sample processed and sequenced
+T6LS76_L	T6LS76	litter	22-07-2019	05:00:00_PM	50	10	10	20	20	FALSE	ERS18958909	sample processed and sequenced
+TBSQHF_L	TBSQHF	litter	22-07-2019	12:39:00_PM	20	10	0	20	30	TRUE	ERS18958947	sample processed and sequenced
+TPFJTD_L	TPFJTD	litter	26-06-2019	02:00:00_PM	40	25	60	20	5	TRUE	ERS18959114	sample processed and sequenced
+TQNH2B_L	TQNH2B	litter	26-07-2019	04:00:00_PM	20	15	10	10	30	FALSE	ERS18959120	sample processed and sequenced
+TRH2QM_L	TRH2QM	litter	23-07-2019	05:15:00_PM	45	35	20	25	10	FALSE	NA	sample processed but sequencing failed
+TUDGN3_L	TUDGN3	litter	08-07-2019	02:55:00_PM	20	5	0	15	30	TRUE	ERS18959172	sample processed and sequenced
+TZXF7I_L	TZXF7I	litter	25-07-2019	01:50:00_PM	20	20	20	10	50	FALSE	ERS18959244	sample processed and sequenced
+T1N5UR_L	T1N5UR	litter	04-07-2019	10:15:00_AM	45	20	40	20	10	TRUE	NA	sample processed but sequencing failed
+TEVVLD_L	TEVVLD	litter	04-07-2019	10:00:00_AM	15	5	5	25	15	FALSE	ERS18958979	sample processed and sequenced
+TJW6L7_L	TJW6L7	litter	15-07-2019	12:20:00_PM	20	20	35	40	35	TRUE	ERS18959046	sample processed and sequenced
+TMLQED_L	TMLQED	litter	23-07-2019	11:10:00_AM	7	35	30	30	5	TRUE	ERS18959094	sample processed and sequenced
+TMXZCE_L	TMXZCE	litter	18-07-2019	12:30:00_PM	5	10	30	25	20	FALSE	NA	sample processed but sequencing failed
+TNGTPF_L	TNGTPF	litter	16-07-2019	10:20:00_AM	15	20	20	25	10	TRUE	ERS18959108	sample processed and sequenced
+TTA2EM_L	TTA2EM	litter	09-07-2019	04:00:00_PM	5	20	5	5	10	FALSE	ERS18959158	sample processed and sequenced
+TTWBA4_L	TTWBA4	litter	05-07-2019	08:30:00_AM	30	20	55	15	30	FALSE	ERS18959166	sample processed and sequenced
+TUPA8G_L	TUPA8G	litter	03-07-2019	03:00:00_PM	40	40	50	1	1	FALSE	ERS18959176	sample processed and sequenced
+TVCC3Y_L	TVCC3Y	litter	01-07-2019	02:00:00_PM	20	15	40	80	30	TRUE	ERS18959188	sample processed and sequenced
+TZZ9UM_L	TZZ9UM	litter	05-07-2019	09:10:00_AM	20	25	5	50	30	FALSE	ERS18959246	sample processed and sequenced
+TDPRNI_L	TDPRNI	litter	08-07-2019	01:45:00_PM	2	3	4	3	2	FALSE	ERS18958969	sample processed and sequenced
+TMSD51_L	TMSD51	litter	02-07-2019	10:00:00_AM	5	5	50	30	40	FALSE	ERS18959100	sample processed and sequenced
+TR9HSR_L	TR9HSR	litter	26-07-2019	10:00:00_AM	15	22	12	9	8	FALSE	ERS18959124	sample processed and sequenced
+TSSMCA_L	TSSMCA	litter	26-07-2019	03:40:00_PM	20	10	10	5	5	FALSE	ERS18959150	sample processed and sequenced
