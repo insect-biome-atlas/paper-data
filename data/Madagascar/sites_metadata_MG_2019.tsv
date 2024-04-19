@@ -1,11 +1,11 @@
 trapID	latitude_WGS84	longitude_WGS84	trap_habitat	trap_type	QRcode_page	siteID_number	parkID	province	trap_manager
-TW51Z9	-12.278013	49.381504	Dry_Forest	Single_trap	260	1	Paysage Harmonieux Protégé d'Oronjia	ANTSIRANANA	Fredonat
+TW51Z9	-12.278013	49.381504	Dry_Forest	Single_trap	260	1	Paysage Harmonieux Prot≈Ωg≈Ω d'Oronjia	ANTSIRANANA	Fredonat
 TNKTYG	-12.514783	49.181247	Rainforest	Multitrap	257	2	Parc National de Montagne d'Ambre	ANTSIRANANA	Rabe Janvier
 TAVVN5	-12.515596	49.180805	Rainforest	Multitrap	258	2	Parc National de Montagne d'Ambre	ANTSIRANANA	Rabe Janvier
 TUAPDE	-12.517164	49.179873	Rainforest	Multitrap	259	2	Parc National de Montagne d'Ambre	ANTSIRANANA	Rabe Janvier
-THI5PX	-12.682717	49.545424	Dry_Forest	Single_trap	256	3	Réserve Spéciale d'Analamerana	ANTSIRANANA	Ismael
-TRKQU5	-12.96002	49.120911	Dry_Forest	Single_trap	255	4	Réserve Spéciale d'Ankarana	ANTSIRANANA	Rakotovao J. Chris
-TK1MIJ	-13.14696	49.70374	Dry_Forest	Single_trap	253	5	Paysage Harmonieux Protégé de Loky Manambato	ANTSIRANANA	Meo Odon
+THI5PX	-12.682717	49.545424	Dry_Forest	Single_trap	256	3	R≈Ωserve Sp≈Ωciale d'Analamerana	ANTSIRANANA	Ismael
+TRKQU5	-12.96002	49.120911	Dry_Forest	Single_trap	255	4	R≈Ωserve Sp≈Ωciale d'Ankarana	ANTSIRANANA	Rakotovao J. Chris
+TK1MIJ	-13.14696	49.70374	Dry_Forest	Single_trap	253	5	Paysage Harmonieux Prot≈Ωg≈Ω de Loky Manambato	ANTSIRANANA	Meo Odon
 TG6SK4	-13.40849	48.30587	Rainforest	Single_trap	254	6	Parc National de Lokobe	ANTSIRANANA	Jean Delphin
 TRA8W1	-14.43606	49.75736	Rainforest	Multitrap	251	7	Parc National de Marojejy	ANTSIRANANA	Rabe Janvier
 TAHDZD	-14.437	49.74282	Rainforest	Multitrap	250	7	Parc National de Marojejy	ANTSIRANANA	Rabe Janvier
@@ -22,30 +22,30 @@ TUH8A4	-16.32425	46.82299	Dry_Forest	Multitrap	242	13	Parc National d'Ankarafant
 TQCQRI	-16.32714	46.82259	Dry_Forest	Multitrap	243	13	Parc National d'Ankarafantsika	MAHAJANGA	Rakotoarimanana J. de la Croix 
 TFWNLD	-16.32886	46.82082	Dry_Forest	Multitrap	244	13	Parc National d'Ankarafantsika	MAHAJANGA	Rakotoarimanana J. de la Croix 
 TKRH5P	-16.46848	45.41309	Dry_Forest	Single_trap	239	14	Parc National de Namoroka	MAHAJANGA	Justin
-TEE8KA	-17.70517	49.45715	Rainforest	Single_trap	226	15	Réserve de Ressources Naturelles d'Analalava	TOAMASINA	Gervais
-TZJWN3	-17.9201	49.20044	Rainforest	Single_trap	227	16	Réserve Naturelle Intégrale Betampona	TOAMASINA	Jean Noel
-TPSMAA	-18.196437	47.286287	Montane_Rainforest	Single_trap	233	17	Réserve Spéciale d'Ambohitantely	ANTANANARIVO	Rajoelison Alain 
-TDY8SA	-18.41335	47.94285	Montane_Rainforest	Single_trap	232	18	Paysage Harmonieux Protégé du Complexe Anjozorobe Angavo	ANTANANARIVO	Rafanomezantsoa Hery
-TEGSKQ	-18.86682	48.29323	Rainforest	Single_trap	231	19	Forêt Concession Minière Ambatovy	TOAMASINA	Ramanampisoa Olivier 
-TEYXBT	-18.96439	48.45811	Rainforest	Multitrap	229	20	Réserve de Ressources Naturelles de Maromizaha	TOAMASINA	Nomenjanahary Naina
-TDKTHY	-18.96534	48.45539	Rainforest	Multitrap	228	20	Réserve de Ressources Naturelles de Maromizaha	TOAMASINA	Nomenjanahary Naina
-TTFJBN	-18.96579	48.46074	Rainforest	Multitrap	230	20	Réserve de Ressources Naturelles de Maromizaha	TOAMASINA	Nomenjanahary Naina
+TEE8KA	-17.70517	49.45715	Rainforest	Single_trap	226	15	R≈Ωserve de Ressources Naturelles d'Analalava	TOAMASINA	Gervais
+TZJWN3	-17.9201	49.20044	Rainforest	Single_trap	227	16	R≈Ωserve Naturelle Int≈Ωgrale Betampona	TOAMASINA	Jean Noel
+TPSMAA	-18.196437	47.286287	Montane_Rainforest	Single_trap	233	17	R≈Ωserve Sp≈Ωciale d'Ambohitantely	ANTANANARIVO	Rajoelison Alain 
+TDY8SA	-18.41335	47.94285	Montane_Rainforest	Single_trap	232	18	Paysage Harmonieux Prot≈Ωg≈Ω du Complexe Anjozorobe Angavo	ANTANANARIVO	Rafanomezantsoa Hery
+TEGSKQ	-18.86682	48.29323	Rainforest	Single_trap	231	19	For¬êt Concession Mini¬ère Ambatovy	TOAMASINA	Ramanampisoa Olivier 
+TEYXBT	-18.96439	48.45811	Rainforest	Multitrap	229	20	R≈Ωserve de Ressources Naturelles de Maromizaha	TOAMASINA	Nomenjanahary Naina
+TDKTHY	-18.96534	48.45539	Rainforest	Multitrap	228	20	R≈Ωserve de Ressources Naturelles de Maromizaha	TOAMASINA	Nomenjanahary Naina
+TTFJBN	-18.96579	48.46074	Rainforest	Multitrap	230	20	R≈Ωserve de Ressources Naturelles de Maromizaha	TOAMASINA	Nomenjanahary Naina
 TK4SS2	-19.14032	44.81435	Dry_Forest	Single_trap	238	21	Parc National de Tsingy de Bemaraha	MAHAJANGA	Tsimahory
-TGJ4FW	-20.06286	44.65663	Dry_Forest	Multitrap	236	22	Concession Forestière de Kirindy (CNFEREF)	TOLIARA	Andrianjanahary Tianasoa 
-TG1QMA	-20.06509	44.65473	Dry_Forest	Multitrap	235	22	Concession Forestière de Kirindy (CNFEREF)	TOLIARA	Andrianjanahary Tianasoa 
-TP2FUA	-20.06763	44.65485	Dry_Forest	Multitrap	237	22	Concession Forestière de Kirindy (CNFEREF)	TOLIARA	Andrianjanahary Tianasoa 
+TGJ4FW	-20.06286	44.65663	Dry_Forest	Multitrap	236	22	Concession Foresti¬ère de Kirindy (CNFEREF)	TOLIARA	Andrianjanahary Tianasoa 
+TG1QMA	-20.06509	44.65473	Dry_Forest	Multitrap	235	22	Concession Foresti¬ère de Kirindy (CNFEREF)	TOLIARA	Andrianjanahary Tianasoa 
+TP2FUA	-20.06763	44.65485	Dry_Forest	Multitrap	237	22	Concession Foresti¬ère de Kirindy (CNFEREF)	TOLIARA	Andrianjanahary Tianasoa 
 THYGHQ	-20.7949	44.16618	Dry_Forest	Single_trap	234	23	Parc National de Kirindy Mite	TOLIARA	Andriamanampisoa Maximain
 TB43DA	-21.258128	47.422347	Rainforest	Single_trap	224	24	Parc National de Ranomafana	FIANARANTSOA	Rakotomalala D. Donald
 T4ZF4M	-22.53959	45.37872	Dry_Forest	Single_trap	223	25	Parc National de l'Isalo	FIANARANTSOA	Andriankaja Brillant
 T6UDMB	-22.82777778	43.51916667	Dry_Forest	Single_trap	220	26	Parc National de Mikea	TOLIARA	Laha M. Joel
 TIYMCS	-22.88694444	44.69277778	Dry_Forest	Single_trap	222	27	Parc National de Zombitse-Vohibasia	TOLIARA	Manahy M. Roberto 
-THGFVB	-23.18722222	47.71861111	Rainforest	Single_trap	211	28	Réserve de Ressources Naturelles d'Agnalazaha	FIANARANTSOA	Ramanambohitra Navalona
-TYBVPP	-23.655035	44.629599	Dry_Forest	Single_trap	221	29	Réserve Spéciale Bezà-Mahafaly	TOLIARA	Andriamanily Benasy
+THGFVB	-23.18722222	47.71861111	Rainforest	Single_trap	211	28	R≈Ωserve de Ressources Naturelles d'Agnalazaha	FIANARANTSOA	Ramanambohitra Navalona
+TYBVPP	-23.655035	44.629599	Dry_Forest	Single_trap	221	29	R≈Ωserve Sp≈Ωciale BezÀÜ-Mahafaly	TOLIARA	Andriamanily Benasy
 TUP4R5	-24.02303	43.7859	Dry_Forest	Multitrap	217	30	Parc National de Tsimanampesotse	TOLIARA	Ratovonamana R. Yedidya
 TE8SYJ	-24.02532	43.73899	Dry_Forest	Multitrap	219	30	Parc National de Tsimanampesotse	TOLIARA	Ratovonamana R. Yedidya
 T3JY78	-24.02663	43.740925	Dry_Forest	Multitrap	218	30	Parc National de Tsimanampesotse	TOLIARA	Ratovonamana R. Yedidya
-TFBCWJ	-24.58194444	47.135	Rainforest	Multitrap	212	31	Réserve de Ressources Naturelles de la Forêt Naturelle de Tsitongambarika	TOLIARA	Andriamorasata Marius
-TKDVTA	-24.5825	47.15027778	Rainforest	Multitrap	214	31	Réserve de Ressources Naturelles de la Forêt Naturelle de Tsitongambarika	TOLIARA	Andriamorasata Marius
-TULADB	-24.585	47.13583333	Rainforest	Multitrap	213	31	Réserve de Ressources Naturelles de la Forêt Naturelle de Tsitongambarika	TOLIARA	Andriamorasata Marius
+TFBCWJ	-24.58194444	47.135	Rainforest	Multitrap	212	31	R≈Ωserve de Ressources Naturelles de la For¬êt Naturelle de Tsitongambarika	TOLIARA	Andriamorasata Marius
+TKDVTA	-24.5825	47.15027778	Rainforest	Multitrap	214	31	R≈Ωserve de Ressources Naturelles de la For¬êt Naturelle de Tsitongambarika	TOLIARA	Andriamorasata Marius
+TULADB	-24.585	47.13583333	Rainforest	Multitrap	213	31	R≈Ωserve de Ressources Naturelles de la For¬êt Naturelle de Tsitongambarika	TOLIARA	Andriamorasata Marius
 TGRG5T	-24.76388889	46.86111111	Rainforest	Single_trap	215	32	Parc National  d'Andohahela	TOLIARA	Kotovao Gaspard
-TIPGKX	-25.540964	45.137877	Dry_Forest	Single_trap	216	33	Réserve Spéciale Cap de Sainte Marie	TOLIARA	Zoly 
+TIPGKX	-25.540964	45.137877	Dry_Forest	Single_trap	216	33	R≈Ωserve Sp≈Ωciale Cap de Sainte Marie	TOLIARA	Zoly 
