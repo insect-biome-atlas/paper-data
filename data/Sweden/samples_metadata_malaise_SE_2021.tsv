@@ -1,5 +1,5 @@
-sampleID_FIELD	trapID	biomass_grams	placing_user	placing_time	placing_date	collecting_user	collecting_time	collecting_date	duration_min	trap_condition_collection	sample_ethanol_conc	sample_accession_ENA	sample_status
-SUW7PR	TMXZCE	2.17	Carina Frogner	12:47:33	2021-05-22	Carina Frogner	11:00:00	2021-05-29	9972	good	91.4	ERS18988469	sample processed and sequenced
-SRLPUZ	THBEZ5	1.819	Irene Persson	08:03:53	2021-05-23	Irene Persson	11:00:00	2021-05-29	8816	good	92.9	ERS18988470	sample processed and sequenced
-SCGYFG	TM9NNJ	2.812	Niclas Wahlgren	06:38:45	2021-05-22	Niclas Wahlgren	11:00:00	2021-05-30	11781	good	93.7	ERS18988471	sample processed and sequenced
-SRHTTH	TIRXWF	1.668	Jan Nilsson	15:04:10	2021-05-22	Jan Nilsson	11:00:00	2021-05-30	11276	good	93.7	ERS18988472	sample processed and sequenced
+sampleID_FIELD	trapID	biomass_grams	placing_time	placing_date	collecting_time	collecting_date	duration_min	trap_condition_collection	sample_ethanol_conc	sample_accession_ENA	sample_status
+SUW7PR	TMXZCE	2.17	12:47:33	2021-05-22	11:00:00	2021-05-29	9972	good	91.4	ERS18988469	sample processed and sequenced
+SRLPUZ	THBEZ5	1.819	08:03:53	2021-05-23	11:00:00	2021-05-29	8816	good	92.9	ERS18988470	sample processed and sequenced
+SCGYFG	TM9NNJ	2.812	06:38:45	2021-05-22	11:00:00	2021-05-30	11781	good	93.7	ERS18988471	sample processed and sequenced
+SRHTTH	TIRXWF	1.668	15:04:10	2021-05-22	11:00:00	2021-05-30	11276	good	93.7	ERS18988472	sample processed and sequenced
