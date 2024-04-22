@@ -1,191 +1,191 @@
-sampleID_FIELD	trapID	transectID	biomass_grams	time	date	litter_depth_cm_0	litter_depth_cm_1	litter_depth_cm_2	litter_depth_cm_3	litter_depth_cm_4	sample_accession_ENA	sample_status
-SVWK2H	TNKTYG	4	1.61	08:00:00	4/15/2020	1.5	1	2	1	3	ERS19011719	sample processed and sequenced
-SN2HAM	TNKTYG	1	1.652	08:00:00	4/15/2020	1.5	1	2	1	3	ERS19011720	sample processed and sequenced
-SRNZLW	TAVVN5	4	3.299	07:55:00	4/16/2020	2	2.5	2	3	3.5	ERS19011721	sample processed and sequenced
-SJBKAQ	TFWNLD	2	20.647	07:07:00	3/12/2020	4.5	4	3.5	4	3.5	ERS19011722	sample processed and sequenced
-SN5HGL	THI5PX	3	3.374	09:00:00	4/20/2020	1	1	0.6	1	1.5	ERS19011723	sample processed and sequenced
-SLS8JL	TNQVM4	1	6.599	07:22:00	10/9/2020	2	2	2.5	3	2	ERS19011724	sample processed and sequenced
-S7LCNP	TQKQRH	4	1.539	07:30:00	10/8/2020	1	1	1	1.5	2	ERS19011725	sample processed and sequenced
-SVKZWW	TRKQU5	4	1.665	07:30:00	4/23/2020	1	1.5	1	1.5	1	ERS19011726	sample processed and sequenced
-S5MGWK	T3JY78	2	3.307	06:55:00	3/19/2020	0	0	0.5	0.5	0.5	ERS19011727	sample processed and sequenced
-SZNGZX	T9VS8I	4	5.607	07:15:00	10/10/2020	0.5	1	0.5	1	0.5	ERS19011728	sample processed and sequenced
-SUBPBH	TRKQU5	2	1.586	07:30:00	4/23/2020	1	1.5	1	1.5	1	ERS19011729	sample processed and sequenced
-SLIND8	TK1MIJ	1	2.463	07:00:00	11/9/2020	1	0.9	1.2	1	1.1	ERS19011730	sample processed and sequenced
-SLCWXB	THI5PX	4	2.9	09:00:00	4/20/2020	1	1	0.6	1	1.5	ERS19011731	sample processed and sequenced
-SAVUKM	THI5PX	2	2.033	09:00:00	4/20/2020	1	1	0.6	1	1.5	ERS19011732	sample processed and sequenced
-SKVJD9	TGJ4FW	1	2.559	07:10:00	1/9/2020	1	6	3	3	5	ERS19011733	sample processed and sequenced
-SWKIHX	TEGSKQ	4	4.35	08:30:00	11/6/2020	2	7	2	9	2	ERS19011734	sample processed and sequenced
-SWZB1H	TPSMAA	3	1.705	07:50:00	9/10/2020	6	16	13	8	9	ERS19011735	sample processed and sequenced
-SCAMZY	TNQVM4	2	4.544	07:22:00	10/9/2020	2	2	2.5	3	2	ERS19011736	sample processed and sequenced
-SIJKLD	TK1MIJ	2	3.252	07:00:00	11/9/2020	1	0.9	1.2	1	1.1	ERS19011737	sample processed and sequenced
-SSKVQG	TQKQRH	1	1.907	07:30:00	10/8/2020	1	1	1	1.5	2	ERS19011738	sample processed and sequenced
-S3ACI1	TKRH5P	2	1.687	09:00:00	2/29/2020	3	2.6	3.9	1.8	4.2	ERS19011739	sample processed and sequenced
-SW88MC	TRKQU5	3	3.629	07:30:00	4/23/2020	1	1.5	1	1.5	1	ERS19011740	sample processed and sequenced
-SJ4IQY	TKRH5P	4	2.067	09:00:00	2/29/2020	3	2.6	3.9	1.8	4.2	ERS19011741	sample processed and sequenced
-SJHXWA	TG1QMA	1	2.012	07:15:00	1/9/2020	3.5	3.7	4	2	3	ERS19011742	sample processed and sequenced
-SSBNW8	TNQVM4	3	6.398	07:22:00	10/9/2020	2	2	2.5	3	2	ERS19011743	sample processed and sequenced
-SXMFTC	TEGSKQ	1	3.318	08:30:00	11/6/2020	2	7	2	9	2	ERS19011744	sample processed and sequenced
-SBWUVJ	TEYXBT	4	2.524	07:15:00	11/3/2020	20	22	27	24	25	ERS19011745	sample processed and sequenced
-SZ4XDG	TULADB	2	3.775	07:30:00	9/27/2020	4	1	7	2	2.5	ERS19011746	sample processed and sequenced
-SZFPKY	TKRH5P	1	1.436	09:00:00	2/29/2020	3	2.6	3.9	1.8	4.2	ERS19011747	sample processed and sequenced
-SIYP6S	T4ZF4M	4	5.99	08:05:00	3/5/2020	1	2	6	10	5	ERS19011748	sample processed and sequenced
-SHQKWI	TP2FUA	4	2.575	12:20:00	1/8/2020	5	4	2	10	5	ERS19011749	sample processed and sequenced
-SDJL8S	TULADB	1	2.637	07:30:00	9/27/2020	4	1	7	2	2.5	ERS19011750	sample processed and sequenced
-SGSKWZ	TFBCWJ	4	6.106	06:42:00	9/26/2020	1	5	7	6	5.7	ERS19011751	sample processed and sequenced
-SNGL3V	TP2FUA	3	1.945	12:20:00	1/8/2020	5	4	2	10	5	ERS19011752	sample processed and sequenced
-SUPSXE	TG6SK4	2	3.689	07:35:00	11/24/2020	1.5	2.5	3	6	3	ERS19011753	sample processed and sequenced
-SNSVZS	TIYMCS	3	6.442	07:10:00	3/8/2020	9	4	4.5	5	4	ERS19011754	sample processed and sequenced
-SNIA36	TR4LDL	1	9.183	08:00:00	2/16/2020	2	3	6	4	3	ERS19011755	sample processed and sequenced
-SI2D1L	TR4LDL	2	3.711	08:00:00	2/16/2020	2	3	6	4	3	ERS19011756	sample processed and sequenced
-SSMBNW	TKDVTA	4	20.854	06:27:00	9/25/2020	6	5	4	6	9	ERS19011757	sample processed and sequenced
-SV15SF	T4ZF4M	3	6.731	08:05:00	3/5/2020	1	2	6	10	5	ERS19011758	sample processed and sequenced
-SGFPLE	TDY8SA	1	6.019	07:25:00	10/20/2020	16	19	24	20	12	ERS19011759	sample processed and sequenced
-S4XPK6	TZJWN3	3	3.731	07:04:00	10/27/2020	1.5	11	12	5	10.5	ERS19011760	sample processed and sequenced
-SNUPZ1	TRGIDB	2	3.256	07:05:00	10/16/2020	2	8	9	12	20	ERS19011761	sample processed and sequenced
-SPTYQG	TDY8SA	2	2.381	07:25:00	10/20/2020	16	19	24	20	12	ERS19011762	sample processed and sequenced
-SM3ZQG	TG6SK4	4	3.379	07:35:00	11/24/2020	1.5	2.5	3	6	3	ERS19011763	sample processed and sequenced
-SMITZD	TGJ4FW	4	11.416	07:10:00	1/9/2020	1	6	3	3	5	ERS19011764	sample processed and sequenced
-S28PMN	TUAPDE	1	4.614	08:00:00	4/17/2020	1	1.5	1	1	1.5	ERS19011765	sample processed and sequenced
-SC7BC9	TRA8W1	1	2.22	08:30:00	11/14/2020	2	2	5.4	10.3	8	ERS19011766	sample processed and sequenced
-SCPDDG	TDY8SA	4	1.823	07:25:00	10/20/2020	16	19	24	20	12	ERS19011767	sample processed and sequenced
-SHA7MS	TN1QSL	1	1.232	08:00:00	2/23/2020	3.5	3	1.5	4	3	ERS19011768	sample processed and sequenced
-SZKPGX	TEGSKQ	3	3.296	08:30:00	11/6/2020	2	7	2	9	2	ERS19011769	sample processed and sequenced
-S8CSZJ	TRA8W1	2	1.473	08:30:00	11/14/2020	2	2	5.4	10.3	8	ERS19011770	sample processed and sequenced
-SLJAJN	TRGIDB	1	3.654	07:05:00	10/16/2020	2	8	9	12	20	ERS19011771	sample processed and sequenced
-SGEBUA	TRA8W1	3	3.667	08:30:00	11/14/2020	2	2	5.4	10.3	8	ERS19011772	sample processed and sequenced
-SE4SDM	TRGIDB	3	2.858	07:05:00	10/16/2020	2	8	9	12	20	ERS19011773	sample processed and sequenced
-S4J1B7	TRGIDB	4	2.758	07:05:00	10/16/2020	2	8	9	12	20	ERS19011774	sample processed and sequenced
-SUAY6K	TPQKYN	1	2.607	07:50:00	2/9/2020	4	3.5	3	2	5	ERS19011775	sample processed and sequenced
-SYCQKH	TFBCWJ	3	3.311	06:42:00	9/26/2020	1	5	7	6	5.7	ERS19011776	sample processed and sequenced
-SYYIFA	TG6SK4	3	7.785	07:35:00	11/24/2020	1.5	2.5	3	6	3	ERS19011777	sample processed and sequenced
-SQICSK	TR4LDL	3	5.057	08:00:00	2/16/2020	2	3	6	4	3	ERS19011778	sample processed and sequenced
-SULVBI	TDKTHY	2	4.175	07:15:00	11/4/2020	8	29	30	16	13	ERS19011779	sample processed and sequenced
-S5NRPT	TULADB	3	6.053	07:30:00	9/27/2020	4	1	7	2	2.5	ERS19011780	sample processed and sequenced
-SYQEJY	THYGHQ	2	7.489	07:18:00	2/8/2020	0.4	5	5	2	5	ERS19011781	sample processed and sequenced
-SEGTRW	TULADB	4	7.209	07:30:00	9/27/2020	4	1	7	2	2.5	ERS19011782	sample processed and sequenced
-SY9V94	TAVVN5	2	3.675	07:55:00	4/16/2020	2	2.5	2	3	3.5	ERS19011783	sample processed and sequenced
-SBWH2H	TDKTHY	4	4.53	07:15:00	11/4/2020	8	29	30	16	13	ERS19011784	sample processed and sequenced
-SBNRI4	TTFJBN	1	1.862	07:13:00	11/2/2020	18.5	26	45	40	40	ERS19011785	sample processed and sequenced
-SIJIFI	TQCQRI	3	6.948	08:00:00	3/13/2020	3.5	3	4	6	4	ERS19011786	sample processed and sequenced
-SKLCXS	TB43DA	3	7.47	06:32:00	9/16/2020	3	6	5	4	4	ERS19011787	sample processed and sequenced
-SLGVD4	TQCQRI	4	3.232	08:00:00	3/13/2020	3.5	3	4	6	4	ERS19011788	sample processed and sequenced
-SBFECR	TDY8SA	3	5.67	07:25:00	10/20/2020	16	19	24	20	12	ERS19011789	sample processed and sequenced
-STRCUS	TGRG5T	2	4.611	07:05:00	4/1/2020	4	7	9	3	4.5	ERS19011790	sample processed and sequenced
-SVB3W6	TE8SYJ	1	4.698	06:55:00	3/18/2020	0.5	0.3	0.5	1	0.1	ERS19011791	sample processed and sequenced
-SHYEAT	TN1QSL	3	1.475	08:00:00	2/23/2020	3.5	3	1.5	4	3	ERS19011792	sample processed and sequenced
-SKL5QN	TGRG5T	3	4.178	07:05:00	4/1/2020	4	7	9	3	4.5	ERS19011793	sample processed and sequenced
-S9THTM	TIYMCS	1	4.799	07:10:00	3/8/2020	9	4	4.5	5	4	ERS19011794	sample processed and sequenced
-S7NAD1	TEE8KA	3	3.216	08:05:00	10/23/2020	4	12	4	13	17	ERS19011795	sample processed and sequenced
-SKBBSA	TUP4R5	2	4.48	07:15:00	3/17/2020	0.3	0	0	0.5	1	ERS19011796	sample processed and sequenced
-SIZSDD	TG1QMA	3	5.468	07:15:00	1/9/2020	3.5	3.7	4	2	3	ERS19011797	sample processed and sequenced
-SQBNZP	TG1QMA	2	1.935	07:15:00	1/9/2020	3.5	3.7	4	2	3	ERS19011798	sample processed and sequenced
-SJQRSF	TIYMCS	4	12.593	07:10:00	3/8/2020	9	4	4.5	5	4	ERS19011799	sample processed and sequenced
-SI3JSK	TUP4R5	1	9.77	07:15:00	3/17/2020	0.3	0	0	0.5	1	ERS19011800	sample processed and sequenced
-SQ8WP8	TB43DA	4	8.822	06:32:00	9/16/2020	3	6	5	4	4	ERS19011801	sample processed and sequenced
-SLTVJ6	TZJWN3	4	5.067	07:04:00	10/27/2020	1.5	11	12	5	10.5	ERS19011802	sample processed and sequenced
-SGATLH	TYBVPP	1	7.096	07:02:00	3/14/2020	2	0.5	0.2	5	7	ERS19011803	sample processed and sequenced
-SF3PKZ	TB43DA	1	9.267	06:32:00	9/16/2020	3	6	5	4	4	ERS19011804	sample processed and sequenced
-STB8AK	TEYXBT	3	2.042	07:15:00	11/3/2020	20	22	27	24	25	ERS19011805	sample processed and sequenced
-SMGGMJ	TN1QSL	2	1.272	08:00:00	2/23/2020	3.5	3	1.5	4	3	ERS19011806	sample processed and sequenced
-SL41Y5	THYGHQ	4	6.426	07:18:00	2/8/2020	0.4	5	5	2	5	ERS19011807	sample processed and sequenced
-S76KDS	TW51Z9	2	9.583	08:00:00	4/13/2020	0.5	0.7	1	1	1	ERS19011808	sample processed and sequenced
-SMWUI5	TYBVPP	2	10.892	07:02:00	3/14/2020	2	0.5	0.2	5	7	ERS19011809	sample processed and sequenced
-SQLSCJ	TYBVPP	3	8.883	07:02:00	3/14/2020	2	0.5	0.2	5	7	ERS19011810	sample processed and sequenced
-SPSZYT	TUH8A4	4	7.278	08:00:00	3/14/2020	4	4	3.5	4.5	3.5	ERS19011811	sample processed and sequenced
-S56YBQ	TZJWN3	2	5.045	07:04:00	10/27/2020	1.5	11	12	5	10.5	ERS19011812	sample processed and sequenced
-SIC7IL	TEYXBT	2	1.399	07:15:00	11/3/2020	20	22	27	24	25	ERS19011813	sample processed and sequenced
-ST1CZ9	TFBCWJ	2	8.689	06:42:00	9/26/2020	1	5	7	6	5.7	ERS19011814	sample processed and sequenced
-SAP9Y8	TQCQRI	2	3.29	08:00:00	3/13/2020	3.5	3	4	6	4	ERS19011815	sample processed and sequenced
-SKT5M8	THYGHQ	1	18.318	07:18:00	2/8/2020	0.4	5	5	2	5	ERS19011816	sample processed and sequenced
-SZE6Z5	TW51Z9	3	5.039	08:00:00	4/13/2020	0.5	0.7	1	1	1	ERS19011817	sample processed and sequenced
-S1IRKH	TPSMAA	4	3.088	07:50:00	9/10/2020	6	16	13	8	9	ERS19011818	sample processed and sequenced
-SBGZRL	TP2FUA	1	4.141	12:20:00	1/8/2020	5	4	2	10	5	ERS19011819	sample processed and sequenced
-SLTF1S	TTFJBN	3	4.719	07:13:00	11/2/2020	18.5	26	45	40	40	ERS19011820	sample processed and sequenced
-SPZQEW	T6UDMB	1	8.539	09:00:00	3/11/2020	2	4	3	5	4.5	ERS19011821	sample processed and sequenced
-SXB19P	TIPGKX	3	11.722	06:52:00	3/23/2020	1	2	1	0.5	1.5	ERS19011822	sample processed and sequenced
-SSFHMG	T6UDMB	3	3.532	09:00:00	3/11/2020	2	4	3	5	4.5	ERS19011823	sample processed and sequenced
-SJGWXM	TUAPDE	4	4.859	08:00:00	4/17/2020	1	1.5	1	1	1.5	ERS19011824	sample processed and sequenced
-SMN93U	T9VS8I	3	5.168	07:15:00	10/10/2020	0.5	1	0.5	1	0.5	ERS19011825	sample processed and sequenced
-SLCPJD	TK1MIJ	3	3.402	07:00:00	11/9/2020	1	0.9	1.2	1	1.1	ERS19011826	sample processed and sequenced
-S66ZKN	TP2FUA	2	2.512	12:20:00	1/8/2020	5	4	2	10	5	ERS19011827	sample processed and sequenced
-SHGIYZ	TTFJBN	4	2.558	07:13:00	11/2/2020	18.5	26	45	40	40	ERS19011828	sample processed and sequenced
-S9BR2W	TK4SS2	2	3.174	07:10:00	2/14/2020	7	2	5	5	2	ERS19011829	sample processed and sequenced
-SZKISG	THYGHQ	3	5.009	07:18:00	2/8/2020	0.4	5	5	2	5	ERS19011830	sample processed and sequenced
-SNEB87	TIPGKX	4	9.785	06:52:00	3/23/2020	1	2	1	0.5	1.5	ERS19011831	sample processed and sequenced
-SBYMDJ	TKRH5P	3	2.474	09:00:00	2/29/2020	3	2.6	3.9	1.8	4.2	ERS19011832	sample processed and sequenced
-SXHUZ9	T6UDMB	4	17.339	09:00:00	3/11/2020	2	4	3	5	4.5	ERS19011833	sample processed and sequenced
-SGKHLD	T6UDMB	2	9.562	09:00:00	3/11/2020	2	4	3	5	4.5	ERS19011834	sample processed and sequenced
-SIIWTI	TAVVN5	1	2.658	07:55:00	4/16/2020	2	2.5	2	3	3.5	ERS19011835	sample processed and sequenced
-SYDGFZ	THGFVB	1	2.077	07:16:00	9/20/2020	7	18	15	6	8	ERS19011836	sample processed and sequenced
-SBAQQM	THGFVB	2	1.572	07:16:00	9/20/2020	7	18	15	6	8	ERS19011837	sample processed and sequenced
-SZTDGM	T3JY78	4	23.84	06:55:00	3/19/2020	0	0	0.5	0.5	0.5	ERS19011838	sample processed and sequenced
-S1RAFA	THGFVB	4	1.834	07:16:00	9/20/2020	7	18	15	6	8	ERS19011839	sample processed and sequenced
-S26TFY	TPSMAA	1	2.824	07:50:00	9/10/2020	6	16	13	8	9	ERS19011840	sample processed and sequenced
-S3UE3P	TIPGKX	1	12.847	06:52:00	3/23/2020	1	2	1	0.5	1.5	ERS19011841	sample processed and sequenced
-SRGGCL	TEE8KA	1	10.001	08:05:00	10/23/2020	4	12	4	13	17	ERS19011842	sample processed and sequenced
-S7CXMM	TPSMAA	2	5.279	07:50:00	9/10/2020	6	16	13	8	9	ERS19011843	sample processed and sequenced
-SMJTJS	TEE8KA	2	1.795	08:05:00	10/23/2020	4	12	4	13	17	ERS19011844	sample processed and sequenced
-SMVRMQ	TDKTHY	3	2.429	07:15:00	11/4/2020	8	29	30	16	13	ERS19011845	sample processed and sequenced
-S3YNER	TAVVN5	3	5.109	07:55:00	4/16/2020	2	2.5	2	3	3.5	ERS19011846	sample processed and sequenced
-SWFIRU	TGRG5T	1	5.045	07:05:00	4/1/2020	4	7	9	3	4.5	ERS19011847	sample processed and sequenced
-SMDVIN	TGRG5T	4	9.493	07:05:00	4/1/2020	4	7	9	3	4.5	ERS19011848	sample processed and sequenced
-S4MJKX	TG1QMA	4	3.448	07:15:00	1/9/2020	3.5	3.7	4	2	3	ERS19011849	sample processed and sequenced
-SSBGAU	TIYMCS	2	8.734	07:10:00	3/8/2020	9	4	4.5	5	4	ERS19011850	sample processed and sequenced
-SPSDTA	THGFVB	3	1.917	07:16:00	9/20/2020	7	18	15	6	8	ERS19011851	sample processed and sequenced
-SQ9APK	TIPGKX	2	13.016	06:52:00	3/23/2020	1	2	1	0.5	1.5	ERS19011852	sample processed and sequenced
-SSIDN8	TDKTHY	1	4.306	07:15:00	11/4/2020	8	29	30	16	13	ERS19011853	sample processed and sequenced
-SD7PK3	TEE8KA	4	2.876	08:05:00	10/23/2020	4	12	4	13	17	ERS19011854	sample processed and sequenced
-SF9BEA	T3JY78	3	12.929	06:55:00	3/19/2020	0	0	0.5	0.5	0.5	ERS19011855	sample processed and sequenced
-SY7UCK	TQCQRI	1	3.55	08:00:00	3/13/2020	3.5	3	4	6	4	ERS19011856	sample processed and sequenced
-SIICMQ	TPQKYN	2	1.919	07:50:00	2/9/2020	4	3.5	3	2	5	ERS19011857	sample processed and sequenced
-SVKN3Y	TN1QSL	4	1.475	08:00:00	2/23/2020	3.5	3	1.5	4	3	ERS19011858	sample processed and sequenced
-S3EBHF	TXS3QU	4	6.357	08:00:00	11/18/2020	0.5	1	2.5	1.5	0.5	ERS19011859	sample processed and sequenced
-SVBPY5	TNKTYG	2	2.597	08:00:00	4/15/2020	1.5	1	2	1	3	ERS19011860	sample processed and sequenced
-SLNLDA	TQKQRH	2	2.762	07:30:00	10/8/2020	1	1	1	1.5	2	ERS19011861	sample processed and sequenced
-SHVMKI	TYBVPP	4	10.851	07:02:00	3/14/2020	2	0.5	0.2	5	7	ERS19011862	sample processed and sequenced
-SDR5WI	TTFJBN	2	4.237	07:13:00	11/2/2020	18.5	26	45	40	40	ERS19011863	sample processed and sequenced
-SMSJ3M	T4ZF4M	1	7.967	08:05:00	3/5/2020	1	2	6	10	5	ERS19011864	sample processed and sequenced
-SG3WQN	TKDVTA	3	16.486	06:27:00	9/25/2020	6	5	4	6	9	ERS19011865	sample processed and sequenced
-S5THKA	TUH8A4	1	2.475	08:00:00	3/14/2020	4	4	3.5	4.5	3.5	ERS19011866	sample processed and sequenced
-SCQ7TN	TUH8A4	2	3.458	08:00:00	3/14/2020	4	4	3.5	4.5	3.5	ERS19011867	sample processed and sequenced
-SEAHX6	TPQKYN	4	5.675	07:50:00	2/9/2020	4	3.5	3	2	5	ERS19011868	sample processed and sequenced
-S6GMBB	TE8SYJ	4	3.466	06:55:00	3/18/2020	0.5	0.3	0.5	1	0.1	ERS19011869	sample processed and sequenced
-SQXZLH	TNKTYG	3	2.064	08:00:00	4/15/2020	1.5	1	2	1	3	ERS19011870	sample processed and sequenced
-SHGMRA	T4ZF4M	2	21.791	08:05:00	3/5/2020	1	2	6	10	5	ERS19011871	sample processed and sequenced
-S1KWYN	TPQKYN	3	6.279	07:50:00	2/9/2020	4	3.5	3	2	5	ERS19011872	sample processed and sequenced
-SPPBMT	TW51Z9	4	5.625	08:00:00	4/13/2020	0.5	0.7	1	1	1	ERS19011873	sample processed and sequenced
-SLVRY6	TK4SS2	3	2.689	07:10:00	2/14/2020	7	2	5	5	2	ERS19011874	sample processed and sequenced
-SZ2Y3N	THI5PX	1	2.816	09:00:00	4/20/2020	1	1	0.6	1	1.5	ERS19011875	sample processed and sequenced
-SW6K1P	TE8SYJ	3	3.937	06:55:00	3/18/2020	0.5	0.3	0.5	1	0.1	ERS19011876	sample processed and sequenced
-SHC7CY	TUAPDE	3	3.048	08:00:00	4/17/2020	1	1.5	1	1	1.5	ERS19011877	sample processed and sequenced
-SDB1CX	TUAPDE	2	4.324	08:00:00	4/17/2020	1	1.5	1	1	1.5	ERS19011878	sample processed and sequenced
-S7GMFW	TFWNLD	1	8.885	07:07:00	3/12/2020	4.5	4	3.5	4	3.5	ERS19011879	sample processed and sequenced
-SYUYRP	TXS3QU	2	8.204	08:00:00	11/18/2020	0.5	1	2.5	1.5	0.5	ERS19011880	sample processed and sequenced
-S236JN	TRKQU5	1	2.871	07:30:00	4/23/2020	1	1.5	1	1.5	1	ERS19011881	sample processed and sequenced
-SZ2UW5	TQKQRH	3	1.673	07:30:00	10/8/2020	1	1	1	1.5	2	ERS19011882	sample processed and sequenced
-SBUGKQ	T9VS8I	2	2.462	07:15:00	10/10/2020	0.5	1	0.5	1	0.5	ERS19011883	sample processed and sequenced
-SCTMQK	TK4SS2	4	3.608	07:10:00	2/14/2020	7	2	5	5	2	ERS19011884	sample processed and sequenced
-SWMHGF	TKDVTA	2	11.409	06:27:00	9/25/2020	6	5	4	6	9	ERS19011885	sample processed and sequenced
-SWWTH9	TEYXBT	1	1.279	07:15:00	11/3/2020	20	22	27	24	25	ERS19011886	sample processed and sequenced
-SXFCNR	TE8SYJ	2	7.875	06:55:00	3/18/2020	0.5	0.3	0.5	1	0.1	ERS19011887	sample processed and sequenced
-S8NS9R	TXS3QU	1	2.88	08:00:00	11/18/2020	0.5	1	2.5	1.5	0.5	ERS19011888	sample processed and sequenced
-SUX1EJ	TW51Z9	1	13.191	08:00:00	4/13/2020	0.5	0.7	1	1	1	ERS19011889	sample processed and sequenced
-SSZXNX	TXS3QU	3	7.295	08:00:00	11/18/2020	0.5	1	2.5	1.5	0.5	ERS19011890	sample processed and sequenced
-SNW8EE	TUH8A4	3	3.924	08:00:00	3/14/2020	4	4	3.5	4.5	3.5	ERS19011891	sample processed and sequenced
-SMY2JY	TB43DA	2	8.167	06:32:00	9/16/2020	3	6	5	4	4	ERS19011892	sample processed and sequenced
-SHTMY4	T9VS8I	1	5.908	07:15:00	10/10/2020	0.5	1	0.5	1	0.5	ERS19011893	sample processed and sequenced
-SYSZPE	TNQVM4	4	3.401	07:22:00	10/9/2020	2	2	2.5	3	2	ERS19011894	sample processed and sequenced
-SI3ECN	TFWNLD	4	5.647	07:07:00	3/12/2020	4.5	4	3.5	4	3.5	ERS19011895	sample processed and sequenced
-S1QU77	TK1MIJ	4	5.614	07:00:00	11/9/2020	1	0.9	1.2	1	1.1	ERS19011896	sample processed and sequenced
-S69KXM	TZJWN3	1	8.432	07:04:00	10/27/2020	1.5	11	12	5	10.5	ERS19011897	sample processed and sequenced
-STYZT5	TK4SS2	1	4.267	07:10:00	2/14/2020	7	2	5	5	2	ERS19011898	sample processed and sequenced
-SYJCSE	TGJ4FW	2	2.263	07:10:00	1/9/2020	1	6	3	3	5	ERS19011899	sample processed and sequenced
-SX2VI1	TGJ4FW	3	1.909	07:10:00	1/9/2020	1	6	3	3	5	ERS19011900	sample processed and sequenced
-SCMNA8	TR4LDL	4	4.081	08:00:00	2/16/2020	2	3	6	4	3	ERS19011901	sample processed and sequenced
-SBIZFM	TKDVTA	1	7.913	06:27:00	9/25/2020	6	5	4	6	9	ERS19011902	sample processed and sequenced
-S3Z1KE	TFBCWJ	1	13.789	06:42:00	9/26/2020	1	5	7	6	5.7	ERS19011903	sample processed and sequenced
-SIEE6F	TUP4R5	4	9.912	07:15:00	3/17/2020	0.3	0	0	0.5	1	ERS19011904	sample processed and sequenced
-SGUELV	TUP4R5	3	23.384	07:15:00	3/17/2020	0.3	0	0	0.5	1	ERS19011905	sample processed and sequenced
-S2EPLE	TRA8W1	4	1.893	08:30:00	11/14/2020	2	2	5.4	10.3	8	ERS19011906	sample processed and sequenced
-SQ57QR	TG6SK4	1	3.17	07:35:00	11/24/2020	1.5	2.5	3	6	3	ERS19011907	sample processed and sequenced
-S1JRTU	TEGSKQ	2	6.826	08:30:00	11/6/2020	2	7	2	9	2	ERS19011908	sample processed and sequenced
+sampleID_FIELD	trapID	transectID	biomass_grams	date	time	sample_accession_ENA	sample_status
+SVWK2H	TNKTYG	4	1.61	4/15/2020	08:00:00	ERS19011719	sample processed and sequenced
+SN2HAM	TNKTYG	1	1.652	4/15/2020	08:00:00	ERS19011720	sample processed and sequenced
+SRNZLW	TAVVN5	4	3.299	4/16/2020	07:55:00	ERS19011721	sample processed and sequenced
+SJBKAQ	TFWNLD	2	20.647	3/12/2020	07:07:00	ERS19011722	sample processed and sequenced
+SN5HGL	THI5PX	3	3.374	4/20/2020	09:00:00	ERS19011723	sample processed and sequenced
+SLS8JL	TNQVM4	1	6.599	10/9/2020	07:22:00	ERS19011724	sample processed and sequenced
+S7LCNP	TQKQRH	4	1.539	10/8/2020	07:30:00	ERS19011725	sample processed and sequenced
+SVKZWW	TRKQU5	4	1.665	4/23/2020	07:30:00	ERS19011726	sample processed and sequenced
+S5MGWK	T3JY78	2	3.307	3/19/2020	06:55:00	ERS19011727	sample processed and sequenced
+SZNGZX	T9VS8I	4	5.607	10/10/2020	07:15:00	ERS19011728	sample processed and sequenced
+SUBPBH	TRKQU5	2	1.586	4/23/2020	07:30:00	ERS19011729	sample processed and sequenced
+SLIND8	TK1MIJ	1	2.463	11/9/2020	07:00:00	ERS19011730	sample processed and sequenced
+SLCWXB	THI5PX	4	2.9	4/20/2020	09:00:00	ERS19011731	sample processed and sequenced
+SAVUKM	THI5PX	2	2.033	4/20/2020	09:00:00	ERS19011732	sample processed and sequenced
+SKVJD9	TGJ4FW	1	2.559	1/9/2020	07:10:00	ERS19011733	sample processed and sequenced
+SWKIHX	TEGSKQ	4	4.35	11/6/2020	08:30:00	ERS19011734	sample processed and sequenced
+SWZB1H	TPSMAA	3	1.705	9/10/2020	07:50:00	ERS19011735	sample processed and sequenced
+SCAMZY	TNQVM4	2	4.544	10/9/2020	07:22:00	ERS19011736	sample processed and sequenced
+SIJKLD	TK1MIJ	2	3.252	11/9/2020	07:00:00	ERS19011737	sample processed and sequenced
+SSKVQG	TQKQRH	1	1.907	10/8/2020	07:30:00	ERS19011738	sample processed and sequenced
+S3ACI1	TKRH5P	2	1.687	2/29/2020	09:00:00	ERS19011739	sample processed and sequenced
+SW88MC	TRKQU5	3	3.629	4/23/2020	07:30:00	ERS19011740	sample processed and sequenced
+SJ4IQY	TKRH5P	4	2.067	2/29/2020	09:00:00	ERS19011741	sample processed and sequenced
+SJHXWA	TG1QMA	1	2.012	1/9/2020	07:15:00	ERS19011742	sample processed and sequenced
+SSBNW8	TNQVM4	3	6.398	10/9/2020	07:22:00	ERS19011743	sample processed and sequenced
+SXMFTC	TEGSKQ	1	3.318	11/6/2020	08:30:00	ERS19011744	sample processed and sequenced
+SBWUVJ	TEYXBT	4	2.524	11/3/2020	07:15:00	ERS19011745	sample processed and sequenced
+SZ4XDG	TULADB	2	3.775	9/27/2020	07:30:00	ERS19011746	sample processed and sequenced
+SZFPKY	TKRH5P	1	1.436	2/29/2020	09:00:00	ERS19011747	sample processed and sequenced
+SIYP6S	T4ZF4M	4	5.99	3/5/2020	08:05:00	ERS19011748	sample processed and sequenced
+SHQKWI	TP2FUA	4	2.575	1/8/2020	12:20:00	ERS19011749	sample processed and sequenced
+SDJL8S	TULADB	1	2.637	9/27/2020	07:30:00	ERS19011750	sample processed and sequenced
+SGSKWZ	TFBCWJ	4	6.106	9/26/2020	06:42:00	ERS19011751	sample processed and sequenced
+SNGL3V	TP2FUA	3	1.945	1/8/2020	12:20:00	ERS19011752	sample processed and sequenced
+SUPSXE	TG6SK4	2	3.689	11/24/2020	07:35:00	ERS19011753	sample processed and sequenced
+SNSVZS	TIYMCS	3	6.442	3/8/2020	07:10:00	ERS19011754	sample processed and sequenced
+SNIA36	TR4LDL	1	9.183	2/16/2020	08:00:00	ERS19011755	sample processed and sequenced
+SI2D1L	TR4LDL	2	3.711	2/16/2020	08:00:00	ERS19011756	sample processed and sequenced
+SSMBNW	TKDVTA	4	20.854	9/25/2020	06:27:00	ERS19011757	sample processed and sequenced
+SV15SF	T4ZF4M	3	6.731	3/5/2020	08:05:00	ERS19011758	sample processed and sequenced
+SGFPLE	TDY8SA	1	6.019	10/20/2020	07:25:00	ERS19011759	sample processed and sequenced
+S4XPK6	TZJWN3	3	3.731	10/27/2020	07:04:00	ERS19011760	sample processed and sequenced
+SNUPZ1	TRGIDB	2	3.256	10/16/2020	07:05:00	ERS19011761	sample processed and sequenced
+SPTYQG	TDY8SA	2	2.381	10/20/2020	07:25:00	ERS19011762	sample processed and sequenced
+SM3ZQG	TG6SK4	4	3.379	11/24/2020	07:35:00	ERS19011763	sample processed and sequenced
+SMITZD	TGJ4FW	4	11.416	1/9/2020	07:10:00	ERS19011764	sample processed and sequenced
+S28PMN	TUAPDE	1	4.614	4/17/2020	08:00:00	ERS19011765	sample processed and sequenced
+SC7BC9	TRA8W1	1	2.22	11/14/2020	08:30:00	ERS19011766	sample processed and sequenced
+SCPDDG	TDY8SA	4	1.823	10/20/2020	07:25:00	ERS19011767	sample processed and sequenced
+SHA7MS	TN1QSL	1	1.232	2/23/2020	08:00:00	ERS19011768	sample processed and sequenced
+SZKPGX	TEGSKQ	3	3.296	11/6/2020	08:30:00	ERS19011769	sample processed and sequenced
+S8CSZJ	TRA8W1	2	1.473	11/14/2020	08:30:00	ERS19011770	sample processed and sequenced
+SLJAJN	TRGIDB	1	3.654	10/16/2020	07:05:00	ERS19011771	sample processed and sequenced
+SGEBUA	TRA8W1	3	3.667	11/14/2020	08:30:00	ERS19011772	sample processed and sequenced
+SE4SDM	TRGIDB	3	2.858	10/16/2020	07:05:00	ERS19011773	sample processed and sequenced
+S4J1B7	TRGIDB	4	2.758	10/16/2020	07:05:00	ERS19011774	sample processed and sequenced
+SUAY6K	TPQKYN	1	2.607	2/9/2020	07:50:00	ERS19011775	sample processed and sequenced
+SYCQKH	TFBCWJ	3	3.311	9/26/2020	06:42:00	ERS19011776	sample processed and sequenced
+SYYIFA	TG6SK4	3	7.785	11/24/2020	07:35:00	ERS19011777	sample processed and sequenced
+SQICSK	TR4LDL	3	5.057	2/16/2020	08:00:00	ERS19011778	sample processed and sequenced
+SULVBI	TDKTHY	2	4.175	11/4/2020	07:15:00	ERS19011779	sample processed and sequenced
+S5NRPT	TULADB	3	6.053	9/27/2020	07:30:00	ERS19011780	sample processed and sequenced
+SYQEJY	THYGHQ	2	7.489	2/8/2020	07:18:00	ERS19011781	sample processed and sequenced
+SEGTRW	TULADB	4	7.209	9/27/2020	07:30:00	ERS19011782	sample processed and sequenced
+SY9V94	TAVVN5	2	3.675	4/16/2020	07:55:00	ERS19011783	sample processed and sequenced
+SBWH2H	TDKTHY	4	4.53	11/4/2020	07:15:00	ERS19011784	sample processed and sequenced
+SBNRI4	TTFJBN	1	1.862	11/2/2020	07:13:00	ERS19011785	sample processed and sequenced
+SIJIFI	TQCQRI	3	6.948	3/13/2020	08:00:00	ERS19011786	sample processed and sequenced
+SKLCXS	TB43DA	3	7.47	9/16/2020	06:32:00	ERS19011787	sample processed and sequenced
+SLGVD4	TQCQRI	4	3.232	3/13/2020	08:00:00	ERS19011788	sample processed and sequenced
+SBFECR	TDY8SA	3	5.67	10/20/2020	07:25:00	ERS19011789	sample processed and sequenced
+STRCUS	TGRG5T	2	4.611	4/1/2020	07:05:00	ERS19011790	sample processed and sequenced
+SVB3W6	TE8SYJ	1	4.698	3/18/2020	06:55:00	ERS19011791	sample processed and sequenced
+SHYEAT	TN1QSL	3	1.475	2/23/2020	08:00:00	ERS19011792	sample processed and sequenced
+SKL5QN	TGRG5T	3	4.178	4/1/2020	07:05:00	ERS19011793	sample processed and sequenced
+S9THTM	TIYMCS	1	4.799	3/8/2020	07:10:00	ERS19011794	sample processed and sequenced
+S7NAD1	TEE8KA	3	3.216	10/23/2020	08:05:00	ERS19011795	sample processed and sequenced
+SKBBSA	TUP4R5	2	4.48	3/17/2020	07:15:00	ERS19011796	sample processed and sequenced
+SIZSDD	TG1QMA	3	5.468	1/9/2020	07:15:00	ERS19011797	sample processed and sequenced
+SQBNZP	TG1QMA	2	1.935	1/9/2020	07:15:00	ERS19011798	sample processed and sequenced
+SJQRSF	TIYMCS	4	12.593	3/8/2020	07:10:00	ERS19011799	sample processed and sequenced
+SI3JSK	TUP4R5	1	9.77	3/17/2020	07:15:00	ERS19011800	sample processed and sequenced
+SQ8WP8	TB43DA	4	8.822	9/16/2020	06:32:00	ERS19011801	sample processed and sequenced
+SLTVJ6	TZJWN3	4	5.067	10/27/2020	07:04:00	ERS19011802	sample processed and sequenced
+SGATLH	TYBVPP	1	7.096	3/14/2020	07:02:00	ERS19011803	sample processed and sequenced
+SF3PKZ	TB43DA	1	9.267	9/16/2020	06:32:00	ERS19011804	sample processed and sequenced
+STB8AK	TEYXBT	3	2.042	11/3/2020	07:15:00	ERS19011805	sample processed and sequenced
+SMGGMJ	TN1QSL	2	1.272	2/23/2020	08:00:00	ERS19011806	sample processed and sequenced
+SL41Y5	THYGHQ	4	6.426	2/8/2020	07:18:00	ERS19011807	sample processed and sequenced
+S76KDS	TW51Z9	2	9.583	4/13/2020	08:00:00	ERS19011808	sample processed and sequenced
+SMWUI5	TYBVPP	2	10.892	3/14/2020	07:02:00	ERS19011809	sample processed and sequenced
+SQLSCJ	TYBVPP	3	8.883	3/14/2020	07:02:00	ERS19011810	sample processed and sequenced
+SPSZYT	TUH8A4	4	7.278	3/14/2020	08:00:00	ERS19011811	sample processed and sequenced
+S56YBQ	TZJWN3	2	5.045	10/27/2020	07:04:00	ERS19011812	sample processed and sequenced
+SIC7IL	TEYXBT	2	1.399	11/3/2020	07:15:00	ERS19011813	sample processed and sequenced
+ST1CZ9	TFBCWJ	2	8.689	9/26/2020	06:42:00	ERS19011814	sample processed and sequenced
+SAP9Y8	TQCQRI	2	3.29	3/13/2020	08:00:00	ERS19011815	sample processed and sequenced
+SKT5M8	THYGHQ	1	18.318	2/8/2020	07:18:00	ERS19011816	sample processed and sequenced
+SZE6Z5	TW51Z9	3	5.039	4/13/2020	08:00:00	ERS19011817	sample processed and sequenced
+S1IRKH	TPSMAA	4	3.088	9/10/2020	07:50:00	ERS19011818	sample processed and sequenced
+SBGZRL	TP2FUA	1	4.141	1/8/2020	12:20:00	ERS19011819	sample processed and sequenced
+SLTF1S	TTFJBN	3	4.719	11/2/2020	07:13:00	ERS19011820	sample processed and sequenced
+SPZQEW	T6UDMB	1	8.539	3/11/2020	09:00:00	ERS19011821	sample processed and sequenced
+SXB19P	TIPGKX	3	11.722	3/23/2020	06:52:00	ERS19011822	sample processed and sequenced
+SSFHMG	T6UDMB	3	3.532	3/11/2020	09:00:00	ERS19011823	sample processed and sequenced
+SJGWXM	TUAPDE	4	4.859	4/17/2020	08:00:00	ERS19011824	sample processed and sequenced
+SMN93U	T9VS8I	3	5.168	10/10/2020	07:15:00	ERS19011825	sample processed and sequenced
+SLCPJD	TK1MIJ	3	3.402	11/9/2020	07:00:00	ERS19011826	sample processed and sequenced
+S66ZKN	TP2FUA	2	2.512	1/8/2020	12:20:00	ERS19011827	sample processed and sequenced
+SHGIYZ	TTFJBN	4	2.558	11/2/2020	07:13:00	ERS19011828	sample processed and sequenced
+S9BR2W	TK4SS2	2	3.174	2/14/2020	07:10:00	ERS19011829	sample processed and sequenced
+SZKISG	THYGHQ	3	5.009	2/8/2020	07:18:00	ERS19011830	sample processed and sequenced
+SNEB87	TIPGKX	4	9.785	3/23/2020	06:52:00	ERS19011831	sample processed and sequenced
+SBYMDJ	TKRH5P	3	2.474	2/29/2020	09:00:00	ERS19011832	sample processed and sequenced
+SXHUZ9	T6UDMB	4	17.339	3/11/2020	09:00:00	ERS19011833	sample processed and sequenced
+SGKHLD	T6UDMB	2	9.562	3/11/2020	09:00:00	ERS19011834	sample processed and sequenced
+SIIWTI	TAVVN5	1	2.658	4/16/2020	07:55:00	ERS19011835	sample processed and sequenced
+SYDGFZ	THGFVB	1	2.077	9/20/2020	07:16:00	ERS19011836	sample processed and sequenced
+SBAQQM	THGFVB	2	1.572	9/20/2020	07:16:00	ERS19011837	sample processed and sequenced
+SZTDGM	T3JY78	4	23.84	3/19/2020	06:55:00	ERS19011838	sample processed and sequenced
+S1RAFA	THGFVB	4	1.834	9/20/2020	07:16:00	ERS19011839	sample processed and sequenced
+S26TFY	TPSMAA	1	2.824	9/10/2020	07:50:00	ERS19011840	sample processed and sequenced
+S3UE3P	TIPGKX	1	12.847	3/23/2020	06:52:00	ERS19011841	sample processed and sequenced
+SRGGCL	TEE8KA	1	10.001	10/23/2020	08:05:00	ERS19011842	sample processed and sequenced
+S7CXMM	TPSMAA	2	5.279	9/10/2020	07:50:00	ERS19011843	sample processed and sequenced
+SMJTJS	TEE8KA	2	1.795	10/23/2020	08:05:00	ERS19011844	sample processed and sequenced
+SMVRMQ	TDKTHY	3	2.429	11/4/2020	07:15:00	ERS19011845	sample processed and sequenced
+S3YNER	TAVVN5	3	5.109	4/16/2020	07:55:00	ERS19011846	sample processed and sequenced
+SWFIRU	TGRG5T	1	5.045	4/1/2020	07:05:00	ERS19011847	sample processed and sequenced
+SMDVIN	TGRG5T	4	9.493	4/1/2020	07:05:00	ERS19011848	sample processed and sequenced
+S4MJKX	TG1QMA	4	3.448	1/9/2020	07:15:00	ERS19011849	sample processed and sequenced
+SSBGAU	TIYMCS	2	8.734	3/8/2020	07:10:00	ERS19011850	sample processed and sequenced
+SPSDTA	THGFVB	3	1.917	9/20/2020	07:16:00	ERS19011851	sample processed and sequenced
+SQ9APK	TIPGKX	2	13.016	3/23/2020	06:52:00	ERS19011852	sample processed and sequenced
+SSIDN8	TDKTHY	1	4.306	11/4/2020	07:15:00	ERS19011853	sample processed and sequenced
+SD7PK3	TEE8KA	4	2.876	10/23/2020	08:05:00	ERS19011854	sample processed and sequenced
+SF9BEA	T3JY78	3	12.929	3/19/2020	06:55:00	ERS19011855	sample processed and sequenced
+SY7UCK	TQCQRI	1	3.55	3/13/2020	08:00:00	ERS19011856	sample processed and sequenced
+SIICMQ	TPQKYN	2	1.919	2/9/2020	07:50:00	ERS19011857	sample processed and sequenced
+SVKN3Y	TN1QSL	4	1.475	2/23/2020	08:00:00	ERS19011858	sample processed and sequenced
+S3EBHF	TXS3QU	4	6.357	11/18/2020	08:00:00	ERS19011859	sample processed and sequenced
+SVBPY5	TNKTYG	2	2.597	4/15/2020	08:00:00	ERS19011860	sample processed and sequenced
+SLNLDA	TQKQRH	2	2.762	10/8/2020	07:30:00	ERS19011861	sample processed and sequenced
+SHVMKI	TYBVPP	4	10.851	3/14/2020	07:02:00	ERS19011862	sample processed and sequenced
+SDR5WI	TTFJBN	2	4.237	11/2/2020	07:13:00	ERS19011863	sample processed and sequenced
+SMSJ3M	T4ZF4M	1	7.967	3/5/2020	08:05:00	ERS19011864	sample processed and sequenced
+SG3WQN	TKDVTA	3	16.486	9/25/2020	06:27:00	ERS19011865	sample processed and sequenced
+S5THKA	TUH8A4	1	2.475	3/14/2020	08:00:00	ERS19011866	sample processed and sequenced
+SCQ7TN	TUH8A4	2	3.458	3/14/2020	08:00:00	ERS19011867	sample processed and sequenced
+SEAHX6	TPQKYN	4	5.675	2/9/2020	07:50:00	ERS19011868	sample processed and sequenced
+S6GMBB	TE8SYJ	4	3.466	3/18/2020	06:55:00	ERS19011869	sample processed and sequenced
+SQXZLH	TNKTYG	3	2.064	4/15/2020	08:00:00	ERS19011870	sample processed and sequenced
+SHGMRA	T4ZF4M	2	21.791	3/5/2020	08:05:00	ERS19011871	sample processed and sequenced
+S1KWYN	TPQKYN	3	6.279	2/9/2020	07:50:00	ERS19011872	sample processed and sequenced
+SPPBMT	TW51Z9	4	5.625	4/13/2020	08:00:00	ERS19011873	sample processed and sequenced
+SLVRY6	TK4SS2	3	2.689	2/14/2020	07:10:00	ERS19011874	sample processed and sequenced
+SZ2Y3N	THI5PX	1	2.816	4/20/2020	09:00:00	ERS19011875	sample processed and sequenced
+SW6K1P	TE8SYJ	3	3.937	3/18/2020	06:55:00	ERS19011876	sample processed and sequenced
+SHC7CY	TUAPDE	3	3.048	4/17/2020	08:00:00	ERS19011877	sample processed and sequenced
+SDB1CX	TUAPDE	2	4.324	4/17/2020	08:00:00	ERS19011878	sample processed and sequenced
+S7GMFW	TFWNLD	1	8.885	3/12/2020	07:07:00	ERS19011879	sample processed and sequenced
+SYUYRP	TXS3QU	2	8.204	11/18/2020	08:00:00	ERS19011880	sample processed and sequenced
+S236JN	TRKQU5	1	2.871	4/23/2020	07:30:00	ERS19011881	sample processed and sequenced
+SZ2UW5	TQKQRH	3	1.673	10/8/2020	07:30:00	ERS19011882	sample processed and sequenced
+SBUGKQ	T9VS8I	2	2.462	10/10/2020	07:15:00	ERS19011883	sample processed and sequenced
+SCTMQK	TK4SS2	4	3.608	2/14/2020	07:10:00	ERS19011884	sample processed and sequenced
+SWMHGF	TKDVTA	2	11.409	9/25/2020	06:27:00	ERS19011885	sample processed and sequenced
+SWWTH9	TEYXBT	1	1.279	11/3/2020	07:15:00	ERS19011886	sample processed and sequenced
+SXFCNR	TE8SYJ	2	7.875	3/18/2020	06:55:00	ERS19011887	sample processed and sequenced
+S8NS9R	TXS3QU	1	2.88	11/18/2020	08:00:00	ERS19011888	sample processed and sequenced
+SUX1EJ	TW51Z9	1	13.191	4/13/2020	08:00:00	ERS19011889	sample processed and sequenced
+SSZXNX	TXS3QU	3	7.295	11/18/2020	08:00:00	ERS19011890	sample processed and sequenced
+SNW8EE	TUH8A4	3	3.924	3/14/2020	08:00:00	ERS19011891	sample processed and sequenced
+SMY2JY	TB43DA	2	8.167	9/16/2020	06:32:00	ERS19011892	sample processed and sequenced
+SHTMY4	T9VS8I	1	5.908	10/10/2020	07:15:00	ERS19011893	sample processed and sequenced
+SYSZPE	TNQVM4	4	3.401	10/9/2020	07:22:00	ERS19011894	sample processed and sequenced
+SI3ECN	TFWNLD	4	5.647	3/12/2020	07:07:00	ERS19011895	sample processed and sequenced
+S1QU77	TK1MIJ	4	5.614	11/9/2020	07:00:00	ERS19011896	sample processed and sequenced
+S69KXM	TZJWN3	1	8.432	10/27/2020	07:04:00	ERS19011897	sample processed and sequenced
+STYZT5	TK4SS2	1	4.267	2/14/2020	07:10:00	ERS19011898	sample processed and sequenced
+SYJCSE	TGJ4FW	2	2.263	1/9/2020	07:10:00	ERS19011899	sample processed and sequenced
+SX2VI1	TGJ4FW	3	1.909	1/9/2020	07:10:00	ERS19011900	sample processed and sequenced
+SCMNA8	TR4LDL	4	4.081	2/16/2020	08:00:00	ERS19011901	sample processed and sequenced
+SBIZFM	TKDVTA	1	7.913	9/25/2020	06:27:00	ERS19011902	sample processed and sequenced
+S3Z1KE	TFBCWJ	1	13.789	9/26/2020	06:42:00	ERS19011903	sample processed and sequenced
+SIEE6F	TUP4R5	4	9.912	3/17/2020	07:15:00	ERS19011904	sample processed and sequenced
+SGUELV	TUP4R5	3	23.384	3/17/2020	07:15:00	ERS19011905	sample processed and sequenced
+S2EPLE	TRA8W1	4	1.893	11/14/2020	08:30:00	ERS19011906	sample processed and sequenced
+SQ57QR	TG6SK4	1	3.17	11/24/2020	07:35:00	ERS19011907	sample processed and sequenced
+S1JRTU	TEGSKQ	2	6.826	11/6/2020	08:30:00	ERS19011908	sample processed and sequenced
