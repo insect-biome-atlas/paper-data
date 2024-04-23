@@ -155,7 +155,7 @@ SHGMRA	T4ZF4M	2	21.791	3/5/2020	08:05:00	ERS19011871	sample processed and sequen
 S1KWYN	TPQKYN	3	6.279	2/9/2020	07:50:00	ERS19011872	sample processed and sequenced
 SPPBMT	TW51Z9	4	5.625	4/13/2020	08:00:00	ERS19011873	sample processed and sequenced
 SLVRY6	TK4SS2	3	2.689	2/14/2020	07:10:00	ERS19011874	sample processed and sequenced
-SZ2Y3N	THI5PX	1	2.816	4/20/2020	09:00:00	ERS19011875	sample processed and sequenced
+SZ2Y3N	THI5PX	1	2.816	4/20/2020	09:00:00	NA	sample processed and sequenced but sequencing failed
 SW6K1P	TE8SYJ	3	3.937	3/18/2020	06:55:00	ERS19011876	sample processed and sequenced
 SHC7CY	TUAPDE	3	3.048	4/17/2020	08:00:00	ERS19011877	sample processed and sequenced
 SDB1CX	TUAPDE	2	4.324	4/17/2020	08:00:00	ERS19011878	sample processed and sequenced
@@ -167,7 +167,7 @@ SBUGKQ	T9VS8I	2	2.462	10/10/2020	07:15:00	ERS19011883	sample processed and seque
 SCTMQK	TK4SS2	4	3.608	2/14/2020	07:10:00	ERS19011884	sample processed and sequenced
 SWMHGF	TKDVTA	2	11.409	9/25/2020	06:27:00	ERS19011885	sample processed and sequenced
 SWWTH9	TEYXBT	1	1.279	11/3/2020	07:15:00	ERS19011886	sample processed and sequenced
-SXFCNR	TE8SYJ	2	7.875	3/18/2020	06:55:00	ERS19011887	sample processed and sequenced
+SXFCNR	TE8SYJ	2	7.875	3/18/2020	06:55:00	NA	sample processed and sequenced but sequencing failed
 S8NS9R	TXS3QU	1	2.88	11/18/2020	08:00:00	ERS19011888	sample processed and sequenced
 SUX1EJ	TW51Z9	1	13.191	4/13/2020	08:00:00	ERS19011889	sample processed and sequenced
 SSZXNX	TXS3QU	3	7.295	11/18/2020	08:00:00	ERS19011890	sample processed and sequenced
