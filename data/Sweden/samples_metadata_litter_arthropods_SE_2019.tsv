@@ -1,190 +1,378 @@
-sampleID_FIELD	trapID	date	time	sample_accession_ENA	sample_status
-T8EUCF_L	T8EUCF	10-07-2019	10:25:00_AM	ERS18958923	sample processed and sequenced
-TZDKD7_L	TZDKD7	05-07-2019	02:40:00_PM	ERS18959232	sample processed and sequenced
-TDUYXP_L	TDUYXP	18-07-2019	02:30:00_PM	ERS18958971	sample processed and sequenced
-TFUBVV_L	TFUBVV	24-07-2019	10:15:00_AM	ERS18958999	sample processed and sequenced
-TWF14R_L	TWF14R	24-07-2019	09:50:00_AM	ERS18959194	sample processed and sequenced
-TE2T4A_L	TE2T4A	24-07-2019	10:40:00_AM	ERS18958973	sample processed and sequenced
-T5KGVY_L	T5KGVY	23-07-2019	04:25:00_PM	ERS18958899	sample processed and sequenced
-TF3STP_L	TF3STP	04-07-2019	03:00:00_PM	ERS18958983	sample processed and sequenced
-TGX4C7_L	TGX4C7	24-07-2019	09:00:00_AM	ERS18959011	sample processed and sequenced
-TSVHD1_L	TSVHD1	23-07-2019	11:35:00_AM	ERS18959154	sample processed and sequenced
-T4EMTM_L	T4EMTM	20-07-2019	02:50:00_PM	ERS18958893	sample processed and sequenced
-TXLZ8M_L	TXLZ8M	21-07-2019	05:00:00_PM	ERS18959214	sample processed and sequenced
-T6YFBI_L	T6YFBI	22-07-2019	03:00:00_PM	ERS18958913	sample processed and sequenced
-TBGIW1_L	TBGIW1	03-07-2019	04:00:00_PM	ERS18958939	sample processed and sequenced
-TBGYQQ_L	TBGYQQ	04-07-2019	10:30:00_AM	ERS18958941	sample processed and sequenced
-TBLZ38_L	TBLZ38	18-07-2019	03:55:00_PM	ERS18958943	sample processed and sequenced
-TC6XPC_L	TC6XPC	17-07-2019	07:40:00_AM	ERS18958949	sample processed and sequenced
-TFECCG_L	TFECCG	23-07-2019	08:08:00_AM	ERS18958985	sample processed and sequenced
-THFUHH_L	THFUHH	10-07-2019	10:30:00_AM	ERS18959016	sample processed and sequenced
-TJZHPY_L	TJZHPY	20-07-2019	04:25:00_PM	ERS18959054	sample processed and sequenced
-TKIAHP_L	TKIAHP	01-07-2019	01:35:00_PM	ERS18959066	sample processed and sequenced
-TKSUA6_L	TKSUA6	18-07-2019	05:00:00_PM	ERS18959074	sample processed and sequenced
-TLFEGH_L	TLFEGH	02-07-2019	02:15:00_PM	ERS18959082	sample processed and sequenced
-TM5LBB_L	TM5LBB	01-07-2019	01:30:00_PM	ERS18959090	sample processed and sequenced
-TTAPUR_L	TTAPUR	13-07-2019	03:30:00_PM	ERS18959160	sample processed and sequenced
-TWRXFI_L	TWRXFI	29-07-2019	09:20:00_AM	ERS18959204	sample processed and sequenced
-TZQFGP_L	TZQFGP	10-07-2019	06:30:00_PM	ERS18959236	sample processed and sequenced
-THGYUE_L	THGYUE	30-06-2019	11:00:00_AM	ERS18959024	sample processed and sequenced
-TRICKN_L	TRICKN	15-07-2019	09:55:00_AM	ERS18959130	sample processed and sequenced
-T1TL12_L	T1TL12	02-07-2019	01:20:00_PM	ERS18958877	sample processed and sequenced
-T2KQJZ_L	T2KQJZ	23-07-2019	02:45:00_PM	ERS18958881	sample processed and sequenced
-T5FPCF_L	T5FPCF	16-07-2019	02:05:00_PM	ERS18958897	sample processed and sequenced
-T7ZDZJ_L	T7ZDZJ	11-07-2019	02:45:00_PM	ERS18958917	sample processed and sequenced
-TAI56Z_L	TAI56Z	03-07-2019	11:30:00_AM	ERS18958931	sample processed and sequenced
-TFGCME_L	TFGCME	24-07-2019	11:30:00_AM	ERS18958989	sample processed and sequenced
-TFIA7R_L	TFIA7R	27-07-2019	10:20:00_AM	ERS18958993	sample processed and sequenced
-TKGCFR_L	TKGCFR	02-07-2019	03:30:00_PM	ERS18959064	sample processed and sequenced
-TMMIG9_L	TMMIG9	21-07-2019	08:27:00_AM	ERS18959096	sample processed and sequenced
-TS2P4Q_L	TS2P4Q	16-07-2019	02:30:00_PM	ERS18959136	sample processed and sequenced
-TSEQHD_L	TSEQHD	04-07-2019	12:30:00_PM	ERS18959142	sample processed and sequenced
-TUQQIV_L	TUQQIV	15-07-2019	06:20:00_PM	ERS18959180	sample processed and sequenced
-TWJED2_L	TWJED2	19-07-2019	10:20:00_AM	ERS18959198	sample processed and sequenced
-T2YSPU_L	T2YSPU	04-07-2019	02:20:00_PM	ERS18958889	sample processed and sequenced
-T9UPWP_L	T9UPWP	17-07-2019	10:00:00_AM	ERS18958929	sample processed and sequenced
-TAPGMG_L	TAPGMG	12-07-2019	08:45:00_AM	ERS18958935	sample processed and sequenced
-TARUGI_L	TARUGI	16-07-2019	02:20:00_PM	ERS18958937	sample processed and sequenced
-TBPT1B_L	TBPT1B	20-07-2019	11:00:00_AM	ERS18958945	sample processed and sequenced
-TEHHBJ_L	TEHHBJ	08-07-2019	NA	ERS18958975	sample processed and sequenced
-THGNFM_L	THGNFM	22-07-2019	01:50:00_PM	ERS18959020	sample processed and sequenced
-TJNMNV_L	TJNMNV	17-07-2019	10:30:00_AM	ERS18959042	sample processed and sequenced
-TLCIG9_L	TLCIG9	02-07-2019	05:45:00_PM	ERS18959078	sample processed and sequenced
-TUQ4KK_L	TUQ4KK	24-07-2019	04:35:00_PM	ERS18959178	sample processed and sequenced
-TVNBV7_L	TVNBV7	03-07-2019	10:00:00_AM	ERS18959190	sample processed and sequenced
-TYBVXB_L	TYBVXB	26-06-2019	02:20:00_PM	ERS18959218	sample processed and sequenced
-TZ6Q7T_L	TZ6Q7T	21-07-2019	12:10:00_PM	ERS18959230	sample processed and sequenced
-T2NGGK_L	T2NGGK	17-07-2019	09:15:00_AM	ERS18958883	sample processed and sequenced
-T2T1DJ_L	T2T1DJ	02-07-2019	12:30:00_PM	ERS18958885	sample processed and sequenced
-T2YFPK_L	T2YFPK	09-07-2019	09:07:00_AM	ERS18958887	sample processed and sequenced
-T3NLMJ_L	T3NLMJ	09-07-2019	01:20:00_PM	ERS18958891	sample processed and sequenced
-T5XNHX_L	T5XNHX	01-07-2019	05:40:00_PM	ERS18958903	sample processed and sequenced
-T83QWB_L	T83QWB	11-07-2019	12:20:00_PM	ERS18958919	sample processed and sequenced
-TCD3P4_L	TCD3P4	09-07-2019	04:20:00_PM	ERS18958953	sample processed and sequenced
-TCSZX1_L	TCSZX1	02-07-2019	10:15:00_AM	ERS18958959	sample processed and sequenced
-TD5LHA_L	TD5LHA	02-07-2019	04:30:00_PM	ERS18958961	sample processed and sequenced
-TDCIPI_L	TDCIPI	16-07-2019	11:50:00_AM	ERS18958963	sample processed and sequenced
-TEYZYN_L	TEYZYN	08-07-2019	02:30:00_PM	ERS18958981	sample processed and sequenced
-TFHNHU_L	TFHNHU	15-07-2019	02:45:00_PM	ERS18958991	sample processed and sequenced
-TG4NHB_L	TG4NHB	03-07-2019	11:30:00_AM	NA	sample processed but sequencing failed
-TGTDBY_L	TGTDBY	12-07-2019	02:20:00_PM	ERS18959009	sample processed and sequenced
-TGXFSR_L	TGXFSR	18-07-2019	09:30:00_AM	ERS18959013	sample processed and sequenced
-THGUAX_L	THGUAX	23-07-2019	01:55:00_PM	ERS18959022	sample processed and sequenced
-THKAWB_L	THKAWB	21-07-2019	11:25:00_AM	ERS18959026	sample processed and sequenced
-TIUVZ1_L	TIUVZ1	10-07-2019	04:50:00_PM	ERS18959038	sample processed and sequenced
-TJS8IY_L	TJS8IY	01-07-2019	10:30:00_AM	ERS18959044	sample processed and sequenced
-TJXPPV_L	TJXPPV	02-07-2019	07:10:00_PM	ERS18959048	sample processed and sequenced
-TJXUUR_L	TJXUUR	16-07-2019	12:50:00_PM	ERS18959050	sample processed and sequenced
-TK3EAJ_L	TK3EAJ	30-06-2019	05:15:00_PM	ERS18959056	sample processed and sequenced
-TKMUNP_L	TKMUNP	25-07-2019	03:50:00_PM	ERS18959070	sample processed and sequenced
-TLG2QC_L	TLG2QC	10-07-2019	01:05:00_PM	ERS18959084	sample processed and sequenced
-TM4GA9_L	TM4GA9	23-07-2019	09:15:00_AM	ERS18959088	sample processed and sequenced
-TND7ZQ_L	TND7ZQ	05-07-2019	10:30:00_AM	ERS18959106	sample processed and sequenced
-TPXB6L_L	TPXB6L	12-07-2019	09:40:00_AM	ERS18959118	sample processed and sequenced
-TR24WG_L	TR24WG	18-07-2019	09:30:00_AM	ERS18959122	sample processed and sequenced
-TRB71K_L	TRB71K	15-07-2019	10:20:00_AM	ERS18959126	sample processed and sequenced
-TSFYKU_L	TSFYKU	05-07-2019	03:45:00_PM	ERS18959146	sample processed and sequenced
-TTNYZZ_L	TTNYZZ	11-07-2019	01:37:00_PM	ERS18959164	sample processed and sequenced
-TUHLET_L	TUHLET	16-07-2019	10:15:00_AM	ERS18959174	sample processed and sequenced
-TV5KPB_L	TV5KPB	08-07-2019	08:30:00_AM	ERS18959184	sample processed and sequenced
-TWCPQR_L	TWCPQR	26-06-2019	12:20:00_PM	ERS18959192	sample processed and sequenced
-TWLJ2P_L	TWLJ2P	26-06-2019	02:40:00_PM	ERS18959200	sample processed and sequenced
-TWVCXF_L	TWVCXF	15-07-2019	09:45:00_AM	ERS18959208	sample processed and sequenced
-TXGZUY_L	TXGZUY	12-07-2019	03:15:00_PM	ERS18959210	sample processed and sequenced
-TYDUPV_L	TYDUPV	11-07-2019	10:20:00_AM	ERS18959220	sample processed and sequenced
-TYKZSN_L	TYKZSN	16-07-2019	12:40:00_PM	ERS18959224	sample processed and sequenced
-T1KSIA_L	T1KSIA	16-07-2019	09:45:00_AM	ERS18958871	sample processed and sequenced
-T1YMRX_L	T1YMRX	20-07-2019	12:30:00_PM	ERS18958879	sample processed and sequenced
-T5R3X9_L	T5R3X9	27-07-2019	10:40:00_AM	ERS18958901	sample processed and sequenced
-T5ZUGG_L	T5ZUGG	08-07-2019	09:50:00_AM	ERS18958905	sample processed and sequenced
-T6K6TA_L	T6K6TA	05-07-2019	02:00:00_PM	ERS18958907	sample processed and sequenced
-T6WPKD_L	T6WPKD	02-07-2019	04:30:00_PM	ERS18958911	sample processed and sequenced
-T7WIMF_L	T7WIMF	17-07-2019	01:00:00_PM	ERS18958915	sample processed and sequenced
-T8B7KU_L	T8B7KU	26-07-2019	11:20:00_AM	ERS18958921	sample processed and sequenced
-T8IKAG_L	T8IKAG	09-07-2019	04:00:00_PM	ERS18958925	sample processed and sequenced
-T9DY9N_L	T9DY9N	08-07-2019	12:25:00_PM	ERS18958927	sample processed and sequenced
-TAKAXU_L	TAKAXU	19-07-2019	03:40:00_PM	ERS18958933	sample processed and sequenced
-TC8QBB_L	TC8QBB	23-07-2019	01:00:00_PM	ERS18958951	sample processed and sequenced
-TDGVY8_L	TDGVY8	11-07-2019	03:00:00_PM	ERS18958967	sample processed and sequenced
-TFLSK1_L	TFLSK1	04-07-2019	02:05:00_PM	ERS18958995	sample processed and sequenced
-TFQDEE_L	TFQDEE	22-07-2019	02:53:00_PM	ERS18958997	sample processed and sequenced
-TG6JK1_L	TG6JK1	12-07-2019	08:41:00_AM	ERS18959003	sample processed and sequenced
-TI93DT_L	TI93DT	19-07-2019	02:00:00_PM	ERS18959028	sample processed and sequenced
-TIJXRJ_L	TIJXRJ	19-07-2019	09:50:00_AM	ERS18959032	sample processed and sequenced
-TIS5BD_L	TIS5BD	03-07-2019	10:50:00_AM	ERS18959036	sample processed and sequenced
-TJZEUI_L	TJZEUI	23-07-2019	07:30:00_PM	ERS18959052	sample processed and sequenced
-TK5FQJ_L	TK5FQJ	02-07-2019	10:55:00_AM	ERS18959058	sample processed and sequenced
-TKBVDW_L	TKBVDW	20-07-2019	12:10:00_PM	ERS18959060	sample processed and sequenced
-TKLVMZ_L	TKLVMZ	23-07-2019	12:30:00_PM	ERS18959068	sample processed and sequenced
-TKMZ5X_L	TKMZ5X	11-07-2019	05:30:00_PM	ERS18959072	sample processed and sequenced
-TL3KCT_L	TL3KCT	10-07-2019	08:24:00_AM	ERS18959076	sample processed and sequenced
-TM9NNJ_L	TM9NNJ	11-07-2019	11:00:00_AM	ERS18959092	sample processed and sequenced
-TNLTYQ_L	TNLTYQ	11-07-2019	02:50:00_PM	ERS18959110	sample processed and sequenced
-TNPKST_L	TNPKST	16-07-2019	12:20:00_PM	ERS18959112	sample processed and sequenced
-TPUCG4_L	TPUCG4	26-06-2019	01:55:00_PM	ERS18959116	sample processed and sequenced
-TS1LPT_L	TS1LPT	21-07-2019	01:55:00_PM	ERS18959134	sample processed and sequenced
-TS6VW9_L	TS6VW9	20-07-2019	02:10:00_PM	ERS18959138	sample processed and sequenced
-TSFXCZ_L	TSFXCZ	22-07-2019	08:05:00_AM	ERS18959144	sample processed and sequenced
-TSKEKT_L	TSKEKT	09-07-2019	09:50:00_AM	ERS18959148	sample processed and sequenced
-TTE4BQ_L	TTE4BQ	03-07-2019	10:45:00_AM	ERS18959162	sample processed and sequenced
-TU2YW9_L	TU2YW9	16-07-2019	08:50:00_AM	ERS18959168	sample processed and sequenced
-TWFXXZ_L	TWFXXZ	02-07-2019	07:00:00_PM	ERS18959196	sample processed and sequenced
-TWQDCF_L	TWQDCF	01-07-2019	02:10:00_PM	ERS18959202	sample processed and sequenced
-TZRRMG_L	TZRRMG	17-07-2019	02:35:00_PM	ERS18959238	sample processed and sequenced
-TZVTYZ_L	TZVTYZ	02-07-2019	09:00:00_AM	ERS18959240	sample processed and sequenced
-T1QLZR_L	T1QLZR	17-07-2019	12:30:00_PM	ERS18958875	sample processed and sequenced
-TCIHNW_L	TCIHNW	26-07-2019	04:30:00_PM	ERS18958955	sample processed and sequenced
-TCMKFJ_L	TCMKFJ	10-07-2019	01:55:00_PM	ERS18958957	sample processed and sequenced
-TFFDRE_L	TFFDRE	19-07-2019	01:00:00_PM	ERS18958987	sample processed and sequenced
-TGCHAV_L	TGCHAV	19-07-2019	03:30:00_PM	ERS18959007	sample processed and sequenced
-THBEZ5_L	THBEZ5	03-07-2019	04:15:00_PM	ERS18959015	sample processed and sequenced
-TIAIK1_L	TIAIK1	17-07-2019	10:30:00_AM	ERS18959030	sample processed and sequenced
-TIRXWF_L	TIRXWF	16-07-2019	03:00:00_PM	ERS18959034	sample processed and sequenced
-TJBXIG_L	TJBXIG	10-07-2019	02:30:00_PM	ERS18959040	sample processed and sequenced
-TKCEJN_L	TKCEJN	03-07-2019	02:00:00_PM	ERS18959062	sample processed and sequenced
-TLY1VQ_L	TLY1VQ	23-07-2019	04:15:00_PM	ERS18959086	sample processed and sequenced
-TRXMCY_L	TRXMCY	17-07-2019	01:30:00_PM	ERS18959132	sample processed and sequenced
-TT79BQ_L	TT79BQ	23-07-2019	01:15:00_PM	ERS18959156	sample processed and sequenced
-TUBWQK_L	TUBWQK	11-07-2019	08:49:00_AM	ERS18959170	sample processed and sequenced
-TV2QKF_L	TV2QKF	08-07-2019	03:25:00_PM	ERS18959182	sample processed and sequenced
-TV6Z5Y_L	TV6Z5Y	15-07-2019	07:30:00_PM	ERS18959186	sample processed and sequenced
-TWSFGJ_L	TWSFGJ	19-07-2019	08:30:00_AM	ERS18959206	sample processed and sequenced
-TYAASL_L	TYAASL	04-07-2019	10:00:00_AM	ERS18959216	sample processed and sequenced
-TYKB9L_L	TYKB9L	30-06-2019	01:35:00_PM	ERS18959222	sample processed and sequenced
-TYRKAV_L	TYRKAV	27-07-2019	06:00:00_PM	ERS18959226	sample processed and sequenced
-TYUAHW_L	TYUAHW	26-06-2019	02:20:00_PM	ERS18959228	sample processed and sequenced
-TZFRJA_L	TZFRJA	18-07-2019	01:14:00_PM	ERS18959234	sample processed and sequenced
-TZWKHK_L	TZWKHK	19-07-2019	06:00:00_PM	ERS18959242	sample processed and sequenced
-THG7AZ_L	THG7AZ	15-07-2019	12:45:00_PM	ERS18959018	sample processed and sequenced
-TG8NKF_L	TG8NKF	11-07-2019	10:50:00_AM	ERS18959005	sample processed and sequenced
-TLFBSS_L	TLFBSS	01-07-2019	08:50:00_AM	ERS18959080	sample processed and sequenced
-TMYD2K_L	TMYD2K	25-07-2019	01:00:00_PM	ERS18959104	sample processed and sequenced
-TSDGQK_L	TSDGQK	01-07-2019	01:00:00_PM	ERS18959140	sample processed and sequenced
-TSTZUY_L	TSTZUY	26-07-2019	01:15:00_PM	ERS18959152	sample processed and sequenced
-T5CELX_L	T5CELX	03-07-2019	01:05:00_PM	ERS18958895	sample processed and sequenced
-TDGFXV_L	TDGFXV	10-07-2019	03:35:00_PM	ERS18958965	sample processed and sequenced
-TEPZPF_L	TEPZPF	26-07-2019	01:05:00_PM	ERS18958977	sample processed and sequenced
-TMNPJH_L	TMNPJH	01-07-2019	05:00:00_PM	ERS18959098	sample processed and sequenced
-TXHDAT_L	TXHDAT	09-07-2019	11:50:00_AM	ERS18959212	sample processed and sequenced
-T6LS76_L	T6LS76	22-07-2019	05:00:00_PM	ERS18958909	sample processed and sequenced
-TBSQHF_L	TBSQHF	22-07-2019	12:39:00_PM	ERS18958947	sample processed and sequenced
-TPFJTD_L	TPFJTD	26-06-2019	02:00:00_PM	ERS18959114	sample processed and sequenced
-TQNH2B_L	TQNH2B	26-07-2019	04:00:00_PM	ERS18959120	sample processed and sequenced
-TRH2QM_L	TRH2QM	23-07-2019	05:15:00_PM	NA	sample processed but sequencing failed
-TUDGN3_L	TUDGN3	08-07-2019	02:55:00_PM	ERS18959172	sample processed and sequenced
-TZXF7I_L	TZXF7I	25-07-2019	01:50:00_PM	ERS18959244	sample processed and sequenced
-T1N5UR_L	T1N5UR	04-07-2019	10:15:00_AM	NA	sample processed but sequencing failed
-TEVVLD_L	TEVVLD	04-07-2019	10:00:00_AM	ERS18958979	sample processed and sequenced
-TJW6L7_L	TJW6L7	15-07-2019	12:20:00_PM	ERS18959046	sample processed and sequenced
-TMLQED_L	TMLQED	23-07-2019	11:10:00_AM	ERS18959094	sample processed and sequenced
-TMXZCE_L	TMXZCE	18-07-2019	12:30:00_PM	NA	sample processed but sequencing failed
-TNGTPF_L	TNGTPF	16-07-2019	10:20:00_AM	ERS18959108	sample processed and sequenced
-TTA2EM_L	TTA2EM	09-07-2019	04:00:00_PM	ERS18959158	sample processed and sequenced
-TTWBA4_L	TTWBA4	05-07-2019	08:30:00_AM	ERS18959166	sample processed and sequenced
-TUPA8G_L	TUPA8G	03-07-2019	03:00:00_PM	ERS18959176	sample processed and sequenced
-TVCC3Y_L	TVCC3Y	01-07-2019	02:00:00_PM	ERS18959188	sample processed and sequenced
-TZZ9UM_L	TZZ9UM	05-07-2019	09:10:00_AM	ERS18959246	sample processed and sequenced
-TDPRNI_L	TDPRNI	08-07-2019	01:45:00_PM	ERS18958969	sample processed and sequenced
-TMSD51_L	TMSD51	02-07-2019	10:00:00_AM	ERS18959100	sample processed and sequenced
-TR9HSR_L	TR9HSR	26-07-2019	10:00:00_AM	ERS18959124	sample processed and sequenced
-TSSMCA_L	TSSMCA	26-07-2019	03:40:00_PM	ERS18959150	sample processed and sequenced
+sampleID_FIELD	trapID	sample_type	date	time	sample_accession_ENA	sample_status
+T8EUCF_L	T8EUCF	litter	10-07-2019	10:25:00_AM	ERS18958923	sample processed and sequenced
+TZDKD7_L	TZDKD7	litter	05-07-2019	02:40:00_PM	ERS18959232	sample processed and sequenced
+TDUYXP_L	TDUYXP	litter	18-07-2019	02:30:00_PM	ERS18958971	sample processed and sequenced
+TFUBVV_L	TFUBVV	litter	24-07-2019	10:15:00_AM	ERS18958999	sample processed and sequenced
+TWF14R_L	TWF14R	litter	24-07-2019	09:50:00_AM	ERS18959194	sample processed and sequenced
+TE2T4A_L	TE2T4A	litter	24-07-2019	10:40:00_AM	ERS18958973	sample processed and sequenced
+T5KGVY_L	T5KGVY	litter	23-07-2019	04:25:00_PM	ERS18958899	sample processed and sequenced
+TF3STP_L	TF3STP	litter	04-07-2019	03:00:00_PM	ERS18958983	sample processed and sequenced
+TGX4C7_L	TGX4C7	litter	24-07-2019	09:00:00_AM	ERS18959011	sample processed and sequenced
+TSVHD1_L	TSVHD1	litter	23-07-2019	11:35:00_AM	ERS18959154	sample processed and sequenced
+T4EMTM_L	T4EMTM	litter	20-07-2019	02:50:00_PM	ERS18958893	sample processed and sequenced
+TXLZ8M_L	TXLZ8M	litter	21-07-2019	05:00:00_PM	ERS18959214	sample processed and sequenced
+T6YFBI_L	T6YFBI	litter	22-07-2019	03:00:00_PM	ERS18958913	sample processed and sequenced
+TBGIW1_L	TBGIW1	litter	03-07-2019	04:00:00_PM	ERS18958939	sample processed and sequenced
+TBGYQQ_L	TBGYQQ	litter	04-07-2019	10:30:00_AM	ERS18958941	sample processed and sequenced
+TBLZ38_L	TBLZ38	litter	18-07-2019	03:55:00_PM	ERS18958943	sample processed and sequenced
+TC6XPC_L	TC6XPC	litter	17-07-2019	07:40:00_AM	ERS18958949	sample processed and sequenced
+TFECCG_L	TFECCG	litter	23-07-2019	08:08:00_AM	ERS18958985	sample processed and sequenced
+THFUHH_L	THFUHH	litter	10-07-2019	10:30:00_AM	ERS18959016	sample processed and sequenced
+TJZHPY_L	TJZHPY	litter	20-07-2019	04:25:00_PM	ERS18959054	sample processed and sequenced
+TKIAHP_L	TKIAHP	litter	01-07-2019	01:35:00_PM	ERS18959066	sample processed and sequenced
+TKSUA6_L	TKSUA6	litter	18-07-2019	05:00:00_PM	ERS18959074	sample processed and sequenced
+TLFEGH_L	TLFEGH	litter	02-07-2019	02:15:00_PM	ERS18959082	sample processed and sequenced
+TM5LBB_L	TM5LBB	litter	01-07-2019	01:30:00_PM	ERS18959090	sample processed and sequenced
+TTAPUR_L	TTAPUR	litter	13-07-2019	03:30:00_PM	ERS18959160	sample processed and sequenced
+TWRXFI_L	TWRXFI	litter	29-07-2019	09:20:00_AM	ERS18959204	sample processed and sequenced
+TZQFGP_L	TZQFGP	litter	10-07-2019	06:30:00_PM	ERS18959236	sample processed and sequenced
+THGYUE_L	THGYUE	litter	30-06-2019	11:00:00_AM	ERS18959024	sample processed and sequenced
+TRICKN_L	TRICKN	litter	15-07-2019	09:55:00_AM	ERS18959130	sample processed and sequenced
+T1TL12_L	T1TL12	litter	02-07-2019	01:20:00_PM	ERS18958877	sample processed and sequenced
+T2KQJZ_L	T2KQJZ	litter	23-07-2019	02:45:00_PM	ERS18958881	sample processed and sequenced
+T5FPCF_L	T5FPCF	litter	16-07-2019	02:05:00_PM	ERS18958897	sample processed and sequenced
+T7ZDZJ_L	T7ZDZJ	litter	11-07-2019	02:45:00_PM	ERS18958917	sample processed and sequenced
+TAI56Z_L	TAI56Z	litter	03-07-2019	11:30:00_AM	ERS18958931	sample processed and sequenced
+TFGCME_L	TFGCME	litter	24-07-2019	11:30:00_AM	ERS18958989	sample processed and sequenced
+TFIA7R_L	TFIA7R	litter	27-07-2019	10:20:00_AM	ERS18958993	sample processed and sequenced
+TKGCFR_L	TKGCFR	litter	02-07-2019	03:30:00_PM	ERS18959064	sample processed and sequenced
+TMMIG9_L	TMMIG9	litter	21-07-2019	08:27:00_AM	ERS18959096	sample processed and sequenced
+TS2P4Q_L	TS2P4Q	litter	16-07-2019	02:30:00_PM	ERS18959136	sample processed and sequenced
+TSEQHD_L	TSEQHD	litter	04-07-2019	12:30:00_PM	ERS18959142	sample processed and sequenced
+TUQQIV_L	TUQQIV	litter	15-07-2019	06:20:00_PM	ERS18959180	sample processed and sequenced
+TWJED2_L	TWJED2	litter	19-07-2019	10:20:00_AM	ERS18959198	sample processed and sequenced
+T2YSPU_L	T2YSPU	litter	04-07-2019	02:20:00_PM	ERS18958889	sample processed and sequenced
+T9UPWP_L	T9UPWP	litter	17-07-2019	10:00:00_AM	ERS18958929	sample processed and sequenced
+TAPGMG_L	TAPGMG	litter	12-07-2019	08:45:00_AM	ERS18958935	sample processed and sequenced
+TARUGI_L	TARUGI	litter	16-07-2019	02:20:00_PM	ERS18958937	sample processed and sequenced
+TBPT1B_L	TBPT1B	litter	20-07-2019	11:00:00_AM	ERS18958945	sample processed and sequenced
+TEHHBJ_L	TEHHBJ	litter	08-07-2019	NA	ERS18958975	sample processed and sequenced
+THGNFM_L	THGNFM	litter	22-07-2019	01:50:00_PM	ERS18959020	sample processed and sequenced
+TJNMNV_L	TJNMNV	litter	17-07-2019	10:30:00_AM	ERS18959042	sample processed and sequenced
+TLCIG9_L	TLCIG9	litter	02-07-2019	05:45:00_PM	ERS18959078	sample processed and sequenced
+TUQ4KK_L	TUQ4KK	litter	24-07-2019	04:35:00_PM	ERS18959178	sample processed and sequenced
+TVNBV7_L	TVNBV7	litter	03-07-2019	10:00:00_AM	ERS18959190	sample processed and sequenced
+TYBVXB_L	TYBVXB	litter	26-06-2019	02:20:00_PM	ERS18959218	sample processed and sequenced
+TZ6Q7T_L	TZ6Q7T	litter	21-07-2019	12:10:00_PM	ERS18959230	sample processed and sequenced
+T2NGGK_L	T2NGGK	litter	17-07-2019	09:15:00_AM	ERS18958883	sample processed and sequenced
+T2T1DJ_L	T2T1DJ	litter	02-07-2019	12:30:00_PM	ERS18958885	sample processed and sequenced
+T2YFPK_L	T2YFPK	litter	09-07-2019	09:07:00_AM	ERS18958887	sample processed and sequenced
+T3NLMJ_L	T3NLMJ	litter	09-07-2019	01:20:00_PM	ERS18958891	sample processed and sequenced
+T5XNHX_L	T5XNHX	litter	01-07-2019	05:40:00_PM	ERS18958903	sample processed and sequenced
+T83QWB_L	T83QWB	litter	11-07-2019	12:20:00_PM	ERS18958919	sample processed and sequenced
+TCD3P4_L	TCD3P4	litter	09-07-2019	04:20:00_PM	ERS18958953	sample processed and sequenced
+TCSZX1_L	TCSZX1	litter	02-07-2019	10:15:00_AM	ERS18958959	sample processed and sequenced
+TD5LHA_L	TD5LHA	litter	02-07-2019	04:30:00_PM	ERS18958961	sample processed and sequenced
+TDCIPI_L	TDCIPI	litter	16-07-2019	11:50:00_AM	ERS18958963	sample processed and sequenced
+TEYZYN_L	TEYZYN	litter	08-07-2019	02:30:00_PM	ERS18958981	sample processed and sequenced
+TFHNHU_L	TFHNHU	litter	15-07-2019	02:45:00_PM	ERS18958991	sample processed and sequenced
+TG4NHB_L	TG4NHB	litter	03-07-2019	11:30:00_AM	NA	sample processed but sequencing failed
+TGTDBY_L	TGTDBY	litter	12-07-2019	02:20:00_PM	ERS18959009	sample processed and sequenced
+TGXFSR_L	TGXFSR	litter	18-07-2019	09:30:00_AM	ERS18959013	sample processed and sequenced
+THGUAX_L	THGUAX	litter	23-07-2019	01:55:00_PM	ERS18959022	sample processed and sequenced
+THKAWB_L	THKAWB	litter	21-07-2019	11:25:00_AM	ERS18959026	sample processed and sequenced
+TIUVZ1_L	TIUVZ1	litter	10-07-2019	04:50:00_PM	ERS18959038	sample processed and sequenced
+TJS8IY_L	TJS8IY	litter	01-07-2019	10:30:00_AM	ERS18959044	sample processed and sequenced
+TJXPPV_L	TJXPPV	litter	02-07-2019	07:10:00_PM	ERS18959048	sample processed and sequenced
+TJXUUR_L	TJXUUR	litter	16-07-2019	12:50:00_PM	ERS18959050	sample processed and sequenced
+TK3EAJ_L	TK3EAJ	litter	30-06-2019	05:15:00_PM	ERS18959056	sample processed and sequenced
+TKMUNP_L	TKMUNP	litter	25-07-2019	03:50:00_PM	ERS18959070	sample processed and sequenced
+TLG2QC_L	TLG2QC	litter	10-07-2019	01:05:00_PM	ERS18959084	sample processed and sequenced
+TM4GA9_L	TM4GA9	litter	23-07-2019	09:15:00_AM	ERS18959088	sample processed and sequenced
+TND7ZQ_L	TND7ZQ	litter	05-07-2019	10:30:00_AM	ERS18959106	sample processed and sequenced
+TPXB6L_L	TPXB6L	litter	12-07-2019	09:40:00_AM	ERS18959118	sample processed and sequenced
+TR24WG_L	TR24WG	litter	18-07-2019	09:30:00_AM	ERS18959122	sample processed and sequenced
+TRB71K_L	TRB71K	litter	15-07-2019	10:20:00_AM	ERS18959126	sample processed and sequenced
+TSFYKU_L	TSFYKU	litter	05-07-2019	03:45:00_PM	ERS18959146	sample processed and sequenced
+TTNYZZ_L	TTNYZZ	litter	11-07-2019	01:37:00_PM	ERS18959164	sample processed and sequenced
+TUHLET_L	TUHLET	litter	16-07-2019	10:15:00_AM	ERS18959174	sample processed and sequenced
+TV5KPB_L	TV5KPB	litter	08-07-2019	08:30:00_AM	ERS18959184	sample processed and sequenced
+TWCPQR_L	TWCPQR	litter	26-06-2019	12:20:00_PM	ERS18959192	sample processed and sequenced
+TWLJ2P_L	TWLJ2P	litter	26-06-2019	02:40:00_PM	ERS18959200	sample processed and sequenced
+TWVCXF_L	TWVCXF	litter	15-07-2019	09:45:00_AM	ERS18959208	sample processed and sequenced
+TXGZUY_L	TXGZUY	litter	12-07-2019	03:15:00_PM	ERS18959210	sample processed and sequenced
+TYDUPV_L	TYDUPV	litter	11-07-2019	10:20:00_AM	ERS18959220	sample processed and sequenced
+TYKZSN_L	TYKZSN	litter	16-07-2019	12:40:00_PM	ERS18959224	sample processed and sequenced
+T1KSIA_L	T1KSIA	litter	16-07-2019	09:45:00_AM	ERS18958871	sample processed and sequenced
+T1YMRX_L	T1YMRX	litter	20-07-2019	12:30:00_PM	ERS18958879	sample processed and sequenced
+T5R3X9_L	T5R3X9	litter	27-07-2019	10:40:00_AM	ERS18958901	sample processed and sequenced
+T5ZUGG_L	T5ZUGG	litter	08-07-2019	09:50:00_AM	ERS18958905	sample processed and sequenced
+T6K6TA_L	T6K6TA	litter	05-07-2019	02:00:00_PM	ERS18958907	sample processed and sequenced
+T6WPKD_L	T6WPKD	litter	02-07-2019	04:30:00_PM	ERS18958911	sample processed and sequenced
+T7WIMF_L	T7WIMF	litter	17-07-2019	01:00:00_PM	ERS18958915	sample processed and sequenced
+T8B7KU_L	T8B7KU	litter	26-07-2019	11:20:00_AM	ERS18958921	sample processed and sequenced
+T8IKAG_L	T8IKAG	litter	09-07-2019	04:00:00_PM	ERS18958925	sample processed and sequenced
+T9DY9N_L	T9DY9N	litter	08-07-2019	12:25:00_PM	ERS18958927	sample processed and sequenced
+TAKAXU_L	TAKAXU	litter	19-07-2019	03:40:00_PM	ERS18958933	sample processed and sequenced
+TC8QBB_L	TC8QBB	litter	23-07-2019	01:00:00_PM	ERS18958951	sample processed and sequenced
+TDGVY8_L	TDGVY8	litter	11-07-2019	03:00:00_PM	ERS18958967	sample processed and sequenced
+TFLSK1_L	TFLSK1	litter	04-07-2019	02:05:00_PM	ERS18958995	sample processed and sequenced
+TFQDEE_L	TFQDEE	litter	22-07-2019	02:53:00_PM	ERS18958997	sample processed and sequenced
+TG6JK1_L	TG6JK1	litter	12-07-2019	08:41:00_AM	ERS18959003	sample processed and sequenced
+TI93DT_L	TI93DT	litter	19-07-2019	02:00:00_PM	ERS18959028	sample processed and sequenced
+TIJXRJ_L	TIJXRJ	litter	19-07-2019	09:50:00_AM	ERS18959032	sample processed and sequenced
+TIS5BD_L	TIS5BD	litter	03-07-2019	10:50:00_AM	ERS18959036	sample processed and sequenced
+TJZEUI_L	TJZEUI	litter	23-07-2019	07:30:00_PM	ERS18959052	sample processed and sequenced
+TK5FQJ_L	TK5FQJ	litter	02-07-2019	10:55:00_AM	ERS18959058	sample processed and sequenced
+TKBVDW_L	TKBVDW	litter	20-07-2019	12:10:00_PM	ERS18959060	sample processed and sequenced
+TKLVMZ_L	TKLVMZ	litter	23-07-2019	12:30:00_PM	ERS18959068	sample processed and sequenced
+TKMZ5X_L	TKMZ5X	litter	11-07-2019	05:30:00_PM	ERS18959072	sample processed and sequenced
+TL3KCT_L	TL3KCT	litter	10-07-2019	08:24:00_AM	ERS18959076	sample processed and sequenced
+TM9NNJ_L	TM9NNJ	litter	11-07-2019	11:00:00_AM	ERS18959092	sample processed and sequenced
+TNLTYQ_L	TNLTYQ	litter	11-07-2019	02:50:00_PM	ERS18959110	sample processed and sequenced
+TNPKST_L	TNPKST	litter	16-07-2019	12:20:00_PM	ERS18959112	sample processed and sequenced
+TPUCG4_L	TPUCG4	litter	26-06-2019	01:55:00_PM	ERS18959116	sample processed and sequenced
+TS1LPT_L	TS1LPT	litter	21-07-2019	01:55:00_PM	ERS18959134	sample processed and sequenced
+TS6VW9_L	TS6VW9	litter	20-07-2019	02:10:00_PM	ERS18959138	sample processed and sequenced
+TSFXCZ_L	TSFXCZ	litter	22-07-2019	08:05:00_AM	ERS18959144	sample processed and sequenced
+TSKEKT_L	TSKEKT	litter	09-07-2019	09:50:00_AM	ERS18959148	sample processed and sequenced
+TTE4BQ_L	TTE4BQ	litter	03-07-2019	10:45:00_AM	ERS18959162	sample processed and sequenced
+TU2YW9_L	TU2YW9	litter	16-07-2019	08:50:00_AM	ERS18959168	sample processed and sequenced
+TWFXXZ_L	TWFXXZ	litter	02-07-2019	07:00:00_PM	ERS18959196	sample processed and sequenced
+TWQDCF_L	TWQDCF	litter	01-07-2019	02:10:00_PM	ERS18959202	sample processed and sequenced
+TZRRMG_L	TZRRMG	litter	17-07-2019	02:35:00_PM	ERS18959238	sample processed and sequenced
+TZVTYZ_L	TZVTYZ	litter	02-07-2019	09:00:00_AM	ERS18959240	sample processed and sequenced
+T1QLZR_L	T1QLZR	litter	17-07-2019	12:30:00_PM	ERS18958875	sample processed and sequenced
+TCIHNW_L	TCIHNW	litter	26-07-2019	04:30:00_PM	ERS18958955	sample processed and sequenced
+TCMKFJ_L	TCMKFJ	litter	10-07-2019	01:55:00_PM	ERS18958957	sample processed and sequenced
+TFFDRE_L	TFFDRE	litter	19-07-2019	01:00:00_PM	ERS18958987	sample processed and sequenced
+TGCHAV_L	TGCHAV	litter	19-07-2019	03:30:00_PM	ERS18959007	sample processed and sequenced
+THBEZ5_L	THBEZ5	litter	03-07-2019	04:15:00_PM	ERS18959015	sample processed and sequenced
+TIAIK1_L	TIAIK1	litter	17-07-2019	10:30:00_AM	ERS18959030	sample processed and sequenced
+TIRXWF_L	TIRXWF	litter	16-07-2019	03:00:00_PM	ERS18959034	sample processed and sequenced
+TJBXIG_L	TJBXIG	litter	10-07-2019	02:30:00_PM	ERS18959040	sample processed and sequenced
+TKCEJN_L	TKCEJN	litter	03-07-2019	02:00:00_PM	ERS18959062	sample processed and sequenced
+TLY1VQ_L	TLY1VQ	litter	23-07-2019	04:15:00_PM	ERS18959086	sample processed and sequenced
+TRXMCY_L	TRXMCY	litter	17-07-2019	01:30:00_PM	ERS18959132	sample processed and sequenced
+TT79BQ_L	TT79BQ	litter	23-07-2019	01:15:00_PM	ERS18959156	sample processed and sequenced
+TUBWQK_L	TUBWQK	litter	11-07-2019	08:49:00_AM	ERS18959170	sample processed and sequenced
+TV2QKF_L	TV2QKF	litter	08-07-2019	03:25:00_PM	ERS18959182	sample processed and sequenced
+TV6Z5Y_L	TV6Z5Y	litter	15-07-2019	07:30:00_PM	ERS18959186	sample processed and sequenced
+TWSFGJ_L	TWSFGJ	litter	19-07-2019	08:30:00_AM	ERS18959206	sample processed and sequenced
+TYAASL_L	TYAASL	litter	04-07-2019	10:00:00_AM	ERS18959216	sample processed and sequenced
+TYKB9L_L	TYKB9L	litter	30-06-2019	01:35:00_PM	ERS18959222	sample processed and sequenced
+TYRKAV_L	TYRKAV	litter	27-07-2019	06:00:00_PM	ERS18959226	sample processed and sequenced
+TYUAHW_L	TYUAHW	litter	26-06-2019	02:20:00_PM	ERS18959228	sample processed and sequenced
+TZFRJA_L	TZFRJA	litter	18-07-2019	01:14:00_PM	ERS18959234	sample processed and sequenced
+TZWKHK_L	TZWKHK	litter	19-07-2019	06:00:00_PM	ERS18959242	sample processed and sequenced
+THG7AZ_L	THG7AZ	litter	15-07-2019	12:45:00_PM	ERS18959018	sample processed and sequenced
+TG8NKF_L	TG8NKF	litter	11-07-2019	10:50:00_AM	ERS18959005	sample processed and sequenced
+TLFBSS_L	TLFBSS	litter	01-07-2019	08:50:00_AM	ERS18959080	sample processed and sequenced
+TMYD2K_L	TMYD2K	litter	25-07-2019	01:00:00_PM	ERS18959104	sample processed and sequenced
+TSDGQK_L	TSDGQK	litter	01-07-2019	01:00:00_PM	ERS18959140	sample processed and sequenced
+TSTZUY_L	TSTZUY	litter	26-07-2019	01:15:00_PM	ERS18959152	sample processed and sequenced
+T5CELX_L	T5CELX	litter	03-07-2019	01:05:00_PM	ERS18958895	sample processed and sequenced
+TDGFXV_L	TDGFXV	litter	10-07-2019	03:35:00_PM	ERS18958965	sample processed and sequenced
+TEPZPF_L	TEPZPF	litter	26-07-2019	01:05:00_PM	ERS18958977	sample processed and sequenced
+TMNPJH_L	TMNPJH	litter	01-07-2019	05:00:00_PM	ERS18959098	sample processed and sequenced
+TXHDAT_L	TXHDAT	litter	09-07-2019	11:50:00_AM	ERS18959212	sample processed and sequenced
+T6LS76_L	T6LS76	litter	22-07-2019	05:00:00_PM	ERS18958909	sample processed and sequenced
+TBSQHF_L	TBSQHF	litter	22-07-2019	12:39:00_PM	ERS18958947	sample processed and sequenced
+TPFJTD_L	TPFJTD	litter	26-06-2019	02:00:00_PM	ERS18959114	sample processed and sequenced
+TQNH2B_L	TQNH2B	litter	26-07-2019	04:00:00_PM	ERS18959120	sample processed and sequenced
+TRH2QM_L	TRH2QM	litter	23-07-2019	05:15:00_PM	NA	sample processed but sequencing failed
+TUDGN3_L	TUDGN3	litter	08-07-2019	02:55:00_PM	ERS18959172	sample processed and sequenced
+TZXF7I_L	TZXF7I	litter	25-07-2019	01:50:00_PM	ERS18959244	sample processed and sequenced
+T1N5UR_L	T1N5UR	litter	04-07-2019	10:15:00_AM	NA	sample processed but sequencing failed
+TEVVLD_L	TEVVLD	litter	04-07-2019	10:00:00_AM	ERS18958979	sample processed and sequenced
+TJW6L7_L	TJW6L7	litter	15-07-2019	12:20:00_PM	ERS18959046	sample processed and sequenced
+TMLQED_L	TMLQED	litter	23-07-2019	11:10:00_AM	ERS18959094	sample processed and sequenced
+TMXZCE_L	TMXZCE	litter	18-07-2019	12:30:00_PM	NA	sample processed but sequencing failed
+TNGTPF_L	TNGTPF	litter	16-07-2019	10:20:00_AM	ERS18959108	sample processed and sequenced
+TTA2EM_L	TTA2EM	litter	09-07-2019	04:00:00_PM	ERS18959158	sample processed and sequenced
+TTWBA4_L	TTWBA4	litter	05-07-2019	08:30:00_AM	ERS18959166	sample processed and sequenced
+TUPA8G_L	TUPA8G	litter	03-07-2019	03:00:00_PM	ERS18959176	sample processed and sequenced
+TVCC3Y_L	TVCC3Y	litter	01-07-2019	02:00:00_PM	ERS18959188	sample processed and sequenced
+TZZ9UM_L	TZZ9UM	litter	05-07-2019	09:10:00_AM	ERS18959246	sample processed and sequenced
+TDPRNI_L	TDPRNI	litter	08-07-2019	01:45:00_PM	ERS18958969	sample processed and sequenced
+TMSD51_L	TMSD51	litter	02-07-2019	10:00:00_AM	ERS18959100	sample processed and sequenced
+TR9HSR_L	TR9HSR	litter	26-07-2019	10:00:00_AM	ERS18959124	sample processed and sequenced
+TSSMCA_L	TSSMCA	litter	26-07-2019	03:40:00_PM	ERS18959150	sample processed and sequenced
+TFGCME_S	TFGCME	soil	24-07-2019	11:30:00_AM	ERS18958990	sample processed and sequenced
+TG6JK1_S	TG6JK1	soil	12-07-2019	08:41:00_AM	ERS18959004	sample processed and sequenced
+T5FPCF_S	T5FPCF	soil	16-07-2019	02:05:00_PM	ERS18958898	sample processed and sequenced
+TEYZYN_S	TEYZYN	soil	08-07-2019	02:30:00_PM	ERS18958982	sample processed and sequenced
+TIUVZ1_S	TIUVZ1	soil	10-07-2019	04:50:00_PM	ERS18959039	sample processed and sequenced
+TKMUNP_S	TKMUNP	soil	25-07-2019	03:50:00_PM	ERS18959071	sample processed and sequenced
+TQNH2B_S	TQNH2B	soil	26-07-2019	04:00:00_PM	ERS18959121	sample processed and sequenced
+TR24WG_S	TR24WG	soil	18-07-2019	09:30:00_AM	ERS18959123	sample processed and sequenced
+TSSMCA_S	TSSMCA	soil	26-07-2019	03:40:00_PM	ERS18959151	sample processed and sequenced
+TUDGN3_S	TUDGN3	soil	08-07-2019	02:55:00_PM	ERS18959173	sample processed and sequenced
+TWF14R_S	TWF14R	soil	24-07-2019	09:50:00_AM	ERS18959195	sample processed and sequenced
+T6YFBI_S	T6YFBI	soil	22-07-2019	03:00:00_PM	ERS18958914	sample processed and sequenced
+TAKAXU_S	TAKAXU	soil	19-07-2019	03:40:00_PM	ERS18958934	sample processed and sequenced
+TCSZX1_S	TCSZX1	soil	02-07-2019	10:15:00_AM	ERS18958960	sample processed and sequenced
+TDCIPI_S	TDCIPI	soil	16-07-2019	11:50:00_AM	ERS18958964	sample processed and sequenced
+TFECCG_S	TFECCG	soil	23-07-2019	08:08:00_AM	ERS18958986	sample processed and sequenced
+TK3EAJ_S	TK3EAJ	soil	30-06-2019	05:15:00_PM	ERS18959057	sample processed and sequenced
+TKBVDW_S	TKBVDW	soil	20-07-2019	12:10:00_PM	ERS18959061	sample processed and sequenced
+TLY1VQ_S	TLY1VQ	soil	23-07-2019	04:15:00_PM	ERS18959087	sample processed and sequenced
+TM5LBB_S	TM5LBB	soil	01-07-2019	01:30:00_PM	ERS18959091	sample processed and sequenced
+TTA2EM_S	TTA2EM	soil	09-07-2019	04:00:00_PM	ERS18959159	sample processed and sequenced
+TUQQIV_S	TUQQIV	soil	15-07-2019	06:20:00_PM	ERS18959181	sample processed and sequenced
+TXHDAT_S	TXHDAT	soil	09-07-2019	11:50:00_AM	ERS18959213	sample processed and sequenced
+TZFRJA_S	TZFRJA	soil	18-07-2019	01:14:00_PM	ERS18959235	sample processed and sequenced
+TZRRMG_S	TZRRMG	soil	17-07-2019	02:35:00_PM	ERS18959239	sample processed and sequenced
+TZXF7I_S	TZXF7I	soil	25-07-2019	01:50:00_PM	ERS18959245	sample processed and sequenced
+TARUGI_S	TARUGI	soil	16-07-2019	02:20:00_PM	ERS18958938	sample processed and sequenced
+TBGIW1_S	TBGIW1	soil	03-07-2019	04:00:00_PM	ERS18958940	sample processed and sequenced
+TC8QBB_S	TC8QBB	soil	23-07-2019	01:00:00_PM	ERS18958952	sample processed and sequenced
+TDGVY8_S	TDGVY8	soil	11-07-2019	03:00:00_PM	ERS18958968	sample processed and sequenced
+TJNMNV_S	TJNMNV	soil	17-07-2019	10:30:00_AM	ERS18959043	sample processed and sequenced
+TMNPJH_S	TMNPJH	soil	01-07-2019	05:00:00_PM	ERS18959099	sample processed and sequenced
+TMYD2K_S	TMYD2K	soil	25-07-2019	01:00:00_PM	ERS18959105	sample processed and sequenced
+TS6VW9_S	TS6VW9	soil	20-07-2019	02:10:00_PM	ERS18959139	sample processed and sequenced
+TSTZUY_S	TSTZUY	soil	26-07-2019	01:15:00_PM	ERS18959153	sample processed and sequenced
+T1TL12_S	T1TL12	soil	02-07-2019	01:20:00_PM	ERS18958878	sample processed and sequenced
+T2YFPK_S	T2YFPK	soil	09-07-2019	09:07:00_AM	ERS18958888	sample processed and sequenced
+T2YSPU_S	T2YSPU	soil	04-07-2019	02:20:00_PM	ERS18958890	sample processed and sequenced
+T3NLMJ_S	T3NLMJ	soil	09-07-2019	01:20:00_PM	ERS18958892	sample processed and sequenced
+T5KGVY_S	T5KGVY	soil	23-07-2019	04:25:00_PM	ERS18958900	sample processed and sequenced
+T6LS76_S	T6LS76	soil	22-07-2019	05:00:00_PM	ERS18958910	sample processed and sequenced
+T83QWB_S	T83QWB	soil	11-07-2019	12:20:00_PM	NA	sample processed but sequencing failed
+T8B7KU_S	T8B7KU	soil	26-07-2019	11:20:00_AM	ERS18958922	sample processed and sequenced
+T8EUCF_S	T8EUCF	soil	10-07-2019	10:25:00_AM	ERS18958924	sample processed and sequenced
+T9DY9N_S	T9DY9N	soil	08-07-2019	12:25:00_PM	ERS18958928	sample processed and sequenced
+T9UPWP_S	T9UPWP	soil	17-07-2019	10:00:00_AM	ERS18958930	sample processed and sequenced
+TAPGMG_S	TAPGMG	soil	12-07-2019	08:45:00_AM	ERS18958936	sample processed and sequenced
+TBPT1B_S	TBPT1B	soil	20-07-2019	11:00:00_AM	ERS18958946	sample processed and sequenced
+TGCHAV_S	TGCHAV	soil	19-07-2019	03:30:00_PM	ERS18959008	sample processed and sequenced
+TIAIK1_S	TIAIK1	soil	17-07-2019	10:30:00_AM	NA	sample processed but sequencing failed
+TLFBSS_S	TLFBSS	soil	01-07-2019	08:50:00_AM	ERS18959081	sample processed and sequenced
+TMXZCE_S	TMXZCE	soil	18-07-2019	12:30:00_PM	ERS18959103	sample processed and sequenced
+TPXB6L_S	TPXB6L	soil	12-07-2019	09:40:00_AM	ERS18959119	sample processed and sequenced
+TS2P4Q_S	TS2P4Q	soil	16-07-2019	02:30:00_PM	ERS18959137	sample processed and sequenced
+TSVHD1_S	TSVHD1	soil	23-07-2019	11:35:00_AM	ERS18959155	sample processed and sequenced
+TTE4BQ_S	TTE4BQ	soil	03-07-2019	10:45:00_AM	ERS18959163	sample processed and sequenced
+TTNYZZ_S	TTNYZZ	soil	11-07-2019	01:37:00_PM	ERS18959165	sample processed and sequenced
+TUBWQK_S	TUBWQK	soil	11-07-2019	08:49:00_AM	ERS18959171	sample processed and sequenced
+TV6Z5Y_S	TV6Z5Y	soil	15-07-2019	07:30:00_PM	ERS18959187	sample processed and sequenced
+TWJED2_S	TWJED2	soil	19-07-2019	10:20:00_AM	ERS18959199	sample processed and sequenced
+TWVCXF_S	TWVCXF	soil	15-07-2019	09:45:00_AM	ERS18959209	sample processed and sequenced
+TXLZ8M_S	TXLZ8M	soil	21-07-2019	05:00:00_PM	ERS18959215	sample processed and sequenced
+TYDUPV_S	TYDUPV	soil	11-07-2019	10:20:00_AM	ERS18959221	sample processed and sequenced
+TYKZSN_S	TYKZSN	soil	16-07-2019	12:40:00_PM	ERS18959225	sample processed and sequenced
+TZVTYZ_S	TZVTYZ	soil	02-07-2019	09:00:00_AM	ERS18959241	sample processed and sequenced
+TZZ9UM_S	TZZ9UM	soil	05-07-2019	09:10:00_AM	ERS18959247	sample processed and sequenced
+T2KQJZ_S	T2KQJZ	soil	23-07-2019	02:45:00_PM	ERS18958882	sample processed and sequenced
+T4EMTM_S	T4EMTM	soil	20-07-2019	02:50:00_PM	NA	sample processed but sequencing failed
+T5ZUGG_S	T5ZUGG	soil	08-07-2019	09:50:00_AM	ERS18958906	sample processed and sequenced
+TAI56Z_S	TAI56Z	soil	03-07-2019	11:30:00_AM	ERS18958932	sample processed and sequenced
+TEVVLD_S	TEVVLD	soil	04-07-2019	10:00:00_AM	ERS18958980	sample processed and sequenced
+TF3STP_S	TF3STP	soil	04-07-2019	03:00:00_PM	ERS18958984	sample processed and sequenced
+TFFDRE_S	TFFDRE	soil	19-07-2019	01:00:00_PM	NA	sample processed but sequencing failed
+TGTDBY_S	TGTDBY	soil	12-07-2019	02:20:00_PM	ERS18959010	sample processed and sequenced
+THGUAX_S	THGUAX	soil	23-07-2019	01:55:00_PM	ERS18959023	sample processed and sequenced
+TJS8IY_S	TJS8IY	soil	01-07-2019	10:30:00_AM	ERS18959045	sample processed and sequenced
+TKLVMZ_S	TKLVMZ	soil	23-07-2019	12:30:00_PM	NA	sample processed but sequencing failed
+TKSUA6_S	TKSUA6	soil	18-07-2019	05:00:00_PM	ERS18959075	sample processed and sequenced
+TRXMCY_S	TRXMCY	soil	17-07-2019	01:30:00_PM	ERS18959133	sample processed and sequenced
+TSDGQK_S	TSDGQK	soil	01-07-2019	01:00:00_PM	ERS18959141	sample processed and sequenced
+TSFYKU_S	TSFYKU	soil	05-07-2019	03:45:00_PM	ERS18959147	sample processed and sequenced
+TV5KPB_S	TV5KPB	soil	08-07-2019	08:30:00_AM	ERS18959185	sample processed and sequenced
+TWCPQR_S	TWCPQR	soil	26-06-2019	12:20:00_PM	ERS18959193	sample processed and sequenced
+TWFXXZ_S	TWFXXZ	soil	02-07-2019	07:00:00_PM	NA	sample processed but sequencing failed
+TWQDCF_S	TWQDCF	soil	01-07-2019	02:10:00_PM	ERS18959203	sample processed and sequenced
+TWRXFI_S	TWRXFI	soil	29-07-2019	09:20:00_AM	ERS18959205	sample processed and sequenced
+TYBVXB_S	TYBVXB	soil	26-06-2019	02:20:00_PM	ERS18959219	sample processed and sequenced
+TYUAHW_S	TYUAHW	soil	26-06-2019	02:20:00_PM	ERS18959229	sample processed and sequenced
+TZWKHK_S	TZWKHK	soil	19-07-2019	06:00:00_PM	ERS18959243	sample processed and sequenced
+TRH2QM_S	TRH2QM	soil	23-07-2019	05:15:00_PM	NA	sample processed but sequencing failed
+TSEQHD_S	TSEQHD	soil	04-07-2019	12:30:00_PM	NA	sample processed but sequencing failed
+T1KSIA_S	T1KSIA	soil	16-07-2019	09:45:00_AM	ERS18958872	sample processed and sequenced
+T1QLZR_S	T1QLZR	soil	17-07-2019	12:30:00_PM	ERS18958876	sample processed and sequenced
+T6WPKD_S	T6WPKD	soil	02-07-2019	04:30:00_PM	ERS18958912	sample processed and sequenced
+TDUYXP_S	TDUYXP	soil	18-07-2019	02:30:00_PM	ERS18958972	sample processed and sequenced
+TFIA7R_S	TFIA7R	soil	27-07-2019	10:20:00_AM	NA	sample processed but sequencing failed
+TFLSK1_S	TFLSK1	soil	04-07-2019	02:05:00_PM	ERS18958996	sample processed and sequenced
+TFQDEE_S	TFQDEE	soil	22-07-2019	02:53:00_PM	ERS18958998	sample processed and sequenced
+TGX4C7_S	TGX4C7	soil	24-07-2019	09:00:00_AM	ERS18959012	sample processed and sequenced
+THFUHH_S	THFUHH	soil	10-07-2019	10:30:00_AM	ERS18959017	sample processed and sequenced
+THGYUE_S	THGYUE	soil	30-06-2019	11:00:00_AM	ERS18959025	sample processed and sequenced
+TIJXRJ_S	TIJXRJ	soil	19-07-2019	09:50:00_AM	ERS18959033	sample processed and sequenced
+TIS5BD_S	TIS5BD	soil	03-07-2019	10:50:00_AM	ERS18959037	sample processed and sequenced
+TJZEUI_S	TJZEUI	soil	23-07-2019	07:30:00_PM	ERS18959053	sample processed and sequenced
+TJZHPY_S	TJZHPY	soil	20-07-2019	04:25:00_PM	ERS18959055	sample processed and sequenced
+TKGCFR_S	TKGCFR	soil	02-07-2019	03:30:00_PM	NA	sample processed but sequencing failed
+TKMZ5X_S	TKMZ5X	soil	11-07-2019	05:30:00_PM	NA	sample processed but sequencing failed
+TL3KCT_S	TL3KCT	soil	10-07-2019	08:24:00_AM	NA	sample processed but sequencing failed
+TLCIG9_S	TLCIG9	soil	02-07-2019	05:45:00_PM	NA	sample processed but sequencing failed
+TLFEGH_S	TLFEGH	soil	02-07-2019	02:15:00_PM	ERS18959083	sample processed and sequenced
+TMMIG9_S	TMMIG9	soil	21-07-2019	08:27:00_AM	ERS18959097	sample processed and sequenced
+TMSD51_S	TMSD51	soil	02-07-2019	10:00:00_AM	ERS18959101	sample processed and sequenced
+TND7ZQ_S	TND7ZQ	soil	05-07-2019	10:30:00_AM	ERS18959107	sample processed and sequenced
+TNGTPF_S	TNGTPF	soil	16-07-2019	10:20:00_AM	ERS18959109	sample processed and sequenced
+TNLTYQ_S	TNLTYQ	soil	11-07-2019	02:50:00_PM	ERS18959111	sample processed and sequenced
+TPFJTD_S	TPFJTD	soil	26-06-2019	02:00:00_PM	ERS18959115	sample processed and sequenced
+TSKEKT_S	TSKEKT	soil	09-07-2019	09:50:00_AM	ERS18959149	sample processed and sequenced
+TTAPUR_S	TTAPUR	soil	13-07-2019	03:30:00_PM	ERS18959161	sample processed and sequenced
+TUHLET_S	TUHLET	soil	16-07-2019	10:15:00_AM	ERS18959175	sample processed and sequenced
+TV2QKF_S	TV2QKF	soil	08-07-2019	03:25:00_PM	ERS18959183	sample processed and sequenced
+TVNBV7_S	TVNBV7	soil	03-07-2019	10:00:00_AM	ERS18959191	sample processed and sequenced
+TZQFGP_S	TZQFGP	soil	10-07-2019	06:30:00_PM	ERS18959237	sample processed and sequenced
+T1N5UR_S	T1N5UR	soil	04-07-2019	10:15:00_AM	ERS18958874	sample processed and sequenced
+T2T1DJ_S	T2T1DJ	soil	02-07-2019	12:30:00_PM	ERS18958886	sample processed and sequenced
+T5R3X9_S	T5R3X9	soil	27-07-2019	10:40:00_AM	ERS18958902	sample processed and sequenced
+T7WIMF_S	T7WIMF	soil	17-07-2019	01:00:00_PM	ERS18958916	sample processed and sequenced
+T7ZDZJ_S	T7ZDZJ	soil	11-07-2019	02:45:00_PM	ERS18958918	sample processed and sequenced
+T8IKAG_S	T8IKAG	soil	09-07-2019	04:00:00_PM	ERS18958926	sample processed and sequenced
+TBGYQQ_S	TBGYQQ	soil	04-07-2019	10:30:00_AM	ERS18958942	sample processed and sequenced
+TBLZ38_S	TBLZ38	soil	18-07-2019	03:55:00_PM	ERS18958944	sample processed and sequenced
+TC6XPC_S	TC6XPC	soil	17-07-2019	07:40:00_AM	ERS18958950	sample processed and sequenced
+TCD3P4_S	TCD3P4	soil	09-07-2019	04:20:00_PM	ERS18958954	sample processed and sequenced
+TCIHNW_S	TCIHNW	soil	26-07-2019	04:30:00_PM	ERS18958956	sample processed and sequenced
+TCMKFJ_S	TCMKFJ	soil	10-07-2019	01:55:00_PM	ERS18958958	sample processed and sequenced
+TD5LHA_S	TD5LHA	soil	02-07-2019	04:30:00_PM	NA	sample processed but sequencing failed
+TDGFXV_S	TDGFXV	soil	10-07-2019	03:35:00_PM	ERS18958966	sample processed and sequenced
+TEPZPF_S	TEPZPF	soil	26-07-2019	01:05:00_PM	ERS18958978	sample processed and sequenced
+TFHNHU_S	TFHNHU	soil	15-07-2019	02:45:00_PM	ERS18958992	sample processed and sequenced
+TFUBVV_S	TFUBVV	soil	24-07-2019	10:15:00_AM	ERS18959000	sample processed and sequenced
+TG4NHB_S	TG4NHB	soil	03-07-2019	11:30:00_AM	ERS18959002	sample processed and sequenced
+TG8NKF_S	TG8NKF	soil	11-07-2019	10:50:00_AM	ERS18959006	sample processed and sequenced
+TGXFSR_S	TGXFSR	soil	18-07-2019	09:30:00_AM	ERS18959014	sample processed and sequenced
+THG7AZ_S	THG7AZ	soil	15-07-2019	12:45:00_PM	ERS18959019	sample processed and sequenced
+THGNFM_S	THGNFM	soil	22-07-2019	01:50:00_PM	ERS18959021	sample processed and sequenced
+THKAWB_S	THKAWB	soil	21-07-2019	11:25:00_AM	ERS18959027	sample processed and sequenced
+TIRXWF_S	TIRXWF	soil	16-07-2019	03:00:00_PM	NA	sample processed but sequencing failed
+TJBXIG_S	TJBXIG	soil	10-07-2019	02:30:00_PM	ERS18959041	sample processed and sequenced
+TJXUUR_S	TJXUUR	soil	16-07-2019	12:50:00_PM	ERS18959051	sample processed and sequenced
+TK5FQJ_S	TK5FQJ	soil	02-07-2019	10:55:00_AM	ERS18959059	sample processed and sequenced
+TLG2QC_S	TLG2QC	soil	10-07-2019	01:05:00_PM	ERS18959085	sample processed and sequenced
+TM4GA9_S	TM4GA9	soil	23-07-2019	09:15:00_AM	ERS18959089	sample processed and sequenced
+TM9NNJ_S	TM9NNJ	soil	11-07-2019	11:00:00_AM	ERS18959093	sample processed and sequenced
+TMLQED_S	TMLQED	soil	23-07-2019	11:10:00_AM	ERS18959095	sample processed and sequenced
+TRB71K_S	TRB71K	soil	15-07-2019	10:20:00_AM	ERS18959127	sample processed and sequenced
+TRICKN_S	TRICKN	soil	15-07-2019	09:55:00_AM	ERS18959131	sample processed and sequenced
+TS1LPT_S	TS1LPT	soil	21-07-2019	01:55:00_PM	ERS18959135	sample processed and sequenced
+TSFXCZ_S	TSFXCZ	soil	22-07-2019	08:05:00_AM	ERS18959145	sample processed and sequenced
+TT79BQ_S	TT79BQ	soil	23-07-2019	01:15:00_PM	ERS18959157	sample processed and sequenced
+TTWBA4_S	TTWBA4	soil	05-07-2019	08:30:00_AM	ERS18959167	sample processed and sequenced
+TUPA8G_S	TUPA8G	soil	03-07-2019	03:00:00_PM	NA	sample processed but sequencing failed
+TVCC3Y_S	TVCC3Y	soil	01-07-2019	02:00:00_PM	ERS18959189	sample processed and sequenced
+TWSFGJ_S	TWSFGJ	soil	19-07-2019	08:30:00_AM	ERS18959207	sample processed and sequenced
+TXGZUY_S	TXGZUY	soil	12-07-2019	03:15:00_PM	ERS18959211	sample processed and sequenced
+TYKB9L_S	TYKB9L	soil	30-06-2019	01:35:00_PM	ERS18959223	sample processed and sequenced
+TZ6Q7T_S	TZ6Q7T	soil	21-07-2019	12:10:00_PM	ERS18959231	sample processed and sequenced
+TZDKD7_S	TZDKD7	soil	05-07-2019	02:40:00_PM	ERS18959233	sample processed and sequenced
+T1YMRX_S	T1YMRX	soil	20-07-2019	12:30:00_PM	ERS18958880	sample processed and sequenced
+T2NGGK_S	T2NGGK	soil	17-07-2019	09:15:00_AM	ERS18958884	sample processed and sequenced
+T5CELX_S	T5CELX	soil	03-07-2019	01:05:00_PM	ERS18958896	sample processed and sequenced
+T5XNHX_S	T5XNHX	soil	01-07-2019	05:40:00_PM	ERS18958904	sample processed and sequenced
+T6K6TA_S	T6K6TA	soil	05-07-2019	02:00:00_PM	ERS18958908	sample processed and sequenced
+TBSQHF_S	TBSQHF	soil	22-07-2019	12:39:00_PM	ERS18958948	sample processed and sequenced
+TDPRNI_S	TDPRNI	soil	08-07-2019	01:45:00_PM	ERS18958970	sample processed and sequenced
+TE2T4A_S	TE2T4A	soil	24-07-2019	10:40:00_AM	ERS18958974	sample processed and sequenced
+TEHHBJ_S	TEHHBJ	soil	08-07-2019	NA	ERS18958976	sample processed and sequenced
+TI93DT_S	TI93DT	soil	19-07-2019	02:00:00_PM	ERS18959029	sample processed and sequenced
+TJW6L7_S	TJW6L7	soil	15-07-2019	12:20:00_PM	ERS18959047	sample processed and sequenced
+TJXPPV_S	TJXPPV	soil	02-07-2019	07:10:00_PM	NA	sample processed but sequencing failed
+TKCEJN_S	TKCEJN	soil	03-07-2019	02:00:00_PM	NA	sample processed but sequencing failed
+TKIAHP_S	TKIAHP	soil	01-07-2019	01:35:00_PM	ERS18959067	sample processed and sequenced
+TNPKST_S	TNPKST	soil	16-07-2019	12:20:00_PM	ERS18959113	sample processed and sequenced
+TPUCG4_S	TPUCG4	soil	26-06-2019	01:55:00_PM	ERS18959117	sample processed and sequenced
+TR9HSR_S	TR9HSR	soil	26-07-2019	10:00:00_AM	ERS18959125	sample processed and sequenced
+TU2YW9_S	TU2YW9	soil	16-07-2019	08:50:00_AM	ERS18959169	sample processed and sequenced
+TUQ4KK_S	TUQ4KK	soil	24-07-2019	04:35:00_PM	ERS18959179	sample processed and sequenced
+TWLJ2P_S	TWLJ2P	soil	26-06-2019	02:40:00_PM	ERS18959201	sample processed and sequenced
+TYAASL_S	TYAASL	soil	04-07-2019	10:00:00_AM	ERS18959217	sample processed and sequenced
+TYRKAV_S	TYRKAV	soil	27-07-2019	06:00:00_PM	ERS18959227	sample processed and sequenced
