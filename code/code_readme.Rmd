@@ -20,3 +20,9 @@ Contains the code to download ncbi taxonomies and plot the order-level trees inc
 
 **sampling_efficiency.R**
 Contains the code to run the technical validation of spatial sampling efficiency of the IBA surveys. Also plots the figures contained in the manuscript. 
+
+**plot_composition_charts.R**
+Contains the code to compute the taxonomic composition of the datasets and generate the bar charts included in the manuscript.
+
+**get_iba_co1_data_fxn.R**
+Contains the code for a function that assembles OTU clusters data from processed IBA data and metadata. Includes the possibility of removing spike-in clusters and calibrating read numbers with the spike-in data.
