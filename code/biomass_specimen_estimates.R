@@ -2,8 +2,8 @@
 path <- "~/dev/figshare-repos/iba/raw_data/"
 
 # Compute regression models
-biomass_iba <- read.delim("../biomass_count_IBA.tsv")
-biomass_mg <- read.delim("../biomass_count_SIIP.tsv")
+biomass_iba <- read.delim("../biomass_count_IBA.tsv", dec=",")
+biomass_siip <- read.delim("../biomass_count_SIIP.tsv", dec=",")
 
 count <- c(biomass_iba$count, biomass_siip$count)
 biomass <- c(biomass_iba$biomass_grams, biomass_siip$biomass_grams)
