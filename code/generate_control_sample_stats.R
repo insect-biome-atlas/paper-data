@@ -2,7 +2,7 @@ raw_data_path <- "~/dev/figshare-repos/iba/raw_data/"
 processed_data_se_path <- "~/dev/figshare-repos/iba/processed_data/SE.v2/"
 processed_data_mg_path <- "~/dev/figshare-repos/iba/processed_data/MG.v2/"
 utils_path <- "~/dev/ms-repos-iba/utils/"
-neeat_res_path <- "~/dev/ms-project-repos/develop-noise-filtering/resuts/"
+neeat_res_path <- "~/dev/ms-project-repos/develop-noise-filtering/results/"
 
 source(paste0(utils_path,"spikes_controls_fxns.R"))
 
@@ -45,6 +45,7 @@ get_read_stats <- function(C, F, T, blanks, spikein_samples) {
     cat("There are",sum(control_reads_cleaned>0),"samples with reads\n")
 }
 
+
 # ------------
 # Swedish data
 # ------------
@@ -52,7 +53,7 @@ get_read_stats <- function(C, F, T, blanks, spikein_samples) {
 C <- fread(paste0(processed_data_se_path,"cluster_counts.tsv"))
 T <- read.delim(paste0(processed_data_se_path,"cluster_taxonomy.tsv"))
 M <- read.delim(paste0(raw_data_path,"CO1_sequencing_metadata_SE.tsv"))
-F <- read.delim("../results/cleaned_cluster_taxonomy_SE.tsv")
+F <- read.delim(paste0(neeat_res_path,"cleaned_cluster_taxonomy_SE.tsv"))
 
 T <- T[T$representative==1,]
 
@@ -74,7 +75,7 @@ remove_clusters <- identify_control_clusters(C, T, samples, blanks)
 C <- fread(paste0(processed_data_mg_path,"cluster_counts.corrected.NGI_IDs.tsv"))
 T <- read.delim(paste0(processed_data_mg_path,"cluster_taxonomy.tsv"))
 M <- read.delim(paste0(raw_data_path,"CO1_sequencing_metadata_MG.new.tsv"))
-F <- read.delim(paste0(neeat_res_path,"cleaned_cluster_taxonomy_MG.tsv")
+F <- read.delim(paste0(neeat_res_path,"cleaned_cluster_taxonomy_MG.tsv"))
 
 T <- T[T$representative==1,]
 
