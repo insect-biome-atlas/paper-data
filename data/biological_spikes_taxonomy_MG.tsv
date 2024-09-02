@@ -1,6 +1,6 @@
-Kingdom	Phylum	Class	Order	Family	Genus	Species	n	Comment	BOLD	BOLD_bin
-Animalia	Arthropoda	Insecta	Hemiptera	Anthocoridae	Orius	Orius majusculus	1	NA	BOLD:ABA5781	BOLABA5781
-Animalia	Arthropoda	Insecta	Hemiptera	Miridae	Macrolophus	Macrolophus pygmaeus	1	NA	"BOLD:ABX0414; BOLD:ABX2934; BOLD:ABX2935; BOLD:ACB8086; BOLD:ACD4967; BOLD:ACD5879; BOLD:ACD6943; BOLD:ADR8943"	"BOLABX0414; BOLABX2934; BOLABX2935; BOLACB8086; BOLACD4967; BOLACD5879; BOLACD6943; BOLADR8943"
-Animalia	Arthropoda	Insecta	Coleoptera	Coccinelidae	Delphastus	Delphastus pusillus	1	Delphastus catalinae	BOLD:AAE7462	BOLAAE7462
-Animalia	Arthropoda	Insecta	Hymenoptera	Braconidae	Aphidius	Aphidius colemani	1	NA	"BOLD:AAC7809; BOLD:AAI4338"	"BOLAAC7809; BOLAAI4338"
-Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	Aphidoletes	Aphidoletes aphidimyza	1	Added BOLD:ADG4616, seems to be representative in our MG dataset even though no species match in BOLD.	"BOLD:AAF7193; BOLD:AED4855; BOLD:ADG4616"	"BOLAAF7193; BOLAED4855; BOLADG4616"
+Kingdom	Phylum	Class	Order	Family	Genus	Species	n	Comment	BOLD_bin
+Animalia	Arthropoda	Insecta	Hemiptera	Anthocoridae	Orius	Orius majusculus	1	NA	BOLD:ABA5781
+Animalia	Arthropoda	Insecta	Hemiptera	Miridae	Macrolophus	Macrolophus pygmaeus	1	NA	"BOLD:ABX0414; BOLD:ABX2934; BOLD:ABX2935; BOLD:ACB8086; BOLD:ACD4967; BOLD:ACD5879; BOLD:ACD6943; BOLD:ADR8943"
+Animalia	Arthropoda	Insecta	Coleoptera	Coccinelidae	Delphastus	Delphastus pusillus	1	Delphastus catalinae	BOLD:AAE7462
+Animalia	Arthropoda	Insecta	Hymenoptera	Braconidae	Aphidius	Aphidius colemani	1	NA	"BOLD:AAC7809; BOLD:AAI4338"
+Animalia	Arthropoda	Insecta	Diptera	Cecidomyiidae	Aphidoletes	Aphidoletes aphidimyza	1	Added BOLD:ADG4616, seems to be representative in our MG dataset even though no species match in BOLD.	"BOLD:AAF7193; BOLD:AED4855; BOLD:ADG4616"
