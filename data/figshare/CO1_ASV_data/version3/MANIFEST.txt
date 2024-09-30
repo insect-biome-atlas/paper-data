@@ -5,7 +5,7 @@
 # ASV files
  44M	CO1_asv_counts_SE.tsv.gz
  89M	CO1_asv_seqs_SE.fasta.gz
- 25M	CO1_asv_counts_MG.tsv.gz
+ 26M	CO1_asv_counts_MG.tsv.gz
  83M	CO1_asv_seqs_MG.fasta.gz
 # Sequencing metadata files
 429K	CO1_sequencing_metadata_MG.tsv

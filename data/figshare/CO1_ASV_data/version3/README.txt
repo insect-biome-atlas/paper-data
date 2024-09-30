@@ -140,7 +140,9 @@ sites_metadata_MG.tsv. Columns in these files are as follows:
 
 #### Spike-ins metadata files
 
-We provide three files with information about spike-ins used when processing samples in the lab: biological_spikes_taxonomy_SE.tsv and biological_spikes_taxonomy_MG.tsv contain taxonomic information on biological spike ins while the file synthetic_spikes_info.tsv has information on synthetic spike ins. See README.txt for more information.
+We provide three files with information about spike-ins used when processing samples in the lab:
+biological_spikes_taxonomy_SE.tsv and biological_spikes_taxonomy_MG.tsv contain taxonomic information on biological
+spike ins while the file synthetic_spikes_info.tsv has information on synthetic spike ins.
 
 Columns in the files biological_spikes_taxonomy_[SE|MG].tsv are as follows:
 
