@@ -20,16 +20,17 @@ This dataset contains amplicon sequence variants (ASVs) generated from high-thro
 oxidase subunit I (COI) gene from Malaise trap samples (lysates, homogenates and preservative ethanol) and soil and
 litter samples. It includes ASV sequences and abundance information (number of reads) as well as metadata files that are
 needed to interpret and analyse the data further. Future versions of the dataset will include additional data. NB! All
-ASV files include ASVs that represent biological and artificial spike-ins. 
+ASV files include ASVs that represent biological and synthetic spike-ins.
 
 ## Methods
 
 Samples were sequenced using Illumina technology. Raw data are available at the European Nucleotide Archive (ENA) under
-project PRJEB61109. The raw sequence data was preprocessed using a Snakemake workflow available at
-https://github.com/biodiversitydata-se/amplicon-multi-cutadapt. Preprocessed reads were used as input to the AmpliSeq
-Nextflow (v.2.1.0) (https://github.com/nf-core/ampliseq) pipeline to generate ASVs.
+project PRJEB61109. The raw sequence data was preprocessed using a [Snakemake
+workflow](https://github.com/biodiversitydata-se/amplicon-multi-cutadapt). Preprocessed reads were then used as input to
+the [AmpliSeq](https://github.com/nf-core/ampliseq) Nextflow (v.2.1.0) pipeline to generate ASVs.
 
 ## Available data 
+
 Three types of files are included: ASV files, metadata files and other complementary data files. Files marked 'SE'
 contain data from Sweden while those marked 'MG' contain data from Madagascar.
 
@@ -40,18 +41,19 @@ shasum -c shasum.txt
 to check file integrity.
 
 ### ASV files 
+
 ASV sequences in fasta format are found in files CO1_asv_seqs_SE.fasta.gz and CO1_asv_seqs_MG.fasta.gz. Counts of ASVs
 in each sample are in CO1_asv_counts_SE.tsv.gz and CO1_asv_counts.MG.tsv.gz. The Swedish dataset contains 821,559 ASVs
-in 6,169 samples. The Madagascar dataset contains 701,769 ASVs in 2,287 samples.
+in 6,169 samples. The Madagascar dataset contains 701,769 ASVs in 2,286 samples.
 
 ### Metadata files
 
 Four types of metadata files are included: 
-1. sequencing_metadata files with information about samples that were processed in the lab and sequenced
-2. samples_metadata files with information about samples that were collected in the field.
-3. sites_metadata files with information about sites where samples were collected.
-4. sipke-ins metadata files with information about spike-ins added to each malaise trap sample at the time of sample processing in the lab.
 
+- sequencing_metadata files with information about samples that were processed in the lab and sequenced
+- samples_metadata files with information about samples that were collected in the field.
+- sites_metadata files with information about sites where samples were collected.
+- sipke-ins metadata files with information about spike-ins added to each malaise trap sample at the time of sample processing in the lab.
 
 #### Sequencing metadata files
 
