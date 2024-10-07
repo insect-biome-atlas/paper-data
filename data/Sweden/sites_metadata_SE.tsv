@@ -1,204 +1,213 @@
-siteID	trapID	latitude_WGS84	longitude_WGS84	trap_habitat	malaise_trap_type	NILS_mhabitat	NILS_square	NILS_plot	trap_orientation_degrees_S	notes
-1	TKSUA6	55.56843	13.22241	forest	Multitrap	forest	4	4	190	NA
-1	TFFDRE	55.56674	13.2215	forest	Multitrap	forest	4	3	190	NA
-1	TGCHAV	55.56194	13.23522	forest	Multitrap	forest	4	10	220	NA
-1	TBPT1B	55.56882	13.23092	grassland	Multitrap	grasslands	4	6	170	NA
-1	TZWKHK	55.5664	13.23512	grassland	Multitrap	grasslands	4	8	130	NA
-1	TWJED2	55.5612	13.22333	grassland	Multitrap	grasslands	4	1	100	NA
-2	TMXZCE	56.02517	13.60693	cropland	Single_trap	cropland	15	7	150	NA
-3	TSEQHD	56.029582	14.3973802	cropland	Multitrap	cropland	17	1	180	NA
-3	TAI56Z	56.036	14.3955	cropland	Multitrap	cropland	17	4	200	NA
-3	TEVVLD	56.0311	14.3975	cropland	Multitrap	cropland	17	2	180	NA
-3	THBEZ5	56.03619	14.40726	forest	Multitrap	forest	17	7	180	NA
-3	TF3STP	56.02937	14.4034735	forest	Multitrap	forest	17	11	210	NA
-3	TKCEJN	56.0369	14.4032	forest	Multitrap	forest	17	6	180	NA
-4	T7RGYH	56.24763	13.98903	grassland	Single_trap	grasslands	24	12	200	NA
-5	TM9NNJ	56.2639	15.6096	urban	Single_trap	urban	28	9	180	NA
-6	T7ZDZJ	56.265	15.2065	forest	Single_trap	forest	27	8	180	NA
-7	TTAPUR	56.4501257	12.7592847	cropland	Single_trap	cropland	33	1	150	NA
-8	THFUHH	56.48712	14.78502	forest	Single_trap	forest	38	3	120	NA
-9	TKGCFR	56.90452	12.73087	cropland	Multitrap	cropland	56	6	240	NA
-9	TMSD51	56.90455	12.72594	cropland	Multitrap	cropland	56	5	170	NA
-9	TSDGQK	56.8976	12.72062	cropland	Multitrap	cropland	56	1	190	NA
-9	T1TL12	56.90482	12.73262	forest	Multitrap	forest	56	7	130	NA
-9	TWFXXZ	56.90231	12.73335	forest	Multitrap	forest	56	8	200	NA
-9	TMNPJH	56.89761	12.72546	forest	Multitrap	forest	56	12	180	NA
-10	TXGZUY	56.91555	13.54871	forest	Single_trap	forest	58	11	190	NA
-11	T8IKAG	56.92413	13.95213	wetland	Single_trap	wetlands	59	2	200	NA
-12	TNGTPF	56.9317	16.825	forest	Multitrap	forest	66	1	180	NA
-12	TIRXWF	56.93147	16.82971	forest	Multitrap	forest	66	12	140	NA
-12	TYKZSN	56.9317	16.8334	forest	Multitrap	forest	66	11	180	NA
-12	TIAIK1	56.9376	16.8242	grassland	Multitrap	grasslands	66	4	240	NA
-12	TRXMCY	56.9359	16.8252	grassland	Multitrap	grasslands	66	3	180	NA
-12	TV6Z5Y	56.9386	16.8404	grassland	Multitrap	grasslands	66	7	180	NA
-13	TDGFXV	56.93642	15.19485	grassland	Single_trap	grasslands	62	9	180	NA
-14	TMLQED	57.16676	16.01334	forest	Multitrap	forest	78	6	164	NA
-14	TWF14R	57.16018	16.01809	forest	Multitrap	forest	78	10	253	NA
-14	THGUAX	57.16754	16.0202	urban	Multitrap	urban	78	7	162	NA
-14	T5KGVY	57.16538	16.01778	urban	Multitrap	urban	78	8	98	NA
-14	T6LS76	57.16676	16.00436	urban	Multitrap	urban	78	4	192	NA
-14	TM4GA9	57.1669	16.00917	urban	Multitrap	urban/cropland	78	5	169	NA
-15	T7WIMF	57.3824	14.75969	wetland	Single_trap	wetlands	88	2	200	NA
-16	TFGCME	57.58628	18.52564	cropland	Multitrap	cropland	108	6	189	NA
-16	TGX4C7	57.5862	18.52715	cropland	Multitrap	cropland	108	7	175	NA
-16	T2KQJZ	57.58081	18.51479	cropland	Multitrap	cropland	108	1	248	NA
-16	TRH2QM	57.58653	18.52065	forest	Multitrap	forest	108	5	150	NA
-16	TJZEUI	57.5851226	18.5166415	forest	Multitrap	forest/cropland	108	4	175	NA
-16	TKLVMZ	57.58047	18.51858	forest	Multitrap	forest	108	12	182	NA
-17	TEYZYN	57.588	13.5053	forest	Single_trap	forest	99	12	180	NA
-18	T5ZUGG	57.60835	14.34689	grassland	Single_trap	grasslands	101	7	180	NA
-19	T4EMTM	57.615999	15.59351	forest	Single_trap	forest	104	5	137	NA
-20	TSKEKT	57.77818	11.81663	grassland	Single_trap	cropland	109	7	260	NA
-21	T8EUCF	57.78329	12.23948	urban	Single_trap	urban	110	10	230	NA
-22	TGTDBY	57.81112	13.06627	cropland	Multitrap	cropland	112	4	170	NA
-22	TNLTYQ	57.8085	13.07667	cropland	Multitrap	cropland	112	8	200	NA
-22	TKMZ5X	57.80638	13.07751	cropland	Multitrap	cropland	112	9	190	NA
-22	TYDUPV	57.81287	13.07544	grassland	Multitrap	grasslands	112	7	NA	NA
-22	TPXB6L	57.80493	13.06586	grassland	Multitrap	grasslands	112	2	140	NA
-22	TUHLET	57.8086	13.06653	grassland	Multitrap	grasslands	112	3	190	NA
-23	TIUVZ1	57.8164316	13.4871933	forest	Single_trap	forest	113	3	190	NA
-24	TCD3P4	58.22129	11.756527	forest	Single_trap	forest	142	2	190	NA
-25	TWVCXF	58.23883	12.18512	grassland	Single_trap	grasslands	143	5	200	NA
-26	TD5LHA	58.264608	13.468323	cropland	Multitrap	cropland	146	9	180	NA
-26	TJXPPV	58.261656	13.469475	cropland	Multitrap	cropland	146	10	130	NA
-26	TJS8IY	58.260725	13.466986	cropland	Multitrap	cropland	146	10	160	NA
-26	TWQDCF	58.26089	13.45687	cropland	Multitrap	cropland	146	1	160	NA
-26	TKGRKA	58.26522	13.45625	forest	Multitrap	forest	146	3	190	NA
-26	TDKAFR	58.26813	13.45915	forest	Multitrap	forest	146	5	170	NA
-27	TGXFSR	58.28649	15.585445	forest	Single_trap	forest	151	3	190	NA
-28	TDUYXP	58.4210723	15.338425	urban	Single_trap	urban	157	8	NA	NA
-29	TZZ9UM	58.48814	13.44034	cropland	Multitrap	cropland	164	2	210	NA
-29	TUPA8G	58.4851905	13.448159	cropland	Multitrap	cropland	164	11	190	NA
-29	TTE4BQ	58.4867401	13.4468759	cropland	Multitrap	cropland	164	12	210	NA
-29	TZDKD7	58.48989	13.45307	forest	Multitrap	forest	164	8	210	NA
-29	TFLSK1	58.4921176	13.4503646	forest	Multitrap	forest	164	6	170	NA
-29	T1N5UR	58.49212	13.44094	forest	Multitrap	forest	164	4	170	NA
-30	TIJXRJ	58.50586	16.44447	cropland	Single_trap	cropland	171	12	180	NA
-31	TFHNHU	58.716329	13.859163	urban	Single_trap	urban	180	1	170	NA
-32	TLG2QC	58.960366	16.016513	forest	Single_trap	forest	196	3	140	NA
-33	TWCPQR	59.1645991	17.7683969	cropland	Multitrap	cropland	213	12	240	NA
-33	TWLJ2P	59.171847	17.778725	forest	Multitrap	forest	213	7	NA	NA
-33	TPUCG4	59.165495	17.773788	forest	Multitrap	forest	213	11	190	NA
-33	TPFJTD	59.165516	17.777799	forest	Multitrap	forest	213	10	180	NA
-33	TYBVXB	59.169998	17.765352	cropland	Multitrap	cropland	213	3	NA	NA
-33	TYUAHW	59.171468	17.763506	cropland	Multitrap	cropland	213	4	170	NA
-34	TTWBA4	59.1758743	14.2687025	forest	Single_trap	forest	205	3	160	NA
-35	TSFYKU	59.17894	16.463186	forest	Single_trap	forest	210	11	200	NA
-36	T3NLMJ	59.187123	15.584128	cropland	Multitrap	cropland	208	5	150	NA
-36	T9DY9N	59.187032	15.579159	cropland	Multitrap	cropland	208	4	189	NA
-36	TV5KPB	59.179878	15.580246	forest	Multitrap	forest	208	1	180	NA
-36	TL3KCT	59.184976	15.579924	forest	Multitrap	forest	208	3	175	NA
-36	TUDGN3	59.187159	15.588217	forest	Multitrap	forest	208	6	190	NA
-36	T2YFPK	59.18265	15.579651	forest	Multitrap	forest/grasslands	208	2	170	NA
-37	TIS5BD	59.389	13.3787	forest	Single_trap	forest	219	4	170	NA
-38	TLCIG9	59.60201	12.91714	cropland	Single_trap	cropland	235	3	260	NA
-39	TQNH2B	59.6142728	17.8056615	urban	Single_trap	urban	246	10	120	NA
-40	TZQFGP	59.626304	17.358107	forest	Single_trap	forest	245	6	150	NA
-41	TUBWQK	59.627185	16.465411	cropland	Single_trap	cropland	243	12	106	NA
-42	TFIA7R	59.821687	18.701429	cropland	Single_trap	cropland	264	12	180	NA
-43	TTNYZZ	59.851575	16.481107	forest	Single_trap	forest	259	10	175	NA
-44	TBGYQQ	60.0618401	13.7781315	forest	Single_trap	forest	269	1	NA	NA
-45	T8B7KU	60.2342556	17.8855086	forest	Single_trap	NA	NA	NA	220	NA
-46	TG6JK1	60.297384	16.927488	grassland	Single_trap	grasslands	283	1	160	NA
-47	TZVTYZ	60.531453	15.120207	forest	Single_trap	forest	293	5	200	NA
-48	TM5LBB	60.533163	15.571019	wetland	Single_trap	wetlands	294	4	200	NA
-49	TUQQIV	60.97032	14.65823	forest	Single_trap	forest	309	10	178	NA
-50	TSVHD1	61.201524	16.960304	forest	Single_trap	forest	315	4	210	NA
-51	TR24WG	61.40417	13.22408	wetland	Single_trap	wetlands	317	3	182	NA
-52	TZRRMG	61.41881	14.17379	forest	Multitrap	forest	319	8	184	NA
-52	T5FPCF	61.41672	14.17256	forest	Multitrap	forest	319	9	181	NA
-52	TU2YW9	61.41375	14.15902	forest	Multitrap	forest	319	1	174	NA
-52	TDCIPI	61.41453	14.16377	forest	Multitrap	forest	319	12	180	NA
-52	TC6XPC	61.42074	14.16817	forest	Multitrap	forest	319	6	184	NA
-52	T1QLZR	61.4214	14.17319	forest	Multitrap	forest	319	7	178	NA
-53	TBLZ38	61.6164	12.734833	alpine	Single_trap	alpine	326	2	178	NA
-54	TZFRJA	61.636669	12.707244	forest	Single_trap	NA	NA	NA	NA	NA
-55	TFECCG	61.78576	16.95073	wetland	Single_trap	NA	NA	NA	184	NA
-56	TWSFGJ	61.86726	14.13552	forest	Single_trap	forest	333	3	182	NA
-57	THKAWB	61.8752487	16.5252547	forest	Multitrap	forest	337	8	180	NA
-57	TMMIG9	61.8778805	16.5244326	forest	Multitrap	forest	337	7	NA	NA
-57	TBSQHF	61.8754244	16.5112811	forest	Multitrap	forest	337	3	170	NA
-57	TFQDEE	61.8776868	16.5102618	forest	Multitrap	forest	337	4	150	NA
-57	TS1LPT	61.8779395	16.5155495	forest	Multitrap	forest	337	5	180	NA
-57	TSFXCZ	61.8733921	16.5105652	forest	Multitrap	forest	337	2	140	NA
-58	THGYUE	62.5418796	17.4983836	forest	Single_trap	forest	355	4	150	NA
-59	TT79BQ	62.6352101	12.3795741	alpine	Single_trap	NA	NA	NA	NA	NA
-60	TLFBSS	62.64846	17.792735	wetland	Single_trap	NA	NA	NA	176	NA
-61	TLY1VQ	62.8463032	12.7777511	wetland	Single_trap	NA	NA	NA	180	NA
-62	TG4NHB	62.9768433	18.0306489	forest	Multitrap	forest	374	10	NA	NA
-62	T6WPKD	62.9812956	18.0309905	forest	Multitrap	forest	374	8	200	NA
-62	TVNBV7	62.9786799	18.0311984	forest	Multitrap	forest	374	9	210	NA
-62	TVCC3Y	62.9767733	18.0167185	forest	Multitrap	forest	374	1	170	NA
-62	TCSZX1	62.9766708	18.0211542	forest	Multitrap	forest	374	12	180	NA
-62	T2T1DJ	62.9768783	18.026823	forest	Multitrap	forest	374	11	200	NA
-63	TXLZ8M	63.192267	14.660965	urban	Single_trap	NA	NA	NA	180	NA
-64	TE2T4A	63.2210968	13.1105481	wetland	Single_trap	NA	NA	NA	NA	NA
-65	T5R3X9	63.22362	15.056643	forest	Single_trap	forest	381	5	180	NA
-66	THGNFM	63.6136392	12.2281101	forest	Single_trap	NA	NA	NA	NA	NA
-67	T6YFBI	63.6147513	12.2334286	wetland	Single_trap	NA	NA	NA	190	NA
-68	TCIHNW	63.65601	14.03068	forest	Multitrap	forest	399	1	178	NA
-68	TSSMCA	63.65651	14.03552	wetland	Multitrap	wetlands	399	12	172	NA
-68	TKMUNP	63.66093	14.02957	wetland	Multitrap	wetlands	399	3	173	NA
-68	TEPZPF	63.66284	14.04025	wetland	Multitrap	wetlands	399	6	178	NA
-68	TZXF7I	63.66276	14.03527	wetland	Multitrap	wetlands	399	5	175	NA
-68	TMYD2K	63.66303	14.02971	wetland	Multitrap	wetlands	399	4	182	NA
-69	TZ6Q7T	63.6676405	16.5696868	forest	Single_trap	forest	404	9	NA	NA
-70	TXHDAT	63.8709868	18.5950507	forest	Single_trap	forest	413	3	180	NA
-71	T9UPWP	64.0503453	20.1621544	cropland	Multitrap	cropland	430	11	220	NA
-71	TJXUUR	64.0547145	20.1671356	forest	Multitrap	forest	430	8	170	NA
-71	TJW6L7	64.0574146	20.1667289	forest	Multitrap	forest	430	7	190	NA
-71	T1KSIA	64.0571488	20.1564413	forest	Multitrap	forest	430	5	190	NA
-71	TRB71K	64.0571661	20.1628092	forest	Multitrap	forest	430	6	170	NA
-71	TS2P4Q	64.0528579	20.1659856	forest	Multitrap	forest	430	9	180	NA
-72	TTA2EM	64.0714295	19.6456404	wetland	Single_trap	wetlands	429	5	180	NA
-73	TI93DT	64.122415	15.55678	forest	Multitrap	forest	421	7	195	NA
-73	TTXHGW	64.115009	15.540245	forest	Multitrap	forest	421	1	176	NA
-73	T7VH4H	64.117719	15.541552	forest	Multitrap	forest	421	2	176	NA
-73	TAKAXU	64.115229	15.545738	forest	Multitrap	forest	421	12	181	NA
-73	TKBVDW	64.122079	15.551254	wetland	Multitrap	wetlands	421	6	180	NA
-73	TS6VW9	64.120008	15.555356	wetland	Multitrap	wetlands	421	8	182	NA
-74	TND7ZQ	64.70675	20.7983	cropland	Single_trap	cropland	454	9	188	NA
-75	T6K6TA	64.93472	20.8395	forest	Single_trap	forest	468	7	184	NA
-76	TWRXFI	65.4183638	21.5139878	cropland	Single_trap	NA	NA	NA	225	NA
-77	TYAASL	65.55576	22.03955	forest	Single_trap	urban	496	11	186	NA
-78	TLFEGH	65.80904	21.54216	forest	Multitrap	forest	510	4	176	NA
-78	TK5FQJ	65.80833	21.54613	forest	Multitrap	forest	510	5	180	NA
-78	T5XNHX	65.80426	21.53992	forest	Multitrap	forest	510	2	184	NA
-78	TYKB9L	65.80148	21.55559	forest	Multitrap	forest	510	10	184	NA
-78	TK3EAJ	65.80139	21.55104	forest	Multitrap	forest	510	11	181	NA
-78	TKIAHP	65.80341	21.55788	forest	Multitrap	forest	510	9	186	NA
-79	T83QWB	65.9142669	14.9909339	forest	Single_trap	forest	498	7	190	NA
-80	T2YSPU	66.39066	23.66219	urban	Single_trap	NA	NA	NA	175	NA
-81	TDGVY8	66.4757956	20.2960094	wetland	Single_trap	NA	NA	NA	180	NA
-82	TC8QBB	66.5973446	19.8426095	wetland	Single_trap	NA	NA	NA	180	NA
-83	TG8NKF	66.6413026	18.6238284	wetland	Single_trap	NA	NA	NA	180	NA
-84	TBGIW1	66.7941498	21.0427458	wetland	Single_trap	NA	NA	NA	180	NA
-85	T5CELX	67.0675	21.29273	forest	Single_trap	NA	NA	NA	178	NA
-86	T1YMRX	67.138019	18.301238	alpine	Single_trap	NA	NA	NA	172	NA
-87	TJZHPY	67.1469025	18.3022567	grassland	Single_trap	NA	NA	NA	180	NA
-88	TAPGMG	67.18333	20.72606	urban	Single_trap	urban	574	8	186	NA
-89	TFUBVV	67.459982	18.42654	alpine	Single_trap	alpine	584	2	NA	NA
-90	TUQ4KK	67.58907	20.18851	wetland	Single_trap	NA	NA	NA	NA	NA
-91	T2NGGK	67.86626	20.26306	forest	Multitrap	forest	607	12	180	NA
-91	TARUGI	67.86906	20.25816	forest	Multitrap	forest	607	2	174	NA
-91	THG7AZ	67.8735	20.26367	forest	Multitrap	forest	607	5	179	NA
-91	TNPKST	67.87283	20.2705	forest	Multitrap	forest	607	6	176	NA
-91	TRICKN	67.87046	20.27589	wetland	Multitrap	wetlands	607	8	182	NA
-91	TJNMNV	67.86682	20.25614	wetland	Multitrap	wetlands	607	1	184	NA
-92	T4TJQT	68.016891	18.393688	alpine	Single_trap	NA	NA	NA	NA	NA
-93	TYRKAV	68.27946	18.53027	alpine	Single_trap	NA	NA	NA	179	NA
-94	TR9HSR	68.34207	19.1331	forest	Single_trap	forest	618	1	179	NA
-95	T9MYFJ	68.35297	18.52717	alpine	Multitrap	alpine	617	1	183	NA
-95	TGATIM	68.35346	18.53316	alpine	Multitrap	alpine	617	12	181	NA
-95	TRNGSD	68.35452	18.54391	alpine	Multitrap	alpine	617	10	186	NA
-95	TE8FGF	68.35659	18.54587	alpine	Multitrap	alpine	617	9	184	NA
-95	TSJUPI	68.35896	18.54703	alpine	Multitrap	alpine	617	NA	182	NA
-95	T2LIWT	68.35868	18.53085	alpine	Multitrap	alpine	617	3	186	NA
-96	TSTZUY	68.35471	18.80928	wetland	Single_trap	NA	NA	NA	180	NA
-97	TPEZUL	68.35964	18.4937	alpine	Single_trap	NA	NA	NA	184	NA
-98	TUQ4KK_1	67.62057	20.15471	alpine	Single_trap	NA	NA	NA	NA	this trap has moved location from wind farm to a wetland. The trap_code has been changed to reflect this
-99	TCMKFJ	65.8724048	19.3600827	forest	Multitrap	forest	506	3	190	CANCELLED
-99	TDPRNI	65.8689655	19.3638546	forest	Multitrap	forest	506	12	180	CANCELLED
-99	TEHHBJ	65.8683791	19.3689196	forest	Multitrap	forest	506	11	170	CANCELLED
-99	TV2QKF	65.870273	19.3600663	forest	Multitrap	forest	506	2	180	CANCELLED
-100	TJBXIG	65.962231	16.049839	wetland	Single_trap	NA	NA	NA	180	CANCELLED
+siteID	trapID	latitude_WGS84	longitude_WGS84	Locality		trap_habitat	malaise_trap_type	NILS_mhabitat	NILS_square	NILS_plot	trap_orientation_degrees_S	notes
+1	TKSUA6	55.56843	13.22241	SE, Skåne, Svedala kommun, Risemölla		forest	Multitrap	forest	4	4	190	NA
+1	TFFDRE	55.56674	13.2215	SE, Skåne, Svedala kommun, Risemölla		forest	Multitrap	forest	4	3	190	NA
+1	TGCHAV	55.56194	13.23522	SE, Skåne, Svedala kommun, Risemölla		forest	Multitrap	forest	4	10	220	NA
+1	TBPT1B	55.56882	13.23092	SE, Skåne, Svedala kommun, Risemölla		grassland	Multitrap	grasslands	4	6	170	NA
+1	TZWKHK	55.5664	13.23512	SE, Skåne, Svedala kommun, Risemölla		grassland	Multitrap	grasslands	4	8	130	NA
+1	TWJED2	55.5612	13.22333	SE, Skåne, Svedala kommun, Risemölla		grassland	Multitrap	grasslands	4	1	100	NA
+2	TMXZCE	56.02517	13.60693	SE, Skåne, Höörs kommun, Slättaröd		cropland	Single_trap	cropland	15	7	150	NA
+3	TSEQHD	56.029582	14.3973802	SE, Skåne, Kristianstads kommun, Äspet		cropland	Multitrap	cropland	17	1	180	NA
+3	TAI56Z	56.036	14.3955	SE, Skåne, Kristianstads kommun, Äspet		cropland	Multitrap	cropland	17	4	200	NA
+3	TEVVLD	56.0311	14.3975	SE, Skåne, Kristianstads kommun, Äspet		cropland	Multitrap	cropland	17	2	180	NA
+3	THBEZ5	56.03619	14.40726	SE, Skåne, Kristianstads kommun, Äspet		forest	Multitrap	forest	17	7	180	NA
+3	TF3STP	56.02937	14.4034735	SE, Skåne, Kristianstads kommun, Äspet		forest	Multitrap	forest	17	11	210	NA
+3	TKCEJN	56.0369	14.4032	SE, Skåne, Kristianstads kommun, Äspet		forest	Multitrap	forest	17	6	180	NA
+4	T7RGYH	56.24763	13.98903	SE, Skåne, Östra Göinge kommun, Haganäs		grassland	Single_trap	grasslands	24	12	200	NA
+5	TM9NNJ	56.2639	15.6096	SE, Blekinge, Karlskrona kommun, Rödeby		urban	Single_trap	urban	28	9	180	NA
+6	T7ZDZJ	56.265	15.2065	SE, Blekinge, Ronneby kommun, Tubbarp		forest	Single_trap	forest	27	8	180	NA
+7	TTAPUR	56.4501257	12.7592847	SE, Skåne, Båstads kommun, Stora Liden		cropland	Single_trap	cropland	33	1	150	NA
+8	THFUHH	56.48712	14.78502	SE, Småland, Tingsryds kommun, Hultalycke		forest	Single_trap	forest	38	3	120	NA
+9	TKGCFR	56.90452	12.73087	SE, Halland, Falkenbergs kommun, Bäckefors		cropland	Multitrap	cropland	56	6	240	NA
+9	TMSD51	56.90455	12.72594	SE, Halland, Falkenbergs kommun, Bäckefors		cropland	Multitrap	cropland	56	5	170	NA
+9	TSDGQK	56.8976	12.72062	SE, Halland, Falkenbergs kommun, Särestad		cropland	Multitrap	cropland	56	1	190	NA
+9	T1TL12	56.90482	12.73262	SE, Halland, Falkenbergs kommun, Bäckefors		forest	Multitrap	forest	56	7	130	NA
+9	TWFXXZ	56.90231	12.73335	SE, Halland, Falkenbergs kommun, Bäckefors		forest	Multitrap	forest	56	8	200	NA
+9	TMNPJH	56.89761	12.72546	SE, Halland, Falkenbergs kommun, Särestad		forest	Multitrap	forest	56	12	180	NA
+10	TXGZUY	56.91555	13.54871	SE, Halland, Hylte kommun, Nässja		forest	Single_trap	forest	58	11	190	NA
+11	T8IKAG	56.92413	13.95213	SE, Småland, Ljungby kommun, Lagan		wetland	Single_trap	wetlands	59	2	200	NA
+12	TNGTPF	56.9317	16.825	"SE, Öland, Borgholms kommun, Norrby
+"		forest	Multitrap	forest	66	1	180	NA
+12	TIRXWF	56.93147	16.82971	"SE, Öland, Borgholms kommun, Norrby
+"		forest	Multitrap	forest	66	12	140	NA
+12	TYKZSN	56.9317	16.8334	"SE, Öland, Borgholms kommun, Norrby
+"		forest	Multitrap	forest	66	11	180	NA
+12	TIAIK1	56.9376	16.8242	"SE, Öland, Borgholms kommun, Norrby
+"		grassland	Multitrap	grasslands	66	4	240	NA
+12	TRXMCY	56.9359	16.8252	"SE, Öland, Borgholms kommun, Norrby
+"		grassland	Multitrap	grasslands	66	3	180	NA
+12	TV6Z5Y	56.9386	16.8404	"SE, Öland, Borgholms kommun, Norrby
+"		grassland	Multitrap	grasslands	66	7	180	NA
+13	TDGFXV	56.93642	15.19485	SE, Småland, Uppvidinge kommun, Vraneke		grassland	Single_trap	grasslands	62	9	180	NA
+14	TMLQED	57.16676	16.01334	SE, Småland, Högsby kommun, Högsby		forest	Multitrap	forest	78	6	164	NA
+14	TWF14R	57.16018	16.01809	SE, Småland, Högsby kommun, Högsby		forest	Multitrap	forest	78	10	253	NA
+14	THGUAX	57.16754	16.0202	SE, Småland, Högsby kommun, Högsby		urban	Multitrap	urban	78	7	162	NA
+14	T5KGVY	57.16538	16.01778	SE, Småland, Högsby kommun, Högsby		urban	Multitrap	urban	78	8	98	NA
+14	T6LS76	57.16676	16.00436	SE, Småland, Högsby kommun, Högsby		urban	Multitrap	urban	78	4	192	NA
+14	TM4GA9	57.1669	16.00917	SE, Småland, Högsby kommun, Högsby		urban	Multitrap	urban/cropland	78	5	169	NA
+15	T7WIMF	57.3824	14.75969	SE, Småland, Sävsjö kommun, Vallsjö		wetland	Single_trap	wetlands	88	2	200	NA
+16	TFGCME	57.58628	18.52564	SE, Gotland, Gotlands kommun, Röstäde		cropland	Multitrap	cropland	108	6	189	NA
+16	TGX4C7	57.5862	18.52715	SE, Gotland, Gotlands kommun, Röstäde		cropland	Multitrap	cropland	108	7	175	NA
+16	T2KQJZ	57.58081	18.51479	SE, Gotland, Gotlands kommun, Röstäde		cropland	Multitrap	cropland	108	1	248	NA
+16	TRH2QM	57.58653	18.52065	SE, Gotland, Gotlands kommun, Röstäde		forest	Multitrap	forest	108	5	150	NA
+16	TJZEUI	57.5851226	18.5166415	SE, Gotland, Gotlands kommun, Röstäde		forest	Multitrap	forest/cropland	108	4	175	NA
+16	TKLVMZ	57.58047	18.51858	SE, Gotland, Gotlands kommun, Röstäde		forest	Multitrap	forest	108	12	182	NA
+17	TEYZYN	57.588	13.5053	"SE, Västergötland, Tranemo kommun, Nyfors
+"		forest	Single_trap	forest	99	12	180	NA
+18	T5ZUGG	57.60835	14.34689	SE, Småland, Jönköpings kommun, Falla		grassland	Single_trap	grasslands	101	7	180	NA
+19	T4EMTM	57.615999	15.59351	SE, Småland, Eksjö kommun, Mariannelund		forest	Single_trap	forest	104	5	137	NA
+20	TSKEKT	57.77818	11.81663	"SE, Västergötland, Göteborgs kommun, Nolviks kile
+"		grassland	Single_trap	cropland	109	7	260	NA
+21	T8EUCF	57.78329	12.23948	SE, Västergötland, Lerums kommun, Aspenäs		urban	Single_trap	urban	110	10	230	NA
+22	TGTDBY	57.81112	13.06627	SE, Västergötland, Borås kommun, Ön		cropland	Multitrap	cropland	112	4	170	NA
+22	TNLTYQ	57.8085	13.07667	SE, Västergötland, Borås kommun, Ön		cropland	Multitrap	cropland	112	8	200	NA
+22	TKMZ5X	57.80638	13.07751	SE, Västergötland, Borås kommun, Ön		cropland	Multitrap	cropland	112	9	190	NA
+22	TYDUPV	57.81287	13.07544	SE, Västergötland, Borås kommun, Ön		grassland	Multitrap	grasslands	112	7	NA	NA
+22	TPXB6L	57.80493	13.06586	SE, Västergötland, Borås kommun, Ön		grassland	Multitrap	grasslands	112	2	140	NA
+22	TUHLET	57.8086	13.06653	SE, Västergötland, Borås kommun, Ön		grassland	Multitrap	grasslands	112	3	190	NA
+23	TIUVZ1	57.8164316	13.4871933	SE, Västergötland, Ulricehamns kommun, St. Kartamossen		forest	Single_trap	forest	113	3	190	NA
+24	TCD3P4	58.22129	11.756527	SE, Bohuslän, Orusts kommun, Mjösund		forest	Single_trap	forest	142	2	190	NA
+25	TWVCXF	58.23883	12.18512	SE, Västergötland, Trollhättans kommun, Hålleröd		grassland	Single_trap	grasslands	143	5	200	NA
+26	TD5LHA	58.264608	13.468323	SE, Västergötland, Falköpings kommun, Bjurum		cropland	Multitrap	cropland	146	9	180	NA
+26	TJXPPV	58.261656	13.469475	SE, Västergötland, Falköpings kommun, Bjurum		cropland	Multitrap	cropland	146	10	130	NA
+26	TJS8IY	58.260725	13.466986	SE, Västergötland, Falköpings kommun, Bjurum		cropland	Multitrap	cropland	146	10	160	NA
+26	TWQDCF	58.26089	13.45687	SE, Västergötland, Falköpings kommun, Bjurum		cropland	Multitrap	cropland	146	1	160	NA
+26	TKGRKA	58.26522	13.45625	SE, Västergötland, Falköpings kommun, Bjurum		forest	Multitrap	forest	146	3	190	NA
+26	TDKAFR	58.26813	13.45915	SE, Västergötland, Falköpings kommun, Bjurum		forest	Multitrap	forest	146	5	170	NA
+27	TGXFSR	58.28649	15.585445	SE, Östergötland, Linköpings kommun, Smedstorp		forest	Single_trap	forest	151	3	190	NA
+28	TDUYXP	58.4210723	15.338425	SE, Östergötland, Linköpings kommun, Västerlösa		urban	Single_trap	urban	157	8	NA	NA
+29	TZZ9UM	58.48814	13.44034	SE, Västergötland, Götene kommun, Jonstorp		cropland	Multitrap	cropland	164	2	210	NA
+29	TUPA8G	58.4851905	13.448159	SE, Västergötland, Götene kommun, Jonstorp		cropland	Multitrap	cropland	164	11	190	NA
+29	TTE4BQ	58.4867401	13.4468759	SE, Västergötland, Götene kommun, Jonstorp		cropland	Multitrap	cropland	164	12	210	NA
+29	TZDKD7	58.48989	13.45307	SE, Västergötland, Götene kommun, Jonstorp		forest	Multitrap	forest	164	8	210	NA
+29	TFLSK1	58.4921176	13.4503646	SE, Västergötland, Götene kommun, Jonstorp		forest	Multitrap	forest	164	6	170	NA
+29	T1N5UR	58.49212	13.44094	SE, Västergötland, Götene kommun, Jonstorp		forest	Multitrap	forest	164	4	170	NA
+30	TIJXRJ	58.50586	16.44447	SE, Östergötland, Norrköpings kommun, Hjärterum		cropland	Single_trap	cropland	171	12	180	NA
+31	TFHNHU	58.716329	13.859163	SE, Västergötland, Mariestads kommun, Mariestad		urban	Single_trap	urban	180	1	170	NA
+32	TLG2QC	58.960366	16.016513	"SE, Södermanland, Katrineholms kommun, Nybygget
+"		forest	Single_trap	forest	196	3	140	NA
+33	TWCPQR	59.1645991	17.7683969	SE, Södermanland, Botkyrka kommun, Tillflykten		cropland	Multitrap	cropland	213	12	240	NA
+33	TWLJ2P	59.171847	17.778725	SE, Södermanland, Botkyrka kommun, Ensta		forest	Multitrap	forest	213	7	NA	NA
+33	TPUCG4	59.165495	17.773788	SE, Södermanland, Botkyrka kommun, Tillflykten		forest	Multitrap	forest	213	11	190	NA
+33	TPFJTD	59.165516	17.777799	SE, Södermanland, Botkyrka kommun, Tillflykten		forest	Multitrap	forest	213	10	180	NA
+33	TYBVXB	59.169998	17.765352	SE, Södermanland, Botkyrka kommun, Ensta		cropland	Multitrap	cropland	213	3	NA	NA
+33	TYUAHW	59.171468	17.763506	SE, Södermanland, Botkyrka kommun, Ensta		cropland	Multitrap	cropland	213	4	170	NA
+34	TTWBA4	59.1758743	14.2687025	SE, Värmland, Kristinehamns kommun, Krontorp		forest	Single_trap	forest	205	3	160	NA
+35	TSFYKU	59.17894	16.463186	SE, Värmland, Kristinehamns kommun, Krontorp		forest	Single_trap	forest	210	11	200	NA
+36	T3NLMJ	59.187123	15.584128	SE, Närke, Örebro kommun, Segersjö		cropland	Multitrap	cropland	208	5	150	NA
+36	T9DY9N	59.187032	15.579159	SE, Närke, Örebro kommun, Segersjö		cropland	Multitrap	cropland	208	4	189	NA
+36	TV5KPB	59.179878	15.580246	SE, Närke, Örebro kommun, Segersjö		forest	Multitrap	forest	208	1	180	NA
+36	TL3KCT	59.184976	15.579924	SE, Närke, Örebro kommun, Segersjö		forest	Multitrap	forest	208	3	175	NA
+36	TUDGN3	59.187159	15.588217	SE, Närke, Örebro kommun, Segersjö		forest	Multitrap	forest	208	6	190	NA
+36	T2YFPK	59.18265	15.579651	SE, Närke, Örebro kommun, Segersjö		forest	Multitrap	forest/grasslands	208	2	170	NA
+37	TIS5BD	59.389	13.3787	SE, Värmland, Karlstads kommun, Sörmon		forest	Single_trap	forest	219	4	170	NA
+38	TLCIG9	59.60201	12.91714	SE, Värmland, Arvika kommun, Lilla Skärmnäs		cropland	Single_trap	cropland	235	3	260	NA
+39	TQNH2B	59.6142728	17.8056615	SE, Uppland, Sigtuna kommun, Märsta		urban	Single_trap	urban	246	10	120	NA
+40	TZQFGP	59.626304	17.358107	SE, Uppland, Enköpings kommun, Ekolsund		forest	Single_trap	forest	245	6	150	NA
+41	TUBWQK	59.627185	16.465411	SE, Västmanland, Västerås kommun, Persbo		cropland	Single_trap	cropland	243	12	106	NA
+42	TFIA7R	59.821687	18.701429	SE, Uppland, Norrtälje kommun, Svinninge		cropland	Single_trap	cropland	264	12	180	NA
+43	TTNYZZ	59.851575	16.481107	SE, Västmanland, Sala kommun, Hebo		forest	Single_trap	forest	259	10	175	NA
+44	TBGYQQ	60.0618401	13.7781315	SE, Värmland, Hagfors kommun, Stormossen		forest	Single_trap	forest	269	1	NA	NA
+45	T8B7KU	60.2342556	17.8855086	SE, Uppland, Östhammars kommun, Svedjan		forest	Single_trap	NA	NA	NA	220	NA
+46	TG6JK1	60.297384	16.927488	SE, Gästrikland, Gävle kommun, Ingvara		grassland	Single_trap	grasslands	283	1	160	NA
+47	TZVTYZ	60.531453	15.120207	SE, Dalarna, Gagnefs kommun, Gagnef Bodarna		forest	Single_trap	forest	293	5	200	NA
+48	TM5LBB	60.533163	15.571019	SE, Dalarna, Borlänge kommun, Bromsmossen		wetland	Single_trap	wetlands	294	4	200	NA
+49	TUQQIV	60.97032	14.65823	SE, Dalarna, Mora kommun, Nusnäs		forest	Single_trap	forest	309	10	178	NA
+50	TSVHD1	61.201524	16.960304	SE, Hälsingland, Söderhamns kommun, Järvsjön		forest	Single_trap	forest	315	4	210	NA
+51	TR24WG	61.40417	13.22408	SE, Dalarna, Älvdalens kommun, Älvdalen Nornäs		wetland	Single_trap	wetlands	317	3	182	NA
+52	TZRRMG	61.41881	14.17379	SE, Dalarna, Mora kommun, Gyrisberget		forest	Multitrap	forest	319	8	184	NA
+52	T5FPCF	61.41672	14.17256	SE, Dalarna, Mora kommun, Gyrisberget		forest	Multitrap	forest	319	9	181	NA
+52	TU2YW9	61.41375	14.15902	SE, Dalarna, Mora kommun, Gyrisberget		forest	Multitrap	forest	319	1	174	NA
+52	TDCIPI	61.41453	14.16377	SE, Dalarna, Mora kommun, Gyrisberget		forest	Multitrap	forest	319	12	180	NA
+52	TC6XPC	61.42074	14.16817	SE, Dalarna, Mora kommun, Gyrisberget		forest	Multitrap	forest	319	6	184	NA
+52	T1QLZR	61.4214	14.17319	SE, Dalarna, Mora kommun, Gyrisberget		forest	Multitrap	forest	319	7	178	NA
+53	TBLZ38	61.6164	12.734833	SE, Dalarna, Älvdalens kommun, Fulufjället		alpine	Single_trap	alpine	326	2	178	NA
+54	TZFRJA	61.636669	12.707244	SE, Dalarna, Älvdalens kommun, Björbäckstugan		forest	Single_trap	NA	NA	NA	NA	NA
+55	TFECCG	61.78576	16.95073	SE, Hälsingland, Hudiksvalls kommun, Tåsta		wetland	Single_trap	NA	NA	NA	184	NA
+56	TWSFGJ	61.86726	14.13552	SE, Härjedalen, Härjedalens kommun, Nordanhå		forest	Single_trap	forest	333	3	182	NA
+57	THKAWB	61.8752487	16.5252547	SE, Hälsingland, Hudiksvalls kommun, Västansjö		forest	Multitrap	forest	337	8	180	NA
+57	TMMIG9	61.8778805	16.5244326	SE, Hälsingland, Hudiksvalls kommun, Västansjö		forest	Multitrap	forest	337	7	NA	NA
+57	TBSQHF	61.8754244	16.5112811	SE, Hälsingland, Hudiksvalls kommun, Västansjö		forest	Multitrap	forest	337	3	170	NA
+57	TFQDEE	61.8776868	16.5102618	SE, Hälsingland, Hudiksvalls kommun, Västansjö		forest	Multitrap	forest	337	4	150	NA
+57	TS1LPT	61.8779395	16.5155495	SE, Hälsingland, Hudiksvalls kommun, Västansjö		forest	Multitrap	forest	337	5	180	NA
+57	TSFXCZ	61.8733921	16.5105652	SE, Hälsingland, Hudiksvalls kommun, Västansjö		forest	Multitrap	forest	337	2	140	NA
+58	THGYUE	62.5418796	17.4983836	SE, Medelpad, Timrå kommun, Dalasvedjan		forest	Single_trap	forest	355	4	150	NA
+59	TT79BQ	62.6352101	12.3795741	SE, Härjedalen, Härjedalens kommun, Kariknallarna		alpine	Single_trap	NA	NA	NA	NA	NA
+60	TLFBSS	62.64846	17.792735	SE, Ångermanland, Härnösands kommun, Rödmyran		wetland	Single_trap	NA	NA	NA	176	NA
+61	TLY1VQ	62.8463032	12.7777511	SE, Härjedalen, Bergs kommun, Ljungdalen		wetland	Single_trap	NA	NA	NA	180	NA
+62	TG4NHB	62.9768433	18.0306489	SE, Ångermanland, Kramfors kommun, Sällsjön		forest	Multitrap	forest	374	10	NA	NA
+62	T6WPKD	62.9812956	18.0309905	SE, Ångermanland, Kramfors kommun, Sällsjön		forest	Multitrap	forest	374	8	200	NA
+62	TVNBV7	62.9786799	18.0311984	SE, Ångermanland, Kramfors kommun, Sällsjön		forest	Multitrap	forest	374	9	210	NA
+62	TVCC3Y	62.9767733	18.0167185	SE, Ångermanland, Kramfors kommun, Sällsjön		forest	Multitrap	forest	374	1	170	NA
+62	TCSZX1	62.9766708	18.0211542	SE, Ångermanland, Kramfors kommun, Sällsjön		forest	Multitrap	forest	374	12	180	NA
+62	T2T1DJ	62.9768783	18.026823	SE, Ångermanland, Kramfors kommun, Sällsjön		forest	Multitrap	forest	374	11	200	NA
+63	TXLZ8M	63.192267	14.660965	SE, Jämtland, Östersunds kommun, Östersund		urban	Single_trap	NA	NA	NA	180	NA
+64	TE2T4A	63.2210968	13.1105481	SE, Jämtland, Åre kommun, Ottsjö		wetland	Single_trap	NA	NA	NA	NA	NA
+65	T5R3X9	63.22362	15.056643	SE, Jämtland, Östersunds kommun, Svanamyren		forest	Single_trap	forest	381	5	180	NA
+66	THGNFM	63.6136392	12.2281101	SE, Jämtland, Åre kommun, Stor-Björsjön		forest	Single_trap	NA	NA	NA	NA	NA
+67	T6YFBI	63.6147513	12.2334286	SE, Jämtland, Åre kommun, Stor-Björsjön		wetland	Single_trap	NA	NA	NA	190	NA
+68	TCIHNW	63.65601	14.03068	SE, Jämtland, Krokoms kommun, Libodvallen		forest	Multitrap	forest	399	1	178	NA
+68	TSSMCA	63.65651	14.03552	SE, Jämtland, Krokoms kommun, Libodvallen		wetland	Multitrap	wetlands	399	12	172	NA
+68	TKMUNP	63.66093	14.02957	SE, Jämtland, Krokoms kommun, Libodvallen		wetland	Multitrap	wetlands	399	3	173	NA
+68	TEPZPF	63.66284	14.04025	SE, Jämtland, Krokoms kommun, Libodvallen		wetland	Multitrap	wetlands	399	6	178	NA
+68	TZXF7I	63.66276	14.03527	SE, Jämtland, Krokoms kommun, Libodvallen		wetland	Multitrap	wetlands	399	5	175	NA
+68	TMYD2K	63.66303	14.02971	SE, Jämtland, Krokoms kommun, Libodvallen		wetland	Multitrap	wetlands	399	4	182	NA
+69	TZ6Q7T	63.6676405	16.5696868	SE, Ångermanland, Sollefteå kommun, Lillterrsjö		forest	Single_trap	forest	404	9	NA	NA
+70	TXHDAT	63.8709868	18.5950507	SE, Västerbotten, Bjurholms kommun, Bredträsk		forest	Single_trap	forest	413	3	180	NA
+71	T9UPWP	64.0503453	20.1621544	SE, Västerbotten, Umeå kommun, Åliden		cropland	Multitrap	cropland	430	11	220	NA
+71	TJXUUR	64.0547145	20.1671356	SE, Västerbotten, Umeå kommun, Åliden		forest	Multitrap	forest	430	8	170	NA
+71	TJW6L7	64.0574146	20.1667289	SE, Västerbotten, Umeå kommun, Åliden		forest	Multitrap	forest	430	7	190	NA
+71	T1KSIA	64.0571488	20.1564413	SE, Västerbotten, Umeå kommun, Åliden		forest	Multitrap	forest	430	5	190	NA
+71	TRB71K	64.0571661	20.1628092	SE, Västerbotten, Umeå kommun, Åliden		forest	Multitrap	forest	430	6	170	NA
+71	TS2P4Q	64.0528579	20.1659856	SE, Västerbotten, Umeå kommun, Åliden		forest	Multitrap	forest	430	9	180	NA
+72	TTA2EM	64.0714295	19.6456404	SE, Västerbotten, Vindelns kommun, Tvärålund		wetland	Single_trap	wetlands	429	5	180	NA
+73	TI93DT	64.122415	15.55678	SE, Jämtland, Strömsunds kommun, Långmyrkojan		forest	Multitrap	forest	421	7	195	NA
+73	TTXHGW	64.115009	15.540245	SE, Jämtland, Strömsunds kommun, Långmyrkojan		forest	Multitrap	forest	421	1	176	NA
+73	T7VH4H	64.117719	15.541552	SE, Jämtland, Strömsunds kommun, Långmyrkojan		forest	Multitrap	forest	421	2	176	NA
+73	TAKAXU	64.115229	15.545738	SE, Jämtland, Strömsunds kommun, Långmyrkojan		forest	Multitrap	forest	421	12	181	NA
+73	TKBVDW	64.122079	15.551254	SE, Jämtland, Strömsunds kommun, Långmyrkojan		wetland	Multitrap	wetlands	421	6	180	NA
+73	TS6VW9	64.120008	15.555356	SE, Jämtland, Strömsunds kommun, Långmyrkojan		wetland	Multitrap	wetlands	421	8	182	NA
+74	TND7ZQ	64.70675	20.7983	SE, Västerbotten, Skellefteå kommun, Mullbacka		cropland	Single_trap	cropland	454	9	188	NA
+75	T6K6TA	64.93472	20.8395	SE, Västerbotten, Skellefteå kommun, Hemmistjärn		forest	Single_trap	forest	468	7	184	NA
+76	TWRXFI	65.4183638	21.5139878	SE, Norrbotten, Piteå kommun, Norrfjärden		cropland	Single_trap	NA	NA	NA	225	NA
+77	TYAASL	65.55576	22.03955	SE, Norrbotten, Luleå kommun, Kvarnträsket		forest	Single_trap	urban	496	11	186	NA
+78	TLFEGH	65.80904	21.54216	SE, Norrbotten, Bodens kommun, Heden		forest	Multitrap	forest	510	4	176	NA
+78	TK5FQJ	65.80833	21.54613	SE, Norrbotten, Bodens kommun, Heden		forest	Multitrap	forest	510	5	180	NA
+78	T5XNHX	65.80426	21.53992	SE, Norrbotten, Bodens kommun, Heden		forest	Multitrap	forest	510	2	184	NA
+78	TYKB9L	65.80148	21.55559	SE, Norrbotten, Bodens kommun, Heden		forest	Multitrap	forest	510	10	184	NA
+78	TK3EAJ	65.80139	21.55104	SE, Norrbotten, Bodens kommun, Heden		forest	Multitrap	forest	510	11	181	NA
+78	TKIAHP	65.80341	21.55788	SE, Norrbotten, Bodens kommun, Heden		forest	Multitrap	forest	510	9	186	NA
+79	T83QWB	65.9142669	14.9909339	SE, Lappland, Storumans kommun, Umfors		forest	Single_trap	forest	498	7	190	NA
+80	T2YSPU	66.39066	23.66219	SE, Norrbotten, Övertorneå kommun, Övertorneå		urban	Single_trap	NA	NA	NA	175	NA
+81	TDGVY8	66.4757956	20.2960094	SE, Lappland, Jokkmokks kommun, Kåskats		wetland	Single_trap	NA	NA	NA	180	NA
+82	TC8QBB	66.5973446	19.8426095	SE, Lappland, Jokkmokks kommun, Jokkmokk		wetland	Single_trap	NA	NA	NA	180	NA
+83	TG8NKF	66.6413026	18.6238284	SE, Lappland, Jokkmokks kommun, Sauloudden		wetland	Single_trap	NA	NA	NA	180	NA
+84	TBGIW1	66.7941498	21.0427458	SE, Lappland, Gällivare kommun, Nattavaara by		wetland	Single_trap	NA	NA	NA	180	NA
+85	T5CELX	67.0675	21.29273	SE, Lappland, Gällivare kommun, Mettä Dokkas		forest	Single_trap	NA	NA	NA	178	NA
+86	T1YMRX	67.138019	18.301238	SE, Lappland, Jokkmokks kommun, Aktse		alpine	Single_trap	NA	NA	NA	172	NA
+87	TJZHPY	67.1469025	18.3022567	SE, Lappland, Jokkmokks kommun, Aktse		grassland	Single_trap	NA	NA	NA	180	NA
+88	TAPGMG	67.18333	20.72606	SE, Lappland, Gällivare kommun, Koskullskulle		urban	Single_trap	urban	574	8	186	NA
+89	TFUBVV	67.459982	18.42654	SE, Lappland, Gällivare kommun, Roavvesjkutjovárásj		alpine	Single_trap	alpine	584	2	NA	NA
+90	TUQ4KK	67.58907	20.18851	SE, Lappland, Gällivare kommun, Lappberg		wetland	Single_trap	NA	NA	NA	NA	NA
+91	T2NGGK	67.86626	20.26306	SE, Lappland, Kiruna kommun, Kiruna		forest	Multitrap	forest	607	12	180	NA
+91	TARUGI	67.86906	20.25816	SE, Lappland, Kiruna kommun, Kiruna		forest	Multitrap	forest	607	2	174	NA
+91	THG7AZ	67.8735	20.26367	SE, Lappland, Kiruna kommun, Kiruna		forest	Multitrap	forest	607	5	179	NA
+91	TNPKST	67.87283	20.2705	SE, Lappland, Kiruna kommun, Kiruna		forest	Multitrap	forest	607	6	176	NA
+91	TRICKN	67.87046	20.27589	SE, Lappland, Kiruna kommun, Kiruna		wetland	Multitrap	wetlands	607	8	182	NA
+91	TJNMNV	67.86682	20.25614	SE, Lappland, Kiruna kommun, Kiruna		wetland	Multitrap	wetlands	607	1	184	NA
+92	T4TJQT	68.016891	18.393688	SE, Lappland, Kiruna kommun, Nallostugan		alpine	Single_trap	NA	NA	NA	NA	NA
+93	TYRKAV	68.27946	18.53027	SE, Lappland, Kiruna kommun, Huvkim		alpine	Single_trap	NA	NA	NA	179	NA
+94	TR9HSR	68.34207	19.1331	SE, Lappland, Kiruna kommun, Vuoskkonjárga		forest	Single_trap	forest	618	1	179	NA
+95	T9MYFJ	68.35297	18.52717	SE, Lappland, Kiruna kommun, Latnjaèorru		alpine	Multitrap	alpine	617	1	183	NA
+95	TGATIM	68.35346	18.53316	SE, Lappland, Kiruna kommun, Latnjaèorru		alpine	Multitrap	alpine	617	12	181	NA
+95	TRNGSD	68.35452	18.54391	SE, Lappland, Kiruna kommun, Latnjaèorru		alpine	Multitrap	alpine	617	10	186	NA
+95	TE8FGF	68.35659	18.54587	SE, Lappland, Kiruna kommun, Latnjaèorru		alpine	Multitrap	alpine	617	9	184	NA
+95	TSJUPI	68.35896	18.54703	SE, Lappland, Kiruna kommun, Latnjaèorru		alpine	Multitrap	alpine	617	NA	182	NA
+95	T2LIWT	68.35868	18.53085	SE, Lappland, Kiruna kommun, Latnjaèorru		alpine	Multitrap	alpine	617	3	186	NA
+96	TSTZUY	68.35471	18.80928	SE, Lappland, Kiruna kommun, Abisko		wetland	Single_trap	NA	NA	NA	180	NA
+97	TPEZUL	68.35964	18.4937	SE, Lappland, Kiruna kommun, Latnjajávri		alpine	Single_trap	NA	NA	NA	184	NA
+98	TUQ4KK_1	67.62057	20.15471	SE, Lappland, Gällivare kommun, Lappberg		alpine	Single_trap	NA	NA	NA	NA	this trap has moved location from wind farm to a wetland. The trap_code has been changed to reflect this
+99	TCMKFJ	65.8724048	19.3600827	NA		forest	Multitrap	forest	506	3	190	CANCELLED
+99	TDPRNI	65.8689655	19.3638546	NA		forest	Multitrap	forest	506	12	180	CANCELLED
+99	TEHHBJ	65.8683791	19.3689196	NA		forest	Multitrap	forest	506	11	170	CANCELLED
+99	TV2QKF	65.870273	19.3600663	NA		forest	Multitrap	forest	506	2	180	CANCELLED
+100	TJBXIG	65.962231	16.049839	NA		wetland	Single_trap	NA	NA	NA	180	CANCELLED
