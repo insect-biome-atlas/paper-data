@@ -126,6 +126,7 @@ sites_metadata_MG.tsv. Columns in these files are as follows:
 
 - siteID: Sampling site id number. Note that for some sites there can be several Malaise traps assembled (malaise_trap_type=Multitrap)
 - trapID: Malaise trap id from field sampling
+- locality: information on locality where the Malaie trap was placed (for SE only)
 - latitude_WGS84: Latitude in WGS84 coordinate system. This info specifies the Malaise trap location at the sampling site
 - longitude_WGS84: Longitude in WGS84 coordinate system. This info specifies the Malaise trap location at the site
 - trap_habitat: Habitat where the Malaise trap was located
