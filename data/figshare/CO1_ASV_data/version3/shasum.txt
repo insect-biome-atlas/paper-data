@@ -1,4 +1,5 @@
 773978ba9852cb940374632c85f062a51efa3afd  CO1_asv_counts_MG.tsv.gz
+a4ca0793dbed5c70e4925160b855e744a0e793ae  CO1_asv_counts_SE.tsv.gz
 71d25531a85670be741fe7a30180e1de22d40659  CO1_asv_seqs_MG.fasta.gz
 6764300593b68df13a1682090c1237ecf60f30b8  CO1_asv_seqs_SE.fasta.gz
 b5a6386efb477ba08a79df947b7ab1cf5dc4e893  CO1_sequencing_metadata_MG.tsv

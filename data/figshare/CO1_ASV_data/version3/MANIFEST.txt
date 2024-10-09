@@ -5,11 +5,11 @@
 # ASV files
  44M	CO1_asv_counts_SE.tsv.gz
  89M	CO1_asv_seqs_SE.fasta.gz
- 26M	CO1_asv_counts_MG.tsv.gz
+ 25M	CO1_asv_counts_MG.tsv.gz
  83M	CO1_asv_seqs_MG.fasta.gz
 # Sequencing metadata files
-429K	CO1_sequencing_metadata_MG.tsv
-1.4M	CO1_sequencing_metadata_SE.tsv
+492K	CO1_sequencing_metadata_MG.tsv
+1.3M	CO1_sequencing_metadata_SE.tsv
 # Samples metadata files
  16K	samples_metadata_litter_MG.tsv
 308K	samples_metadata_malaise_MG.tsv
@@ -17,7 +17,7 @@
  36K	samples_metadata_soil_litter_SE.tsv
 # Sites metadata files
 8.0K	sites_metadata_MG.tsv
- 16K	sites_metadata_SE.tsv
+ 48K	sites_metadata_SE.tsv
 # Spike-ins metadata files
 4.0K    biological_spikes_taxonomy_MG.tsv
 4.0K    biological_spikes_taxonomy_SE.tsv
