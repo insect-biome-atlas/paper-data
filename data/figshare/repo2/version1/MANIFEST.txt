@@ -1,0 +1,16 @@
+# Cleaned consensus taxonomies
+600K	cleaned_cluster_consensus_taxonomy_MG.tsv.gz
+400K	cleaned_cluster_consensus_taxonomy_SE.tsv.gz
+# Consensus taxonomy
+608K	cluster_consensus_taxonomy_MG.tsv.gz
+# Count files
+5.2M	cluster_counts_MG.tsv.gz
+8.8M	cluster_counts_SE.tsv.gz
+# Representative sequences
+ 20M	cluster_reps_MG.fasta.gz
+8.9M	cluster_reps_SE.fasta.gz
+# Taxonomy and cluster designations
+ 24M	cluster_taxonomy_MG.tsv.gz
+ 12M	cluster_taxonomy_SE.tsv.gz
+# Checksums
+4.0K	shasum.txt
