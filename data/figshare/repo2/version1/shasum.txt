@@ -1,4 +1,3 @@
-9e85e5ead4e7b472238b9d20f10388f831d22302  MANIFEST.txt
 4efdf6f7d7ae9d99abf29787db9513d23cca2358  asv_taxonomy_MG.tsv.gz
 7a6ceae33c24ba9288c7c2ff2f1741fa2200059f  asv_taxonomy_SE.tsv.gz
 6b171187396095d1d8bc822d63f6261d896e4cc1  cleaned_noise_filtered_cluster_counts_MG.tsv.gz
@@ -13,3 +12,4 @@ b01b12c5b6355da2fe487704186a5c6ecdf6f188  cluster_counts_SE.tsv.gz
 1df23277e5f036750bffc5650533ccc1b432d854  cluster_reps_SE.fasta.gz
 bde01428b646542ab5c777f08609406d8d976a77  cluster_taxonomy_MG.tsv.gz
 d54c3ea0b3621be50c95b5f228c2ed9b1d9a4192  cluster_taxonomy_SE.tsv.gz
+a8105f30b21ce3a8af490b37f37b8406158d3d77  MANIFEST.txt
