@@ -1,20 +1,20 @@
  # Taxonomic assignments
  13M	asv_taxonomy_MG.tsv.gz
  21M	asv_taxonomy_SE.tsv.gz
- # Noise-filtered and cleaned data
-5.1M	cleaned_noise_filtered_cluster_counts_MG.tsv.gz
-6.1M	cleaned_noise_filtered_cluster_counts_SE.tsv.gz
- 15M	cleaned_noise_filtered_cluster_taxonomy_MG.tsv.gz
- 12M	cleaned_noise_filtered_cluster_taxonomy_SE.tsv.gz
- # Consensus taxonomy
-608K	cluster_consensus_taxonomy_MG.tsv.gz
-524K	cluster_consensus_taxonomy_SE.tsv.gz
-# Cluster counts
+ # Cluster assignments
+ 24M	cluster_taxonomy_MG.tsv.gz
+ 12M	cluster_taxonomy_SE.tsv.gz
+ # Cluster counts
 5.2M	cluster_counts_MG.tsv.gz
 8.8M	cluster_counts_SE.tsv.gz
 # Sequences of cluster representatives
  20M	cluster_reps_MG.fasta.gz
 8.9M	cluster_reps_SE.fasta.gz
-# Cluster assignments
- 24M	cluster_taxonomy_MG.tsv.gz
- 12M	cluster_taxonomy_SE.tsv.gz
+# Consensus taxonomy
+608K	cluster_consensus_taxonomy_MG.tsv.gz
+524K	cluster_consensus_taxonomy_SE.tsv.gz
+ # Noise-filtered and cleaned data
+5.1M	cleaned_noise_filtered_cluster_counts_MG.tsv.gz
+6.1M	cleaned_noise_filtered_cluster_counts_SE.tsv.gz
+ 15M	cleaned_noise_filtered_cluster_taxonomy_MG.tsv.gz
+ 12M	cleaned_noise_filtered_cluster_taxonomy_SE.tsv.gz
