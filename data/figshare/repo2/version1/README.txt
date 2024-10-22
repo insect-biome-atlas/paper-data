@@ -28,7 +28,7 @@ potentially originating from nuclear mitochondrial DNA (NUMTs) or representing o
 taxonomic assignments, ASV cluster designations, consensus taxonomies and summed counts of clusters in the sequenced
 samples are provided in compressed tab-separated files. Sequences of cluster representatives are provided in compressed
 FASTA format files. The bioinformatic processing pipeline is further described in Sundh et al. (2024). NB! All result
-files include ASVs and clusters that represent biological and synthetic spike-ins.
+files include ASVs and clusters that represent biological spike-ins.
 
 ## Methods
 
