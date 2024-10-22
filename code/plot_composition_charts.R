@@ -9,24 +9,28 @@ library(shadowtext)
 theme_set(theme_bw() + theme(legend.position="top"))
 
 # Set paths to processed data and metadata directories
-path_se <- "~/dev/figshare-repos/iba/processed_data/SE.v2/"
-path_mg <- "~/dev/figshare-repos/iba/processed_data/MG.v2/"
-path_metadata <- "~/dev/figshare-repos/iba/raw_data/"
+path_se <- "~/dev/figshare-repos/iba/processed_data/v2.1_cleaned_noise_filtered/"
+path_mg <- "~/dev/figshare-repos/iba/processed_data/v2.1_cleaned_noise_filtered/"
+path_metadata <- "~/dev/figshare-repos/iba/raw_data/v4/"
 
 # Include function for getting data
+old_dir <- getwd()
+setwd("~/dev/ms-repos-iba/utils/")
 source("get_iba_co1_data_fxn.R")
+setwd(old_dir)
 
 # Define a cleaning function
+
 clean <- function(X) {
     X <- X[X$Phylum=="Arthropoda",]
-    X <- X[!grepl("_X",X$Family),]
-    X <- X[!grepl("unclassified",X$Family),]
-    X <- X[!grepl("unresolved",X$Family),]
+#    X <- X[!grepl("_X",X$Family),]
+#    X <- X[!grepl("unclassified",X$Family),]
+#    X <- X[!grepl("unresolved",X$Family),]
     X[X$Species!="Zoarces gillii",] 
 }
 
 # Define a function that makes a bar plot
-make_barplot <- function(data, ntax_insects, ntax_other, max_x, div) {
+make_barplot <- function(data, ntax_insects, ntax_other, max_tick, div) {
 
     BLUE <- "#076fa2"
     RED <- "#E3120B"
@@ -55,6 +59,8 @@ make_barplot <- function(data, ntax_insects, ntax_other, max_x, div) {
 
     df$Order <- factor(df$Order, levels = df$Order)
     df$y <- seq(length(df$Order)) * 0.9
+    max_x <- max(df$OTUs)
+    df$label_cutoff <- max_x * as.numeric(sapply(as.character(df$Order),nchar)) / 46
 
     # Draw basic plot
     plt <- ggplot(df) + geom_col(aes(OTUs,Order), fill=BLUE, width=0.7)
@@ -62,13 +68,15 @@ make_barplot <- function(data, ntax_insects, ntax_other, max_x, div) {
     # Refine plot
     plt <- plt +
         scale_x_continuous(
-            limits = c(0, max_x + max_x/50),
-            breaks = seq(0, max_x, by = max_x/div),
-            expand = c(0, 0), # The horizontal axis does not extend to either side
+            limits = c(0, max_x),
+            breaks = seq(0, max_tick, by = max_tick/div),
             position = "top"  # Labels are located on the top
         ) +
         # The vertical axis extends upwards and downwards
         scale_y_discrete(expand = expansion(add = c(0.5, 0.5))) +
+        geom_hline(yintercept=5.5, linewidth=0.3, linetype="dashed", color=BLACK) +
+        annotate("text", x=0.88*max_x, y=6.5, label="Hexapods", size=4, color=BLACK) +
+        annotate("text", x=0.80*max_x, y=1.5, label="Other arthropods", size=4, color=BLACK) +
         theme(
             # Set background color to white
             panel.background = element_rect(fill = "white"),
@@ -92,7 +100,7 @@ make_barplot <- function(data, ntax_insects, ntax_other, max_x, div) {
     # Add labels back in, into the plot
     plt <- plt + 
         geom_shadowtext(
-            data = subset(df, OTUs < max_x/5),
+            data = subset(df, OTUs < label_cutoff),
             aes(OTUs, y = Order, label = Order),
             hjust = 0,
             nudge_x = max_x/100,
@@ -103,47 +111,55 @@ make_barplot <- function(data, ntax_insects, ntax_other, max_x, div) {
             size = 2.8
         ) + 
         geom_text(
-            data = subset(df, OTUs >= max_x/5),
+            data = subset(df, OTUs >= label_cutoff),
             aes(0, y = Order, label = Order),
             hjust = 0,
             nudge_x = max_x/100,
             colour = "white",
             family = "Helvetica",
-        size = 2.8
-    )
+            size = 2.8
+        )
 
     plt
 }
 
 # Get malaise data from Sweden
-malaise_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="se",dataset="lysate|homogenate") |>
+malaise_se <- get_iba_co1_data(data_path=path_se,
+                               metadata_path=path_metadata,
+                               country="SE",
+                               dataset="lysate|homogenate",
+                               remove_spikes=FALSE) |>  # TODO: Temporary fix because spike-ins are missing
               clean()
-#lysate_se  <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="se",dataset="lysate") |>
+#lysate_se  <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="SE",dataset="lysate") |>
 #              clean()
-#homogenate_se  <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="se",dataset="homogenate") |>
+#homogenate_se  <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="SE",dataset="homogenate") |>
 #                  clean()
 
 # Get malaise data from Madagascar
-malaise_mg <- get_iba_co1_data(data_path=path_mg, metadata_path=path_metadata, country="mg",dataset="lysate") |>
+malaise_mg <- get_iba_co1_data(data_path=path_mg,
+                               metadata_path=path_metadata,
+                               country="MG",
+                               dataset="lysate",
+                               remove_spikes=FALSE) |>  # TODO: Temporary fix because spike-ins are missing
               clean()
 
 # Get soil and litter data for Sweden
-soil_litter_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="se",dataset="soil|litter") |>
+soil_litter_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="SE",dataset="soil|litter") |>
                   clean()
-#soil_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="se",dataset="soil") |>
+#soil_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="SE",dataset="soil") |>
 #           clean()
-#litter_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="se",dataset="litter") |>
+#litter_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="SE",dataset="litter") |>
 #             clean()
 
 # Get litter data from Madagascar
-litter_mg <- get_iba_co1_data(data_path=path_mg, metadata_path=path_metadata, country="mg",dataset="litter") |>
+litter_mg <- get_iba_co1_data(data_path=path_mg, metadata_path=path_metadata, country="MG",dataset="litter") |>
              clean()
 
 # Make plots
-pt1 <- make_barplot(malaise_se, 10, 5, max_x=12000, div=6)
-pt2 <- make_barplot(malaise_mg, 10, 5, max_x=15000, div=5)
-pt3 <- make_barplot(soil_litter_se, 10, 5, max_x=600, div=6)
-pt4 <- make_barplot(litter_mg, 10, 5, max_x=700, div=7)
+pt1 <- make_barplot(malaise_se, 10, 5, max_tick=12000, div=6)
+pt2 <- make_barplot(malaise_mg, 10, 5, max_tick=30000, div=6)
+pt3 <- make_barplot(soil_litter_se, 10, 5, max_tick=600, div=6)
+pt4 <- make_barplot(litter_mg, 10, 5, max_tick=1200, div=6)
 
 # Arrange plots and generate figure
 figure <- ggarrange(pt1, pt2, pt3, pt4, labels=c("A","B","C","D"), ncol=2, nrow=2)
