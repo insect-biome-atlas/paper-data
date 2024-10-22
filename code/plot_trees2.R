@@ -13,9 +13,13 @@ library(scico)
 library(scales)
 library(ggplot2)
 library(ggpubr)
+library(patchwork)
 
 # Include function for getting data
+old_dir <- getwd()
+setwd("~/dev/ms-repos-iba/utils/")
 source("get_iba_co1_data_fxn.R")
+setwd(old_dir)
 
 # Set random seed
 set.seed(10)
@@ -27,41 +31,61 @@ set.seed(10)
 # Set paths to processed data and metadata directories
 # TODO: Change to your local copies of the figshare repos
 # accompanying the paper
-path_se <- "~/dev/figshare-repos/iba/processed_data/SE.v2/"
-path_mg <- "~/dev/figshare-repos/iba/processed_data/MG.v2/"
-path_metadata <- "~/dev/figshare-repos/iba/raw_data/"
+path_se <- "~/dev/figshare-repos/iba/processed_data/v2.1_cleaned_noise_filtered/"
+path_mg <- "~/dev/figshare-repos/iba/processed_data/v2.1_cleaned_noise_filtered/"
+path_metadata <- "~/dev/figshare-repos/iba/raw_data/v4/"
 
 
 # Define a cleaning and subsetting function
 clean <- function(X) {
   X <- X[X$Phylum=="Arthropoda",]
-  X <- X[!grepl("_X",X$Family),]
-  X <- X[!grepl("unclassified",X$Family),]
-  X <- X[!grepl("unresolved",X$Family),]
+#  X <- X[!grepl("_X",X$Family),]
+#  X <- X[!grepl("unclassified",X$Family),]
+#  X <- X[!grepl("unresolved",X$Family),]
   X[X$Species!="Zoarces gillii",] 
 }
 
+# Define a function for getting indices of the columns with sample data
+get_measure_vars <- function(dt) {
+    x <- colnames(dt)
+    y <- grepl("_",x) & grepl("P",x)
+    return (seq(length(y))[y])
+}
+
 # Get malaise data from Sweden
-malaise_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="se",dataset="lysate|homogenate") |>
-  clean()
+malaise_se <- get_iba_co1_data(data_path=path_se,
+                               metadata_path=path_metadata,
+                               country="SE",
+                               dataset="lysate|homogenate",
+                               remove_spikes=FALSE) |>  # TODO: Temporary fix because spike-ins are missing
+              clean()
 
 # Get malaise data from Madagascar
-malaise_mg <- get_iba_co1_data(data_path=path_mg, metadata_path=path_metadata, country="mg",dataset="lysate") |>
-  clean()
+malaise_mg <- get_iba_co1_data(data_path=path_mg,
+                               metadata_path=path_metadata,
+                               country="MG",
+                               dataset="lysate",
+                               remove_spikes=FALSE) |>  # TODO: Temporary fix because spike-ins are missing
+              clean()
 
 # Get soil and litter data for Sweden
-soil_litter_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="se",dataset="soil|litter") |>
-  clean()
+soil_litter_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="SE",dataset="soil|litter") |>
+                  clean()
+#soil_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="SE",dataset="soil") |>
+#           clean()
+#litter_se <- get_iba_co1_data(data_path=path_se, metadata_path=path_metadata, country="SE",dataset="litter") |>
+#             clean()
 
 # Get litter data from Madagascar
-litter_mg <- get_iba_co1_data(data_path=path_mg, metadata_path=path_metadata, country="mg",dataset="litter") |>
-  clean()
+litter_mg <- get_iba_co1_data(data_path=path_mg, metadata_path=path_metadata, country="MG",dataset="litter") |>
+             clean()
 
 
 # Swedish malaise data -----------------------------------------------------------------------
 
 malaise_counts_se <- melt(data=malaise_se,
                           id.vars=c("cluster","Kingdom","Phylum","Class","Order","Family","Genus","Species","BOLD_bin"),
+                          measure.vars=get_measure_vars(malaise_se),
                           variable.name = "sampleID_NGI",
                           value.name = "read_count") |>
                      _[read_count > 0,]
@@ -78,6 +102,7 @@ malaise_orders_se <- malaise_order_stats_se$Order
 
 malaise_counts_mg <- melt(data=malaise_mg,
                           id.vars=c("cluster","Kingdom","Phylum","Class","Order","Family","Genus","Species","BOLD_bin"),
+                          measure.vars=get_measure_vars(malaise_mg),
                           variable.name = "sampleID_NGI",
                           value.name = "read_count") |>
                           _[read_count > 0,]
@@ -95,6 +120,7 @@ malaise_orders_mg <- unique(malaise_order_stats_mg$Order)
 
 soil_counts_se <- melt(data=soil_litter_se,
                        id.vars=c("cluster","Kingdom","Phylum","Class","Order","Family","Genus","Species","BOLD_bin"),
+                       measure.vars=get_measure_vars(soil_litter_se),
                        variable.name = "sampleID_NGI",
                        value.name = "read_count") |>
                        _[read_count > 0,]
@@ -111,6 +137,7 @@ soil_orders_se <- soil_order_stats_se$Order
 
 soil_counts_mg <- melt(data=litter_mg,
                        id.vars=c("cluster","Kingdom","Phylum","Class","Order","Family","Genus","Species","BOLD_bin"),
+                       measure.vars=get_measure_vars(litter_mg),
                        variable.name = "sampleID_NGI",
                        value.name = "read_count") |>
                        _[read_count > 0,]
@@ -136,6 +163,7 @@ get_tree <- function(orders){
    IBA_class[[1]] <- IBA_class[[1]][!dupes]
    tree           <- taxize::class2tree(IBA_class$ncbi, check = TRUE)
 }
+
 # ---------------------------------------------------------------------------------------------
 
 # Get trees
@@ -437,11 +465,12 @@ legend.position   <- c(.5 , -.2)
  
 # plot & render -----------------------------------------------------------
 
-figure <- ggarrange(p1, p2, p3, p4, labels=c("A","B","C","D"), ncol=2, nrow=2)
-ggexport(figure,filename="../figures/composition_trees.pdf")
+figure <- ggarrange(p1, p2, p3, p4, labels=c("A","B","C","D"), font.label=list(size=56), ncol=2, nrow=2)
+#ggexport(figure,width=2000,height=2000,filename="../figures/composition_trees.jpg")
 
-# Open the saved TIFF file
-# browseURL("figures/malaise_taxonomy_se.tiff")
-# browseURL("figures/malaise_taxonomy_mg.tiff")
-# browseURL("figures/soil_taxonomy_se.tiff")
-# browseURL("figures/soil_taxonomy_mg.tiff")
+# Combine plots using patchwork with a common legend at the bottom
+ggsave(filename="../figures/composition_trees.jpg", width=8.3, height=8.3,
+       plot=p1 + p2 + p3 + p4 +
+       plot_layout(ncol=2, guides="collect") &
+       theme(legend.position="bottom"))
+
