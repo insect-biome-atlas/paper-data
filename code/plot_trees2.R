@@ -13,7 +13,6 @@ library(scico)
 library(scales)
 library(ggplot2)
 library(ggpubr)
-library(patchwork)
 
 # Include function for getting data
 old_dir <- getwd()
@@ -466,11 +465,5 @@ legend.position   <- c(.5 , -.2)
 # plot & render -----------------------------------------------------------
 
 figure <- ggarrange(p1, p2, p3, p4, labels=c("A","B","C","D"), font.label=list(size=56), ncol=2, nrow=2)
-#ggexport(figure,width=2000,height=2000,filename="../figures/composition_trees.jpg")
-
-# Combine plots using patchwork with a common legend at the bottom
-ggsave(filename="../figures/composition_trees.jpg", width=8.3, height=8.3,
-       plot=p1 + p2 + p3 + p4 +
-       plot_layout(ncol=2, guides="collect") &
-       theme(legend.position="bottom"))
+ggexport(figure,width=2000,height=2000,filename="../figures/composition_trees.jpg")
 
