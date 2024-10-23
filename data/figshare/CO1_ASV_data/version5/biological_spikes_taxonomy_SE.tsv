@@ -1,0 +1,7 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Species	n	Comment	BOLD_bin
+Animalia	Arthropoda	Insecta	Orthoptera	Gryllidae	Gryllodes	Gryllodes sigillatus	1	G. sigillatus is annotated as Gryllodes supplicans in our dataset, the name used by GBIF for the matching CO1 sequences	BOLD:ABW5620
+Animalia	Arthropoda	Insecta	Orthoptera	Gryllidae	Gryllus	Gryllus bimaculatus	1	NA	BOLD:ABX6319
+Animalia	Arthropoda	Insecta	Blattodea	Blattidae	Shelfordella	Shelfordella lateralis	2	NA	BOLD:AAG9959
+Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila serrata	1	NA	BOLD:AAU1484
+Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila bicornuta	3	NA	BOLD:AAV6760
+Animalia	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila jambulina	1	D. jambulina is annotated as unclassified.Drosophila in our datasets due to name ambiguity in the annotation of the corresponding BIN in BOLD	"BOLD:AAV6734; BOLD:AAL1587"
