@@ -1,4 +1,4 @@
-siteID	trapID	latitude_WGS84	longitude_WGS84	Locality	trap_habitat	malaise_trap_type	NILS_habitat	NILS_square	NILS_plot	trap_orientation_degrees_S	notes
+siteID	trapID	latitude_WGS84	longitude_WGS84	Locality	trap_habitat	malaise_trap_type	NILS_mhabitat	NILS_square	NILS_plot	trap_orientation_degrees_S	notes
 1	TKSUA6	55.56843	13.22241	SE, Skåne, Svedala kommun, Risemölla	forest	Multitrap	forest	4.0	4.0	190.0	
 1	TFFDRE	55.56674	13.2215	SE, Skåne, Svedala kommun, Risemölla	forest	Multitrap	forest	4.0	3.0	190.0	
 1	TGCHAV	55.56194	13.23522	SE, Skåne, Svedala kommun, Risemölla	forest	Multitrap	forest	4.0	10.0	220.0	
