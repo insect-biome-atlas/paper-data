@@ -162,6 +162,6 @@ pt3 <- make_barplot(soil_litter_se, 10, 5, max_tick=600, div=6)
 pt4 <- make_barplot(litter_mg, 10, 5, max_tick=1200, div=6)
 
 # Arrange plots and generate figure
-figure <- ggarrange(pt1, pt2, pt3, pt4, labels=c("A","B","C","D"), ncol=2, nrow=2)
+figure <- ggarrange(pt1, pt2, pt3, pt4, labels=c("a","b","c","d"), ncol=2, nrow=2)
 ggexport(figure,filename="../figures/composition_barcharts.pdf")
 
