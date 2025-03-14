@@ -15,7 +15,7 @@ library(grid)
 # Weights - read in data
 ##########################
 weights_IBA <- read.delim("../biomass_count_IBA.tsv", dec=",")
-weights_SIIP <- read.delim("../biomass_count_SIIP.tsv", dec=",")
+weights_SIIP <- read.delim("biomass_count_SIIP.tsv", fileEncoding = "UTF-16LE",dec=",")
 colnames(weights_IBA)[3:4] <- c("Wei","Ind")
 colnames(weights_SIIP)[12:13] <- c("Wei","Ind")
 
@@ -81,7 +81,7 @@ plotA <- ggplot(full_set, aes(Wei, Ind)) +
   geom_smooth(data=full_set, method = "lm", formula= y ~ 0 + x, se = TRUE) +
   annotate("text", x = 80, y = 52000, label = sprintf(paste0("y = ", round(coefficients_2[1], digits=0)," * x")), vjust = 3, hjust = 1, color = "blue") +
   annotate("text", x = 140, y = 49000, label = sprintf(paste0("95%% CI of slope: [", round(conf_intervals_2[1,1],digits=0),", ", round(conf_intervals_2[1,2],digits=0),"]")), vjust = 3, hjust = 1, color = "blue") +
-  labs(title = "A.",
+  labs(title = "a.",
        y = "No. of individuals",
        x = "Biomass (g)") +
   theme_minimal()+
@@ -97,7 +97,7 @@ plotB <- ggplot(full_set, aes(log10(Wei), log10(Ind))) +
   geom_smooth(data=full_set, method = "lm", formula= y ~ x , se = TRUE) +
   annotate("text", x = 1.35, y = log10(100000), label = sprintf(paste0("log10 y = ", round(coefficients_1[2], digits=2)," * log10 x + ", round(coefficients_1[1], digits=2))), vjust = 3, hjust = 1, color = "blue") +
   annotate("text", x = 1.2, y = log10(60000), label = sprintf(paste0("95%% CI of slope: [", round(conf_intervals_1[2,1],digits=2),", ", round(conf_intervals_1[2,2],digits=2),"]")), vjust = 3, hjust = 1, color = "blue") +
-  labs(title = "B.",
+  labs(title = "b.",
        y = "No. of individuals",
        x = "Biomass (g)") +
   theme_minimal()+
