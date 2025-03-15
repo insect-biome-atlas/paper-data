@@ -9,40 +9,40 @@ set.seed(10)
 # ---------------------------------------------------------------------------------------------
 
 # Spike in IDs 
-spike_ins_mg  <- fread("data/Biological_spikes_MG_taxonomy.tsv")
-spike_ins_se  <- fread("data/Biological_spikes_SE_taxonomy.tsv")
+spike_ins_mg  <- fread("data/biological_spikes_taxonomy_MG.tsv")
+spike_ins_se  <- fread("data/biological_spikes_taxonomy_SE.tsv")
 
 # --------------- Get sample IDs 
-seq_meta_se <- fread("data/co1_sequencing_metadata_se.tsv")
-seq_meta_mg <- fread("data/co1_sequencing_metadata_mg.tsv")
+seq_meta_se <- fread("data/Sweden/CO1_sequencing_metadata_SE_v2.tsv")
+seq_meta_mg <- fread("data/Madagascar/CO1_sequencing_metadata_MG_v2.tsv")
 
 # Sample meta
-trap_meta_se <- fread("data/samples_metadata_malaise_SE_2019.tsv")
-trap_meta_mg <- fread("data/samples_metadata_malaise_MG_2019.tsv")
+trap_meta_se <- fread("data/Sweden/samples_metadata_malaise_SE.tsv")
+trap_meta_mg <- fread("data/Madagascar/samples_metadata_malaise_MG.tsv")
 
 # Site meta
-site_meta_se <- fread("data/sites_metadata_SE_2019.tsv")
-site_meta_mg <- fread("data/sites_metadata_MG_2019.tsv")
+site_meta_se <- fread("data/Sweden/sites_metadata_SE.tsv")
+site_meta_mg <- fread("data/Madagascar/sites_metadata_MG.tsv")
 
 
 # ----------------- Get and clean cluster data
 # These files need downloading from figshare
 
-swe_clusters <- fread("data/non_numts_cleaned_SE.tsv") |>
+swe_clusters <- fread("data/cleaned_noise_filtered_cluster_taxonomy_SE.tsv") |>
   _[representative == 1 ,] |> 
   _[Phylum == "Arthropoda" ,] |> 
   _[!str_detect(Family , "_X*"),] |> 
   _[!str_detect(Species , paste(spike_ins_se$Species,collapse="|")),]
 
-mg_clusters  <- fread("data/non_numts_cleaned_SE.tsv") |>
+mg_clusters  <- fread("data/cleaned_noise_filtered_cluster_taxonomy_MG.tsv") |>
   _[representative == 1 ,] |> 
   _[Phylum == "Arthropoda" ,] |> 
   _[!str_detect(Family , "_X*"),] |> 
   _[!str_detect(Species , paste(spike_ins_mg$Species,collapse="|")),]
 
 # ------------ Get read numbers 
-swe_counts   <- fread("data/non_numts_cluster_counts_cleaned_SE.tsv")
-mg_counts    <- fread("data/non_numts_cluster_counts_cleaned_MG.tsv")
+swe_counts   <- fread("data/cleaned_noise_filtered_cluster_counts_SE.tsv")
+mg_counts    <- fread("data/cleaned_noise_filtered_cluster_counts_MG.tsv")
 
 
 # plotting pars -------------------------------------------------------------------------------
@@ -213,7 +213,7 @@ p4 <- ggplot(mgDF , aes(sites  , species))+
 # ---------------------------------------------------------------------------------------------
 
 # Traps
-traps_se_multi <- filter(site_meta_se , trap_type == "Multitrap") |> mutate(n_traps = n() , .by = siteID) 
+traps_se_multi <- filter(site_meta_se , malaise_trap_type == "Multitrap") |> mutate(n_traps = n() , .by = siteID) 
 traps_mg_multi <- filter(site_meta_mg , malaise_trap_type == "Multitrap") |> mutate(n_traps = n() , .by = siteID)
 
 # Iterate over multitrap sites for both countries. 
@@ -289,6 +289,7 @@ p6 <- bind_rows(mg_list) |>
 # plot all together ---------------------------------------------------------------------------
 
 tiff("figures/figure4.tiff" , width = 2000 , height = 2000 , compression = "lzw")
-(p1+p2) / (p5+p6) / (p3 + p4) + plot_annotation(tag_levels = "A")
+(p1+p2) / (p5+p6) / (p3 + p4) + plot_annotation(tag_levels = "a")
 dev.off()
 
+browseURL("figures/figure4.tiff")
